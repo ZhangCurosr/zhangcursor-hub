@@ -9,7 +9,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.1.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Quantized-Side-Tuning-Fast-and-Memory-Efficient-Tuning-of-Qu_8eb61532/full.md",
   "batch_id": "8eb61532-c104-4d0b-9291-0810a42d6478",
   "venue": "ACL 2024",
@@ -25,7 +25,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.100.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/UNICODER-Scaling-Code-Large-Language-Model-via-Universal-Cod_c79b78dd/full.md",
   "batch_id": "c79b78dd-06a5-4547-ae48-c909a8031a8d",
   "venue": "ACL 2024",
@@ -65,7 +65,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.105.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Towards-Faithful-and-Robust-LLM-Specialists-for-Evidence-Bas_53effcb4/full.md",
   "batch_id": "53effcb4-2ca6-4063-a42f-ccf23f154f52",
   "venue": "ACL 2024",
@@ -81,7 +81,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.107.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Self-Alignment-for-Factuality-Mitigating-Hallucinations-in-L_f1a909a9/full.md",
   "batch_id": "f1a909a9-5712-4371-bf24-8900a1dac031",
   "venue": "ACL 2024",
@@ -121,7 +121,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.111.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/ValueBench-Towards-Comprehensively-Evaluating-Value-Orientat_bbeb5045/full.md",
   "batch_id": "bbeb5045-5dae-4126-9577-9fe401bafef2",
   "venue": "ACL 2024",
@@ -137,7 +137,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.113.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/SPARSEFIT-Few-shot-Prompting-with-Sparse-Fine-tuning-for-Joi_de1fb3d4/full.md",
   "batch_id": "de1fb3d4-8702-4c01-b741-71c5da746957",
   "venue": "ACL 2024",
@@ -153,7 +153,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.115.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/REANO-Optimising-Retrieval-Augmented-Reader-Models-through-K_be3de3d2/full.md",
   "batch_id": "be3de3d2-95f2-4c12-94e4-02d78420e801",
   "venue": "ACL 2024",
@@ -185,7 +185,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.119.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/ToolSword-Unveiling-Safety-Issues-of-Large-Language-Models-i_f4640f78/full.md",
   "batch_id": "f4640f78-aed4-4a7b-a260-77b5f6eb2e90",
   "venue": "ACL 2024",
@@ -225,7 +225,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.123.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/VARIERR-NLI-Separating-Annotation-Error-from-Human-Label-Var_097ea066/full.md",
   "batch_id": "097ea066-1d83-4ce1-a1a8-b06251b545ac",
   "venue": "ACL 2024",
@@ -257,7 +257,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.127.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/TaxoLLaMA-WordNet-based-Model-for-Solving-Multiple-Lexical-S_5e71ec0e/full.md",
   "batch_id": "5e71ec0e-4779-4046-b2ff-028b10a95006",
   "venue": "ACL 2024",
@@ -281,7 +281,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.13.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Through-the-Lens-of-Split-Vote-Exploring-Disagreement-Diffic_99116341/full.md",
   "batch_id": "99116341-fbfb-4067-a6b6-6ef8b3b58dae",
   "venue": "ACL 2024",
@@ -289,7 +289,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.130.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Surgical-Feature-Space-Decomposition-of-LLMs-Why-When-and-Ho_33540420/full.md",
   "batch_id": "33540420-265a-477c-a910-ad95a0771927",
   "venue": "ACL 2024",
@@ -297,7 +297,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.131.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Reasoning-in-Flux-Enhancing-Large-Language-Models-Reasoning_dbdf96cf/full.md",
   "batch_id": "dbdf96cf-29c3-48c3-b70f-883aeb31e859",
   "venue": "ACL 2024",
@@ -313,7 +313,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.133.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Unlocking-Data-free-Low-bit-Quantization-with-Matrix-Decompo_bba94e66/full.md",
   "batch_id": "bba94e66-e259-4ea9-9e2a-0d3af70aca7a",
   "venue": "ACL 2024",
@@ -321,7 +321,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.134.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/VERIFINER-Verification-augmented-NER-via-Knowledge-grounded_0d45b73a/full.md",
   "batch_id": "0d45b73a-fa96-4426-a271-fef2a20ff672",
   "venue": "ACL 2024",
@@ -337,7 +337,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.136.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/TRANSLICO-A-Contrastive-Learning-Framework-to-Address-the-Sc_41fffb97/full.md",
   "batch_id": "41fffb97-f5bb-4230-8a9c-fddd803535fe",
   "venue": "ACL 2024",
@@ -377,7 +377,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.140.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/RLHFPoison-Reward-Poisoning-Attack-for-Reinforcement-Learnin_df141c3c/full.md",
   "batch_id": "df141c3c-0647-4edc-960c-1d5ba5848b50",
   "venue": "ACL 2024",
@@ -385,7 +385,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.141.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Time-is-Encoded-in-the-Weights-of-Finetuned-Language-Models_c850ccc8/full.md",
   "batch_id": "c850ccc8-acf9-4721-ab7a-d7c4a69b75ee",
   "venue": "ACL 2024",
@@ -401,7 +401,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.143.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/SirLLM-Streaming-Infinite-Retentive-LLM_5f05523d/full.md",
   "batch_id": "5f05523d-e4a7-4116-bebd-3a5ffbe94d3a",
   "venue": "ACL 2024",
@@ -481,7 +481,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.152.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Rethinking-Task-Oriented-Dialogue-Systems-From-Complex-Modul_8d37ede5/full.md",
   "batch_id": "8d37ede5-344b-431a-adcb-99a0dcefa888",
   "venue": "ACL 2024",
@@ -529,7 +529,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.158.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Through-the-MUD-A-Multi-Defendant-Charge-Prediction-Benchmar_f02c9fd8/full.md",
   "batch_id": "f02c9fd8-b314-42af-8a67-8ce5d7be6575",
   "venue": "ACL 2024",
@@ -553,7 +553,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.160.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Stumbling-Blocks-Stress-Testing-the-Robustness-of-Machine-Ge_c5a4ecad/full.md",
   "batch_id": "c5a4ecad-3911-45ae-8ec8-a84bfc6c8ec6",
   "venue": "ACL 2024",
@@ -561,7 +561,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.161.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Training-Language-Models-to-Generate-Text-with-Citations-via_4e6e326a/full.md",
   "batch_id": "4e6e326a-9447-4272-8522-e8d61467f47c",
   "venue": "ACL 2024",
@@ -585,7 +585,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.164.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Synergetic-Event-Understanding-A-Collaborative-Approach-to-C_8153b14e/full.md",
   "batch_id": "8153b14e-0287-4c2c-a5d4-901cf639c502",
   "venue": "ACL 2024",
@@ -609,7 +609,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.167.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Virtual-Compiler-Is-All-You-Need-For-Assembly-Code-Search_f0ec9341/full.md",
   "batch_id": "f0ec9341-00fd-4821-8067-d64daa6e54d9",
   "venue": "ACL 2024",
@@ -633,7 +633,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.17.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/SportsMetrics-Blending-Text-and-Numerical-Data-to-Understand_8c5759f4/full.md",
   "batch_id": "8c5759f4-a305-4346-ae6f-81f9d55049f9",
   "venue": "ACL 2024",
@@ -673,7 +673,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.174.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/UniBridge-A-Unified-Approach-to-Cross-Lingual-Transfer-Learn_2b631f18/full.md",
   "batch_id": "2b631f18-76db-4ff9-919e-71d2c13fb5e7",
   "venue": "ACL 2024",
@@ -681,7 +681,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.175.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/VISTA-Visualized-Text-Embedding-For-Universal-Multi-Modal-Re_57faf330/full.md",
   "batch_id": "57faf330-6539-4d62-8981-e54dd3963504",
   "venue": "ACL 2024",
@@ -705,7 +705,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.178.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Unified-Hallucination-Detection-for-Multimodal-Large-Languag_98c1242f/full.md",
   "batch_id": "98c1242f-79e7-4079-b1c3-8bf6161a8c00",
   "venue": "ACL 2024",
@@ -721,7 +721,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.18.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/SCIMON-Scientific-Inspiration-Machines-Optimized-for-Novelty_047cad89/full.md",
   "batch_id": "047cad89-5f53-4419-95b6-7bf70b4fe0d6",
   "venue": "ACL 2024",
@@ -753,7 +753,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.183.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/T2S-GPT-Dynamic-Vector-Quantization-for-Autoregressive-Sign_c225092d/full.md",
   "batch_id": "c225092d-779a-4e15-8a6e-2a5b7f03e934",
   "venue": "ACL 2024",
@@ -785,7 +785,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.187.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Timeline-based-Sentence-Decomposition-with-In-Context-Learni_5a1a2ff6/full.md",
   "batch_id": "5a1a2ff6-6bd5-4d16-bc22-2b445ed9427b",
   "venue": "ACL 2024",
@@ -801,7 +801,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.189.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Prompt-Expansion-for-Adaptive-Text-to-Image-Generation_ba53cb67/full.md",
   "batch_id": "ba53cb67-f0db-497b-a887-33d0c1ddc093",
   "venue": "ACL 2024",
@@ -817,7 +817,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.190.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Progressively-Modality-Freezing-for-Multi-Modal-Entity-Align_7d3c4746/full.md",
   "batch_id": "7d3c4746-ac94-44c5-b2b8-dc669b0c9600",
   "venue": "ACL 2024",
@@ -849,7 +849,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.2.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Unsupervised-Multimodal-Clustering-for-Semantics-Discovery-i_ea7f4048/full.md",
   "batch_id": "ea7f4048-c48e-4e63-9bcc-352e1ba22a8a",
   "venue": "ACL 2024",
@@ -865,7 +865,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.21.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Retrieval-Augmented-Multilingual-Knowledge-Editing_d791ff08/full.md",
   "batch_id": "d791ff08-36e3-485b-a19f-7ef319b2f794",
   "venue": "ACL 2024",
@@ -881,7 +881,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.23.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Subtle-Biases-Need-Subtler-Measures-Dual-Metrics-for-Evaluat_396ff99e/full.md",
   "batch_id": "396ff99e-0f26-4489-9fe0-68bc15145000",
   "venue": "ACL 2024",
@@ -905,7 +905,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.26.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/TTM-RE-Memory-Augmented-Document-Level-Relation-Extraction_b47eacd1/full.md",
   "batch_id": "b47eacd1-0348-465a-9687-a1f90e1188ea",
   "venue": "ACL 2024",
@@ -1169,7 +1169,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.56.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Reflect-RL-Two-Player-Online-RL-Fine-Tuning-for-LMs_5f557a61/full.md",
   "batch_id": "5f557a61-f3a6-47ea-8423-482ba861232e",
   "venue": "ACL 2024",
@@ -1185,7 +1185,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.58.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Self-Distillation-Bridges-Distribution-Gap-in-Language-Model_e194c62d/full.md",
   "batch_id": "e194c62d-333a-49c0-81e1-f8a22e5a2bb9",
   "venue": "ACL 2024",
@@ -1209,7 +1209,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.60.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/RORA-Robust-Free-Text-Rationale-Evaluation_9d4ba2df/full.md",
   "batch_id": "9d4ba2df-9f1c-4f05-8ef8-9aea54368e34",
   "venue": "ACL 2024",
@@ -1217,7 +1217,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.61.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Tell-Me-More-Towards-Implicit-User-Intention-Understanding-o_bf5c4b09/full.md",
   "batch_id": "bf5c4b09-2616-48e0-9a22-3bcedcda4583",
   "venue": "ACL 2024",
@@ -1257,7 +1257,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.66.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/TIMEBENCH-A-Comprehensive-Evaluation-of-Temporal-Reasoning-A_949b5c89/full.md",
   "batch_id": "949b5c89-95d9-47e0-ad82-b46d172badb5",
   "venue": "ACL 2024",
@@ -1281,7 +1281,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.69.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/TaSL-Continual-Dialog-State-Tracking-via-Task-Skill-Localiza_d484b359/full.md",
   "batch_id": "d484b359-3af7-447b-90f6-75f147636865",
   "venue": "ACL 2024",
@@ -1337,7 +1337,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.75.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Rewriting-the-Code-A-Simple-Method-for-Large-Language-Model_0688aec1/full.md",
   "batch_id": "0688aec1-fe59-419e-ace2-e96e602a376b",
   "venue": "ACL 2024",
@@ -1401,7 +1401,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.9.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Unsupervised-Information-Refinement-Training-of-Large-Langua_be383626/full.md",
   "batch_id": "be383626-99a2-4714-b9aa-5883ef59b9c4",
   "venue": "ACL 2024",
@@ -1473,7 +1473,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.98.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Selene-Pioneering-Automated-Proof-in-Software-Verification_f9b30f97/full.md",
   "batch_id": "f9b30f97-9d48-40de-bb2c-0f99aa25c53e",
   "venue": "ACL 2024",
@@ -1721,7 +1721,7 @@
  },
  {
   "source": "https://arxiv.org/pdf/2608.11676v1.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cs.AI-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.AI-001",
   "path": "2026-08-13/XBRIDGE-Entity-Grounded-Latent-Bridge-for-Heterogeneous-LLM_77318325/full.md",
   "batch_id": "77318325-e20e-4762-b329-503904524fbc",
   "venue": "arXiv",
@@ -1937,7 +1937,7 @@
  },
  {
   "source": "https://arxiv.org/pdf/2608.11951v1.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cs.AI-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.AI-001",
   "path": "2026-08-13/TailBooster-A-Dual-Layer-Generative-Framework-for-Extreme-Va_c7c3cdf3/full.md",
   "batch_id": "c7c3cdf3-e8a9-4ab7-9051-dee24a2a3006",
   "venue": "arXiv",
@@ -2537,7 +2537,7 @@
  },
  {
   "source": "https://arxiv.org/pdf/2608.11546v1.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-001",
   "path": "2026-08-13/Through-Van-Gogh-s-Eyes-Global-Style-Transfer-with-Difusion_a5d2afc9/full.md",
   "batch_id": "a5d2afc9-5892-4dac-a93a-53acd11f8ac3",
   "venue": "arXiv",
@@ -2609,7 +2609,7 @@
  },
  {
   "source": "https://arxiv.org/pdf/2608.11607v1.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-001",
   "path": "2026-08-13/Topology-Aware-Query-Selection-for-Surgical-Instrument-Insta_1b40fb74/full.md",
   "batch_id": "1b40fb74-5352-43c1-9bf0-8f69c90b19a0",
   "venue": "arXiv",
@@ -2617,7 +2617,7 @@
  },
  {
   "source": "https://arxiv.org/pdf/2608.11663v1.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-001",
   "path": "2026-08-13/Zero-OVCD-Bridging-Training-Free-Foundation-Models-and-Pseud_1fa6063a/full.md",
   "batch_id": "1fa6063a-1d89-48ca-be63-a5df1b55b0ad",
   "venue": "arXiv",
@@ -2633,7 +2633,7 @@
  },
  {
   "source": "https://arxiv.org/pdf/2608.11697v1.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-001",
   "path": "2026-08-13/Title-Boundary-Enhanced-Segmentation-of-Pig-Point-Clouds-in_4e27c43d/full.md",
   "batch_id": "4e27c43d-26de-4355-88fc-f87c673f0a19",
   "venue": "arXiv",
@@ -2681,7 +2681,7 @@
  },
  {
   "source": "https://arxiv.org/pdf/2608.11752v1.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-001",
   "path": "2026-08-13/UniSwap-Streaming-Audio-Visual-Identity-Swapping-for-Talking_db3087c7/full.md",
   "batch_id": "db3087c7-512b-4804-a0e9-460b8079be26",
   "venue": "arXiv",
@@ -2721,7 +2721,7 @@
  },
  {
   "source": "https://arxiv.org/pdf/2608.11777v1.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-001",
   "path": "2026-08-13/VOLA-IMPROVING-OPEN-WORLD-DRIVING-BY-VLM-BASEDSEMANTIC-ATTRI_fab1e49b/full.md",
   "batch_id": "fab1e49b-348b-4faf-80a1-6cb302f19f45",
   "venue": "arXiv",
@@ -2769,7 +2769,7 @@
  },
  {
   "source": "https://arxiv.org/pdf/2608.11820v1.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-001",
   "path": "2026-08-13/TD-VAD-Breaking-Visual-Dependence-in-Video-Anomaly-Detection_61a6cdd1/full.md",
   "batch_id": "61a6cdd1-33e3-4f90-92b1-5fe4125753f9",
   "venue": "arXiv",
@@ -2801,7 +2801,7 @@
  },
  {
   "source": "https://arxiv.org/pdf/2608.11860v1.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-001",
   "path": "2026-08-13/Two-Stage-Deformable-Convolutional-Inverse-Design-of-Nanopho_8784a61a/full.md",
   "batch_id": "8784a61a-ea01-49a4-bac2-08a2bede3837",
   "venue": "arXiv",
@@ -2809,7 +2809,7 @@
  },
  {
   "source": "https://arxiv.org/pdf/2608.11883v1.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-001",
   "path": "2026-08-13/Warping-Earth-Observations-for-better-ice-labeling-in-the-Ma_09bf603f/full.md",
   "batch_id": "09bf603f-53e3-4615-a724-55441a707a79",
   "venue": "arXiv",
@@ -2849,7 +2849,7 @@
  },
  {
   "source": "https://arxiv.org/pdf/2608.11938v1.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-001",
   "path": "2026-08-13/SURFSVR-2D-SURFACE-PRIORS-AS-3D-GEOMETRIC-REGULARIZERS-FOR-S_e9702da3/full.md",
   "batch_id": "e9702da3-5e00-4318-a23d-76f52e8a173b",
   "venue": "arXiv",
@@ -3201,7 +3201,7 @@
  },
  {
   "source": "https://arxiv.org/pdf/2608.11840v1.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cs.AI-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.AI-001",
   "path": "2026-08-13/User-Assisted-Collaborative-Distributed-Inference-for-Eficie_4aed1978/full.md",
   "batch_id": "4aed1978-ff92-4674-a9de-51e8cc96f1a7",
   "venue": "arXiv",
@@ -3409,7 +3409,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Aydemir_TempSAL_-_Uncovering_Temporal_Information_for_Deep_Saliency_Prediction_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/TempSAL-Uncovering-Temporal-Information-for-Deep-Saliency-Pr_5fb20c77/full.md",
   "batch_id": "5fb20c77-1505-48dc-9b36-439a05967322",
   "venue": "CVPR 2023",
@@ -3441,7 +3441,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Cai_RIAV-MVS_Recurrent-Indexing_an_Asymmetric_Volume_for_Multi-View_Stereo_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/RIAV-MVS-Recurrent-Indexing-an-Asymmetric-Volume-for-Multi-V_73a9dffd/full.md",
   "batch_id": "73a9dffd-79df-4954-a482-7c32778e5736",
   "venue": "CVPR 2023",
@@ -3457,7 +3457,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Carreira-Perpinan_Towards_Better_Decision_Forests_Forest_Alternating_Optimization_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Towards-Better-Decision-Forests-Forest-Alternating-Optimizat_bc22ee59/full.md",
   "batch_id": "bc22ee59-69f8-40c4-a7eb-9788110fccc8",
   "venue": "CVPR 2023",
@@ -3513,7 +3513,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Chen_TexPose_Neural_Texture_Learning_for_Self-Supervised_6D_Object_Pose_Estimation_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/TexPose-Neural-Texture-Learning-for-Self-Supervised-6D-Objec_959b36d8/full.md",
   "batch_id": "959b36d8-aa72-4a3a-bd7f-1c3cacfd8d2c",
   "venue": "CVPR 2023",
@@ -3521,7 +3521,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Cheng_SDFusion_Multimodal_3D_Shape_Completion_Reconstruction_and_Generation_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/SDFusion-Multimodal-3D-Shape-Completion-Reconstruction-and-G_8f9e6729/full.md",
   "batch_id": "8f9e6729-8152-4a3b-bb16-8d99ea1e395a",
   "venue": "CVPR 2023",
@@ -3529,7 +3529,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Cherti_Reproducible_Scaling_Laws_for_Contrastive_Language-Image_Learning_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Reproducible-scaling-laws-for-contrastive-language-image-lea_d139b333/full.md",
   "batch_id": "d139b333-74a9-4287-9d76-77b5b854eafd",
   "venue": "CVPR 2023",
@@ -3553,7 +3553,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Clarke_RealImpact_A_Dataset_of_Impact_Sound_Fields_for_Real_Objects_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/REALIMPACT-A-Dataset-of-Impact-Sound-Fields-for-Real-Objects_7cd52923/full.md",
   "batch_id": "7cd52923-c6dd-4535-b234-6e1cb2771ac2",
   "venue": "CVPR 2023",
@@ -3569,7 +3569,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/De_Plaen_Unbalanced_Optimal_Transport_A_Unified_Framework_for_Object_Detection_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Unbalanced-Optimal-Transport-A-Unified-Framework-for-Object_d8eef053/full.md",
   "batch_id": "d8eef053-203b-4d71-b8b3-685536b8aba2",
   "venue": "CVPR 2023",
@@ -3601,7 +3601,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Ding_PLA_Language-Driven_Open-Vocabulary_3D_Scene_Understanding_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/PLA-Language-Driven-Open-Vocabulary-3D-Scene-Understanding_c3db8a95/full.md",
   "batch_id": "c3db8a95-3906-4835-80a9-168ab1a6a735",
   "venue": "CVPR 2023",
@@ -3625,7 +3625,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Fini_Semi-Supervised_Learning_Made_Simple_With_Self-Supervised_Clustering_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Semi-supervised-learning-made-simple-with-self-supervised-cl_55acf89d/full.md",
   "batch_id": "55acf89d-45f3-4726-8806-e5a15b561ab3",
   "venue": "CVPR 2023",
@@ -3633,7 +3633,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Fischer_Plateau-Reduced_Differentiable_Path_Tracing_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Plateau-reduced-Differentiable-Path-Tracing_45ed9803/full.md",
   "batch_id": "45ed9803-5203-44e4-8959-589f1d98ab98",
   "venue": "CVPR 2023",
@@ -3657,7 +3657,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Guan_StyleSync_High-Fidelity_Generalized_and_Personalized_Lip_Sync_in_Style-Based_Generator_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/StyleSync-High-Fidelity-Generalized-and-Personalized-Lip-Syn_e3eb506f/full.md",
   "batch_id": "e3eb506f-175f-4a49-b6b6-24c7e5ef2c34",
   "venue": "CVPR 2023",
@@ -3689,7 +3689,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/He_Towards_Scalable_Neural_Representation_for_Diverse_Videos_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Towards-Scalable-Neural-Representation-for-Diverse-Videos_0d7fd727/full.md",
   "batch_id": "0d7fd727-b25c-4cf7-8de2-8fc13cc5f8ae",
   "venue": "CVPR 2023",
@@ -3705,7 +3705,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Hsu_PosterLayout_A_New_Benchmark_and_Approach_for_Content-Aware_Visual-Textual_Presentation_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/PosterLayout-A-New-Benchmark-and-Approach-for-Content-aware_b46c3848/full.md",
   "batch_id": "b46c3848-7443-422e-a610-216860e01979",
   "venue": "CVPR 2023",
@@ -3713,7 +3713,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Huang_Revisiting_Residual_Networks_for_Adversarial_Robustness_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Revisiting-Residual-Networks-for-Adversarial-Robustness_2ae7f026/full.md",
   "batch_id": "2ae7f026-5bf3-4b19-be81-ac53fbe05a3b",
   "venue": "CVPR 2023",
@@ -3721,7 +3721,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Huang_Style_Projected_Clustering_for_Domain_Generalized_Semantic_Segmentation_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Style-Projected-Clustering-for-Domain-Generalized-Semantic-S_0b90632f/full.md",
   "batch_id": "0b90632f-bbc4-4909-b298-05e90514ebd9",
   "venue": "CVPR 2023",
@@ -3745,7 +3745,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Jiang_Robust_Outlier_Rejection_for_3D_Registration_With_Variational_Bayes_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Robust-Outlier-Rejection-for-3D-Registration-with-Variationa_22600113/full.md",
   "batch_id": "22600113-deeb-482a-b48c-9c80ea4a3728",
   "venue": "CVPR 2023",
@@ -3761,7 +3761,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Jung_On_the_Importance_of_Accurate_Geometry_Data_for_Dense_3D_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/On-the-Importance-of-Accurate-Geometry-Data-for-Dense-3D-Vis_009c0982/full.md",
   "batch_id": "009c0982-7838-43b5-801e-44318e82cfc3",
   "venue": "CVPR 2023",
@@ -3801,7 +3801,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Koley_Picture_That_Sketch_Photorealistic_Image_Generation_From_Abstract_Sketches_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Picture-that-Sketch-Photorealistic-Image-Generation-from-Abs_0fc4c5e1/full.md",
   "batch_id": "0fc4c5e1-80e3-4586-b340-f7d86c5b7707",
   "venue": "CVPR 2023",
@@ -3809,7 +3809,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Kong_Understanding_Masked_Autoencoders_via_Hierarchical_Latent_Variable_Models_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Understanding-Masked-Autoencoders-via-Hierarchical-Latent-Va_995b17fb/full.md",
   "batch_id": "995b17fb-7837-4693-b912-3d2d2c07b118",
   "venue": "CVPR 2023",
@@ -3881,7 +3881,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Li_Photo_Pre-Training_but_for_Sketch_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Photo-Pre-Training-But-for-Sketch_21bef8dd/full.md",
   "batch_id": "21bef8dd-30c7-4dd9-853a-84af3b76a8bb",
   "venue": "CVPR 2023",
@@ -3889,7 +3889,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Li_SCConv_Spatial_and_Channel_Reconstruction_Convolution_for_Feature_Redundancy_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/SCConv-Spatial-and-Channel-Reconstruction-Convolution-for-Fe_57491cf7/full.md",
   "batch_id": "57491cf7-0d44-4928-8b7f-cebad1b001fe",
   "venue": "CVPR 2023",
@@ -3897,7 +3897,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Li_SIM_Semantic-Aware_Instance_Mask_Generation_for_Box-Supervised_Instance_Segmentation_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/SIM-Semantic-aware-Instance-Mask-Generation-for-Box-Supervis_c580e568/full.md",
   "batch_id": "c580e568-48fd-429b-bbf1-0913e9f4ebc9",
   "venue": "CVPR 2023",
@@ -3905,7 +3905,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Li_Uni-Perceiver_v2_A_Generalist_Model_for_Large-Scale_Vision_and_Vision-Language_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Uni-Perceiver-v2-A-Generalist-Model-for-Large-Scale-Vision-a_166d58c0/full.md",
   "batch_id": "166d58c0-029d-4cbc-9935-0f8897deadfc",
   "venue": "CVPR 2023",
@@ -3937,7 +3937,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Liu_Revisiting_Temporal_Modeling_for_CLIP-Based_Image-to-Video_Knowledge_Transferring_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Revisiting-Temporal-Modeling-for-CLIP-based-Image-to-Video-K_09cd5069/full.md",
   "batch_id": "09cd5069-79ab-4ddc-9295-7108e74981da",
   "venue": "CVPR 2023",
@@ -3945,7 +3945,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Liu_VLPD_Context-Aware_Pedestrian_Detection_via_Vision-Language_Semantic_Self-Supervision_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/VLPD-Context-Aware-Pedestrian-Detection-via-Vision-Language_c9a1f2c0/full.md",
   "batch_id": "c9a1f2c0-3bda-4442-a66a-1fadf9b3985c",
   "venue": "CVPR 2023",
@@ -3969,7 +3969,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Luo_SIEDOB_Semantic_Image_Editing_by_Disentangling_Object_and_Background_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/SIEDOB-Semantic-Image-Editing-by-Disentangling-Object-and-Ba_c4dc09fd/full.md",
   "batch_id": "c4dc09fd-597e-4c06-940d-a1895f5f4ab4",
   "venue": "CVPR 2023",
@@ -4017,7 +4017,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Pavllo_Shape_Pose_and_Appearance_From_a_Single_Image_via_Bootstrapped_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Shape-Pose-and-Appearance-from-a-Single-Image-via-Bootstrapp_e15375cd/full.md",
   "batch_id": "e15375cd-a14c-4780-95c3-6e385718eba9",
   "venue": "CVPR 2023",
@@ -4033,7 +4033,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Pehlivan_StyleRes_Transforming_the_Residuals_for_Real_Image_Editing_With_StyleGAN_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/StyleRes-Transforming-the-Residuals-for-Real-Image-Editing-w_a9c8d4d1/full.md",
   "batch_id": "a9c8d4d1-0cc7-4cc8-9e8b-62dcd411aa56",
   "venue": "CVPR 2023",
@@ -4041,7 +4041,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Qin_Robust_3D_Shape_Classification_via_Non-Local_Graph_Attention_Network_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Robust-3D-Shape-Classification-via-Non-local-Graph-Attention_1e8ab287/full.md",
   "batch_id": "1e8ab287-409e-4403-9864-6f15e84b1360",
   "venue": "CVPR 2023",
@@ -4065,7 +4065,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Ramanathan_PACO_Parts_and_Attributes_of_Common_Objects_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/PACO-Parts-and-Attributes-of-Common-Objects_646ddb17/full.md",
   "batch_id": "646ddb17-c415-4642-b1ae-37d396eb77b5",
   "venue": "CVPR 2023",
@@ -4097,7 +4097,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Sarto_Positive-Augmented_Contrastive_Learning_for_Image_and_Video_Captioning_Evaluation_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Positive-Augmented-Contrastive-Learning-for-Image-and-Video_5e509275/full.md",
   "batch_id": "5e509275-fd51-416a-bfe4-0318beae3975",
   "venue": "CVPR 2023",
@@ -4105,7 +4105,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Shang_Post-Training_Quantization_on_Diffusion_Models_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Post-training-Quantization-on-Diffusion-Models_3a453e05/full.md",
   "batch_id": "3a453e05-fa24-43be-9d4e-7c99b4260ffc",
   "venue": "CVPR 2023",
@@ -4113,7 +4113,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Shen_Progressive_Transformation_Learning_for_Leveraging_Virtual_Images_in_Training_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Progressive-Transformation-Learning-for-Leveraging-Virtual-I_a3b795da/full.md",
   "batch_id": "a3b795da-5cee-4fa8-88a3-82007082e447",
   "venue": "CVPR 2023",
@@ -4121,7 +4121,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Shen_Self-Supervised_3D_Scene_Flow_Estimation_Guided_by_Superpoints_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Self-Supervised-3D-Scene-Flow-Estimation-Guided-by-Superpoin_5a56df68/full.md",
   "batch_id": "5a56df68-2080-463a-ae2e-1580b1a8d282",
   "venue": "CVPR 2023",
@@ -4129,7 +4129,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Shin_SDC-UDA_Volumetric_Unsupervised_Domain_Adaptation_Framework_for_Slice-Direction_Continuous_Cross-Modality_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/SDC-UDA-Volumetric-Unsupervised-Domain-Adaptation-Framework_354521fe/full.md",
   "batch_id": "354521fe-4cf1-4fd7-a333-31e65ac48e2f",
   "venue": "CVPR 2023",
@@ -4137,7 +4137,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Simeoni_Unsupervised_Object_Localization_Observing_the_Background_To_Discover_Objects_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Unsupervised-Object-Localization-Observing-the-Background-to_7bdf2087/full.md",
   "batch_id": "7bdf2087-08d4-4817-817a-3156bf88749f",
   "venue": "CVPR 2023",
@@ -4145,7 +4145,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Song_Optimal_Proposal_Learning_for_Deployable_End-to-End_Pedestrian_Detection_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Optimal-Proposal-Learning-for-Deployable-End-to-End-Pedestri_956bc917/full.md",
   "batch_id": "956bc917-ae0a-493c-9d86-2957992e2f14",
   "venue": "CVPR 2023",
@@ -4153,7 +4153,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Sui_ScanDMM_A_Deep_Markov_Model_of_Scanpath_Prediction_for_360deg_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/ScanDMM-A-Deep-Markov-Model-of-Scanpath-Prediction-for-360-s_8a7b0cd9/full.md",
   "batch_id": "8a7b0cd9-e456-45e5-aa93-72145a6cccd9",
   "venue": "CVPR 2023",
@@ -4289,7 +4289,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Wang_Semantic_Scene_Completion_With_Cleaner_Self_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Semantic-Scene-Completion-with-Cleaner-Self_d4d82f81/full.md",
   "batch_id": "d4d82f81-9b74-4b56-96b2-87887b1cbc48",
   "venue": "CVPR 2023",
@@ -4297,7 +4297,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Wang_Towards_Professional_Level_Crowd_Annotation_of_Expert_Domain_Data_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Towards-Professional-Level-Crowd-Annotation-of-Expert-Domain_40093542/full.md",
   "batch_id": "40093542-4ab9-419b-84c4-753902795ab5",
   "venue": "CVPR 2023",
@@ -4305,7 +4305,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Weber_Power_Bundle_Adjustment_for_Large-Scale_3D_Reconstruction_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Power-Bundle-Adjustment-for-Large-Scale-3D-Reconstruction_82f0ee15/full.md",
   "batch_id": "82f0ee15-9001-4f97-b2d8-f68aaba66b19",
   "venue": "CVPR 2023",
@@ -4369,7 +4369,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Wu_Spatiotemporal_Self-Supervised_Learning_for_Point_Clouds_in_the_Wild_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Spatiotemporal-Self-supervised-Learning-for-Point-Clouds-in_9820a0c4/full.md",
   "batch_id": "9820a0c4-81de-4216-b1c3-73a2e7b6d62f",
   "venue": "CVPR 2023",
@@ -4409,7 +4409,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Xu_Open-Vocabulary_Panoptic_Segmentation_With_Text-to-Image_Diffusion_Models_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Open-Vocabulary-Panoptic-Segmentation-with-Text-to-Image-Dif_78045e81/full.md",
   "batch_id": "78045e81-6221-4033-be65-fc9b914c8e5e",
   "venue": "CVPR 2023",
@@ -4417,7 +4417,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Xu_Q-DETR_An_Efficient_Low-Bit_Quantized_Detection_Transformer_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Q-DETR-An-Efficient-Low-Bit-Quantized-Detection-Transformer_beb448ed/full.md",
   "batch_id": "beb448ed-3b5c-46e7-a8e4-9edec3357860",
   "venue": "CVPR 2023",
@@ -4425,7 +4425,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Xue_SFD2_Semantic-Guided_Feature_Detection_and_Description_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/SFD2-Semantic-guided-Feature-Detection-and-Description-sup-E_e7bfefe2/full.md",
   "batch_id": "e7bfefe2-9f89-4edf-8999-498d522c0342",
   "venue": "CVPR 2023",
@@ -4433,7 +4433,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Yan_SMAE_Few-Shot_Learning_for_HDR_Deghosting_With_Saturation-Aware_Masked_Autoencoders_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/SMAE-Few-shot-Learning-for-HDR-Deghosting-with-Saturation-Aw_05234aa6/full.md",
   "batch_id": "05234aa6-b31c-4559-84a8-14339029d8a9",
   "venue": "CVPR 2023",
@@ -4465,7 +4465,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Yang_QPGesture_Quantization-Based_and_Phase-Guided_Motion_Matching_for_Natural_Speech-Driven_Gesture_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/QPGesture-Quantization-Based-and-Phase-Guided-Motion-Matchin_12012e96/full.md",
   "batch_id": "12012e96-df92-4122-a43e-2f41109cc7f2",
   "venue": "CVPR 2023",
@@ -4473,7 +4473,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Yang_Towards_Effective_Adversarial_Textured_3D_Meshes_on_Physical_Face_Recognition_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Towards-Effective-Adversarial-Textured-3D-Meshes-on-Physical_003c11e6/full.md",
   "batch_id": "003c11e6-d483-43d5-8cf8-92d4c597117a",
   "venue": "CVPR 2023",
@@ -4481,7 +4481,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Yang_UniSim_A_Neural_Closed-Loop_Sensor_Simulator_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/UniSim-A-Neural-Closed-Loop-Sensor-Simulator_a1c0d1a5/full.md",
   "batch_id": "a1c0d1a5-2fb8-4fae-93cc-21e6e8de7819",
   "venue": "CVPR 2023",
@@ -4529,7 +4529,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Yu_On_the_Difficulty_of_Unpaired_Infrared-to-Visible_Video_Translation_Fine-Grained_Content-Rich_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/On-the-Difficulty-of-Unpaired-Infrared-to-Visible-Video-Tran_ff5b952b/full.md",
   "batch_id": "ff5b952b-bdc5-4c1e-89fa-0160b9b9a357",
   "venue": "CVPR 2023",
@@ -4617,7 +4617,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Zhang_PromptCAL_Contrastive_Affinity_Learning_via_Auxiliary_Prompts_for_Generalized_Novel_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/PromptCAL-Contrastive-Affinity-Learning-via-Auxiliary-Prompt_6555c4de/full.md",
   "batch_id": "6555c4de-cd7d-4633-9cbf-defd17e8f33e",
   "venue": "CVPR 2023",
@@ -4625,7 +4625,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Zhang_Seeing_a_Rose_in_Five_Thousand_Ways_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Seeing-a-Rose-in-Five-Thousand-Ways_279e71b0/full.md",
   "batch_id": "279e71b0-94aa-4a10-b7a2-f6a07d7cd367",
   "venue": "CVPR 2023",
@@ -4633,7 +4633,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Zhang_Starting_From_Non-Parametric_Networks_for_3D_Point_Cloud_Analysis_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Starting-from-Non-Parametric-Networks-for-3D-Point-Cloud-Ana_8694b251/full.md",
   "batch_id": "8694b251-f1a6-4f60-968d-e0a8c3566165",
   "venue": "CVPR 2023",
@@ -4641,7 +4641,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Zhang_Unlearnable_Clusters_Towards_Label-Agnostic_Unlearnable_Examples_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Unlearnable-Clusters-Towards-Label-agnostic-Unlearnable-Exam_e4fe9b35/full.md",
   "batch_id": "e4fe9b35-96c0-44f3-af96-6c297087155d",
   "venue": "CVPR 2023",
@@ -4657,7 +4657,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Zhao_The_Resource_Problem_of_Using_Linear_Layer_Leakage_Attack_in_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/The-Resource-Problem-of-Using-Linear-Layer-Leakage-Attack-in_7013b5ed/full.md",
   "batch_id": "7013b5ed-665d-4210-8eb2-5e007c1129d1",
   "venue": "CVPR 2023",
@@ -4681,7 +4681,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Zhou_UDE_A_Unified_Driving_Engine_for_Human_Motion_Generation_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/UDE-A-Unified-Driving-Engine-for-Human-Motion-Generation_ddf483b9/full.md",
   "batch_id": "ddf483b9-2441-4f81-9c93-eaf7bd6b0351",
   "venue": "CVPR 2023",
@@ -4697,7 +4697,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Zhu_TryOnDiffusion_A_Tale_of_Two_UNets_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/TryOnDiffusion-A-Tale-of-Two-UNets_2487ef07/full.md",
   "batch_id": "2487ef07-f437-4fce-ac05-e308df78a138",
   "venue": "CVPR 2023",
@@ -4705,7 +4705,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Zhu_VDN-NeRF_Resolving_Shape-Radiance_Ambiguity_via_View-Dependence_Normalization_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/VDN-NeRF-Resolving-Shape-Radiance-Ambiguity-via-View-Depende_67d9b5d0/full.md",
   "batch_id": "67d9b5d0-a1c6-463d-bdb3-c5cd609e867c",
   "venue": "CVPR 2023",
@@ -4713,7 +4713,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Ali_PairDETR__Joint_Detection_and_Association_of_Human_Bodies_and_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/PairDETR-Joint-Detection-and-Association-of-Human-Bodies-and_f4b06764/full.md",
   "batch_id": "f4b06764-1aad-4397-9c14-10aae6f64e18",
   "venue": "CVPR 2024",
@@ -4721,7 +4721,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Cha_Text2HOI_Text-guided_3D_Motion_Generation_for_Hand-Object_Interaction_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Text2HOI-Text-guided-3D-Motion-Generation-for-Hand-Object-In_65c24813/full.md",
   "batch_id": "65c24813-455a-4ca6-8f1a-1ec4eb9fad58",
   "venue": "CVPR 2024",
@@ -4729,7 +4729,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Chan_Improving_Subject-Driven_Image_Synthesis_with_Subject-Agnostic_Guidance_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Improving-Subject-Driven-Image-Synthesis-with-Subject-Agnost_e3cd4bce/full.md",
   "batch_id": "e3cd4bce-f817-45a8-987d-1a02c63e5633",
   "venue": "CVPR 2024",
@@ -4761,7 +4761,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Chen_PeLK_Parameter-efficient_Large_Kernel_ConvNets_with_Peripheral_Convolution_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/PeLK-Parameter-efficient-Large-Kernel-ConvNets-with-Peripher_67675b37/full.md",
   "batch_id": "67675b37-c6f9-4b95-af86-76fcc987fd0f",
   "venue": "CVPR 2024",
@@ -4769,7 +4769,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Chen_RobustSAM_Segment_Anything_Robustly_on_Degraded_Images_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/RobustSAM-Segment-Anything-Robustly-on-Degraded-Images_463b00ef/full.md",
   "batch_id": "463b00ef-e4b4-451b-a70e-b374d492e38f",
   "venue": "CVPR 2024",
@@ -4777,7 +4777,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Chen_SDPose_Tokenized_Pose_Estimation_via_Circulation-Guide_Self-Distillation_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/SDPose-Tokenized-Pose-Estimation-via-Circulation-Guide-Self_903e29da/full.md",
   "batch_id": "903e29da-f53a-493e-80fb-f66fe3c6c2ae",
   "venue": "CVPR 2024",
@@ -4785,7 +4785,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Chen_Towards_Memorization-Free_Diffusion_Models_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Towards-Memorization-Free-Diffusion-Models_b46125d2/full.md",
   "batch_id": "b46125d2-a544-4317-b18f-c4f40af27534",
   "venue": "CVPR 2024",
@@ -4793,7 +4793,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Cheng_Unleashing_the_Potential_of_SAM_for_Medical_Adaptation_via_Hierarchical_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Unleashing-the-Potential-of-SAM-for-Medical-Adaptation-via-H_b616e3fc/full.md",
   "batch_id": "b616e3fc-30d9-4a07-aeb0-954369b32f9d",
   "venue": "CVPR 2024",
@@ -4809,7 +4809,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Cho_One-Shot_Structure-Aware_Stylized_Image_Synthesis_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/One-Shot-Structure-Aware-Stylized-Image-Synthesis_8314c0e8/full.md",
   "batch_id": "8314c0e8-114b-4fcf-89ed-73c46675208d",
   "venue": "CVPR 2024",
@@ -4833,7 +4833,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Ding_Restoration_by_Generation_with_Constrained_Priors_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Restoration-by-Generation-with-Constrained-Priors_6591cc1c/full.md",
   "batch_id": "6591cc1c-368d-4fe9-8d77-5fd5ae814a67",
   "venue": "CVPR 2024",
@@ -4841,7 +4841,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Dunkel_Normalizing_Flows_on_the_Product_Space_of_SO3_Manifolds_for_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Normalizing-Flows-on-the-Product-Space-of-SO-3-Manifolds-for_b280d7e4/full.md",
   "batch_id": "b280d7e4-a91d-4188-bf04-f6c2f1d4947e",
   "venue": "CVPR 2024",
@@ -4873,7 +4873,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Feng_Stratified_Avatar_Generation_from_Sparse_Observations_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Stratified-Avatar-Generation-from-Sparse-Observations_0da0b88c/full.md",
   "batch_id": "0da0b88c-337a-4a9d-8fbf-a9ef42c446cc",
   "venue": "CVPR 2024",
@@ -4889,7 +4889,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Gao_SD2EventSelf-supervised_Learning_of_Dynamic_Detectors_and_Contextual_Descriptors_for_Event_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/SD2Event-Self-supervised-Learning-of-Dynamic-Detectors-and-C_4909f4b6/full.md",
   "batch_id": "4909f4b6-07de-4f5f-86b3-34a9d612f9ef",
   "venue": "CVPR 2024",
@@ -4905,7 +4905,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Gu_Rethinking_the_Objectives_of_Vector-Quantized_Tokenizers_for_Image_Synthesis_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Rethinking-the-Objectives-of-Vector-Quantized-Tokenizers-for_d24bdf5b/full.md",
   "batch_id": "d24bdf5b-ef52-449d-9de1-5e7794307fd9",
   "venue": "CVPR 2024",
@@ -4913,7 +4913,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Guo_In-Context_Matting_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/In-Context-Matting_ad34e656/full.md",
   "batch_id": "ad34e656-5a6c-4f9d-afee-c1a56e7b4cc7",
   "venue": "CVPR 2024",
@@ -4921,7 +4921,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Guo_Smooth_Diffusion_Crafting_Smooth_Latent_Spaces_in_Diffusion_Models_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Smooth-Diffusion-Crafting-Smooth-Latent-Spaces-in-Diffusion_69507ddb/full.md",
   "batch_id": "69507ddb-3aa0-4884-88a1-f5dc37c979a6",
   "venue": "CVPR 2024",
@@ -4929,7 +4929,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Hollein_ViewDiff_3D-Consistent_Image_Generation_with_Text-to-Image_Models_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/ViewDiff-3D-Consistent-Image-Generation-with-Text-to-Image-M_275710a6/full.md",
   "batch_id": "275710a6-f778-4b99-adbc-56f6182759ee",
   "venue": "CVPR 2024",
@@ -4937,7 +4937,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Horita_Retrieval-Augmented_Layout_Transformer_for_Content-Aware_Layout_Generation_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Retrieval-Augmented-Layout-Transformer-for-Content-Aware-Lay_5614ab82/full.md",
   "batch_id": "5614ab82-678f-4241-bb20-2a5622149f82",
   "venue": "CVPR 2024",
@@ -4945,7 +4945,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Hu_IQ-VFI_Implicit_Quadratic_Motion_Estimation_for_Video_Frame_Interpolation_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/IQ-VFI-Implicit-Quadratic-Motion-Estimation-for-Video-Frame_4bf6d1f0/full.md",
   "batch_id": "4bf6d1f0-3f88-4366-93cb-a4b4cad188f7",
   "venue": "CVPR 2024",
@@ -4953,7 +4953,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Hu_SurMo_Surface-based_4D_Motion_Modeling_for_Dynamic_Human_Rendering_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/SurMo-Surface-based-4D-Motion-Modeling-for-Dynamic-Human-Ren_fd08183d/full.md",
   "batch_id": "fd08183d-3fbb-4499-9db1-a785b23f9bee",
   "venue": "CVPR 2024",
@@ -4977,7 +4977,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Jiang_Scaling_Up_Dynamic_Human-Scene_Interaction_Modeling_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Scaling-Up-Dynamic-Human-Scene-Interaction-Modeling_c60919a2/full.md",
   "batch_id": "c60919a2-9ca0-4acc-afab-72e4438bfa07",
   "venue": "CVPR 2024",
@@ -4993,7 +4993,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Kim_KeyPoint_Relative_Position_Encoding_for_Face_Recognition_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/KeyPoint-Relative-Position-Encoding-for-Face-Recognition_e00924d4/full.md",
   "batch_id": "e00924d4-3ed5-43cd-a243-b2d1676dee96",
   "venue": "CVPR 2024",
@@ -5001,7 +5001,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Kim_Selectively_Informative_Description_can_Reduce_Undesired_Embedding_Entanglements_in_Text-to-Image_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Selectively-Informative-Description-can-Reduce-Undesired-Emb_a1bd190a/full.md",
   "batch_id": "a1bd190a-a596-4709-8d77-9a0d8b95e8dc",
   "venue": "CVPR 2024",
@@ -5009,7 +5009,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Lee_Learning_to_Control_Camera_Exposure_via_Reinforcement_Learning_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Learning-to-Control-Camera-Exposure-via-Reinforcement-Learni_c37a4f6b/full.md",
   "batch_id": "c37a4f6b-1375-4612-9224-90a1fea5635d",
   "venue": "CVPR 2024",
@@ -5017,7 +5017,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Lee_Mocap_Everyone_Everywhere_Lightweight_Motion_Capture_With_Smartwatches_and_a_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Mocap-Everyone-Everywhere-Lightweight-Motion-Capture-With-Sm_e7409596/full.md",
   "batch_id": "e7409596-5c32-4671-a1bc-841cf52a79eb",
   "venue": "CVPR 2024",
@@ -5033,7 +5033,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Li_PhotoMaker_Customizing_Realistic_Human_Photos_via_Stacked_ID_Embedding_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/PhotoMaker-Customizing-Realistic-Human-Photos-via-Stacked-ID_7f54fb14/full.md",
   "batch_id": "7f54fb14-1d74-44b9-ab32-1768f9cadf45",
   "venue": "CVPR 2024",
@@ -5041,7 +5041,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Li_SfmCAD_Unsupervised_CAD_Reconstruction_by_Learning_Sketch-based_Feature_Modeling_Operations_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/SfmCAD-Unsupervised-CAD-Reconstruction-by-Learning-Sketch-ba_2170f984/full.md",
   "batch_id": "2170f984-8548-4ae2-a144-55f1de153d16",
   "venue": "CVPR 2024",
@@ -5057,7 +5057,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Liao_VINECS_Video-based_Neural_Character_Skinning_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/VINECS-Video-based-Neural-Character-Skinning_998605c2/full.md",
   "batch_id": "998605c2-0308-4143-8a2f-994c5e6a17c0",
   "venue": "CVPR 2024",
@@ -5065,7 +5065,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Lin_Text-Driven_Image_Editing_via_Learnable_Regions_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Text-Driven-Image-Editing-via-Learnable-Regions_e0412d80/full.md",
   "batch_id": "e0412d80-3b71-4b6c-97bf-df1bf6f6f999",
   "venue": "CVPR 2024",
@@ -5097,7 +5097,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Lu_MACE_Mass_Concept_Erasure_in_Diffusion_Models_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/MACE-Mass-Concept-Erasure-in-Diffusion-Models_5bb606ca/full.md",
   "batch_id": "5bb606ca-b08b-4a2c-95bb-5f8046c48c5f",
   "venue": "CVPR 2024",
@@ -5105,7 +5105,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Lv_PLACE_Adaptive_Layout-Semantic_Fusion_for_Semantic_Image_Synthesis_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/PLACE-Adaptive-Layout-Semantic-Fusion-for-Semantic-Image-Syn_847ff5e9/full.md",
   "batch_id": "847ff5e9-94d3-425a-a622-7cde0cfb7e7b",
   "venue": "CVPR 2024",
@@ -5121,7 +5121,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Ma_Rewrite_the_Stars_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Rewrite-the-Stars_20955fad/full.md",
   "batch_id": "20955fad-e443-4be4-991f-72ba09424468",
   "venue": "CVPR 2024",
@@ -5129,7 +5129,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Magnet_Memory-Scalable_and_Simplified_Functional_Map_Learning_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Memory-Scalable-and-Simplified-Functional-Map-Learning_f063a607/full.md",
   "batch_id": "f063a607-0789-4a34-84d4-43394c057614",
   "venue": "CVPR 2024",
@@ -5137,7 +5137,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Mai_RankMatch_Exploring_the_Better_Consistency_Regularization_for_Semi-supervised_Semantic_Segmentation_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/RankMatch-Exploring-the-Better-Consistency-Regularization-fo_84300f34/full.md",
   "batch_id": "84300f34-28b6-44af-979b-9d372b004c4d",
   "venue": "CVPR 2024",
@@ -5153,7 +5153,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Miller_Objects_as_Volumes_A_Stochastic_Geometry_View_of_Opaque_Solids_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Objects-as-volumes-A-stochastic-geometry-view-of-opaque-soli_e535e748/full.md",
   "batch_id": "e535e748-bd46-43af-9edc-86efe28af201",
   "venue": "CVPR 2024",
@@ -5169,7 +5169,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Mitchel_Single_Mesh_Diffusion_Models_with_Field_Latents_for_Texture_Generation_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Single-Mesh-Diffusion-Models-with-Field-Latents-for-Texture_bb4b32d1/full.md",
   "batch_id": "bb4b32d1-4b76-495b-b353-a9d26f5cde22",
   "venue": "CVPR 2024",
@@ -5209,7 +5209,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Pokhariya_MANUS_Markerless_Grasp_Capture_using_Articulated_3D_Gaussians_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/MANUS-Markerless-Grasp-Capture-using-Articulated-3D-Gaussian_a302e7d4/full.md",
   "batch_id": "a302e7d4-14ff-4bfd-8b39-a79f6ac1e4fe",
   "venue": "CVPR 2024",
@@ -5241,7 +5241,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Roheda_MR-VNet_Media_Restoration_using_Volterra_Networks_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/MR-VNet-Media-Restoration-using-Volterra-Networks_76f5ae0f/full.md",
   "batch_id": "76f5ae0f-d23e-409c-9da9-402fc465d35c",
   "venue": "CVPR 2024",
@@ -5273,7 +5273,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Sargent_ZeroNVS_Zero-Shot_360-Degree_View_Synthesis_from_a_Single_Image_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/ZeroNVS-Zero-Shot-360-Degree-View-Synthesis-from-a-Single-Im_8cabb9bc/full.md",
   "batch_id": "8cabb9bc-fdf5-41c4-8a12-1e187290056e",
   "venue": "CVPR 2024",
@@ -5281,7 +5281,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Shang_Prompt-Driven_Referring_Image_Segmentation_with_Instance_Contrasting_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Prompt-Driven-Referring-Image-Segmentation-with-Instance-Con_0df599d4/full.md",
   "batch_id": "0df599d4-00f3-4f2a-9a40-b72ef578274b",
   "venue": "CVPR 2024",
@@ -5289,7 +5289,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Shi_InstantBooth_Personalized_Text-to-Image_Generation_without_Test-Time_Finetuning_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/InstantBooth-Personalized-Text-to-Image-Generation-without-T_8174c1a6/full.md",
   "batch_id": "8174c1a6-a31a-4fa2-a960-5a78189a963d",
   "venue": "CVPR 2024",
@@ -5305,7 +5305,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Sodano_Open-World_Semantic_Segmentation_Including_Class_Similarity_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Open-World-Semantic-Segmentation-Including-Class-Similarity_c2f5fef2/full.md",
   "batch_id": "c2f5fef2-7bd2-4a75-8f98-7888279a8b9a",
   "venue": "CVPR 2024",
@@ -5321,7 +5321,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Starodubcev_Your_Student_is_Better_Than_Expected_Adaptive_Teacher-Student_Collaboration_for_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Your-Student-is-Better-Than-Expected-Adaptive-Teacher-Studen_b1572821/full.md",
   "batch_id": "b1572821-6dd7-4666-a1ae-26b4f4de7fd2",
   "venue": "CVPR 2024",
@@ -5329,7 +5329,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Stathopoulos_Score-Guided_Diffusion_for_3D_Human_Recovery_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Score-Guided-Diffusion-for-3D-Human-Recovery_9df26233/full.md",
   "batch_id": "9df26233-e87a-42a4-9213-93baca7a36ea",
   "venue": "CVPR 2024",
@@ -5345,7 +5345,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Sueyoshi_Predicated_Diffusion_Predicate_Logic-Based_Attention_Guidance_for_Text-to-Image_Diffusion_Models_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Predicated-Diffusion-Predicate-Logic-Based-Attention-Guidanc_c2f87a90/full.md",
   "batch_id": "c2f87a90-4269-4f51-bd2a-8b6f181b7545",
   "venue": "CVPR 2024",
@@ -5369,7 +5369,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Sun_MoML_Online_Meta_Adaptation_for_3D_Human_Motion_Prediction_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/MoML-Online-Meta-Adaptation-for-3D-Human-Motion-Prediction_4d333150/full.md",
   "batch_id": "4d333150-5e18-4a7f-afed-28d93790d87d",
   "venue": "CVPR 2024",
@@ -5385,7 +5385,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Tang_PaReNeRF_Toward_Fast_Large-scale_Dynamic_NeRF_with_Patch-based_Reference_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/PaReNeRF-Toward-Fast-Large-scale-Dynamic-NeRF-with-Patch-bas_2388b964/full.md",
   "batch_id": "2388b964-c320-4351-b54a-b3d9e5915d84",
   "venue": "CVPR 2024",
@@ -5401,7 +5401,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Tu_MotionEditor_Editing_Video_Motion_via_Content-Aware_Diffusion_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/MotionEditor-Editing-Video-Motion-via-Content-Aware-Diffusio_09197b54/full.md",
   "batch_id": "09197b54-70f3-43bb-85ee-fae2809482eb",
   "venue": "CVPR 2024",
@@ -5409,7 +5409,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Udupa_MRFP_Learning_Generalizable_Semantic_Segmentation_from_Sim-2-Real_with_Multi-Resolution_Feature_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/MRFP-Learning-Generalizable-Semantic-Segmentation-from-Sim-2_a2abfefa/full.md",
   "batch_id": "a2abfefa-3207-4d19-9c4c-6bf53029847e",
   "venue": "CVPR 2024",
@@ -5425,7 +5425,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Varanka_PFStorer_Personalized_Face_Restoration_and_Super-Resolution_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/PFStorer-Personalized-Face-Restoration-and-Super-Resolution_85c4ec11/full.md",
   "batch_id": "85c4ec11-9104-4e70-bfae-f24a4a91ac22",
   "venue": "CVPR 2024",
@@ -5465,7 +5465,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Wang_Hyper-MD_Mesh_Denoising_with_Customized_Parameters_Aware_of_Noise_Intensity_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Hyper-MD-Mesh-Denoising-with-Customized-Parameters-Aware-of_f26c2eb6/full.md",
   "batch_id": "f26c2eb6-9cac-4192-9afc-a9bb1ca2cb3f",
   "venue": "CVPR 2024",
@@ -5473,7 +5473,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Wang_Multi-scale_Dynamic_and_Hierarchical_Relationship_Modeling_for_Facial_Action_Units_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Multi-scale-Dynamic-and-Hierarchical-Relationship-Modeling-f_d0bd3e3a/full.md",
   "batch_id": "d0bd3e3a-577d-47ea-8a07-54ab07516cc2",
   "venue": "CVPR 2024",
@@ -5497,7 +5497,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Wu_Relation_Rectification_in_Diffusion_Model_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Relation-Rectification-in-Diffusion-Model_36345d3d/full.md",
   "batch_id": "36345d3d-adc1-4305-8226-349dad266e79",
   "venue": "CVPR 2024",
@@ -5505,7 +5505,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Xiao_Towards_Progressive_Multi-Frequency_Representation_for_Image_Warping_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Towards-Progressive-Multi-Frequency-Representation-for-Image_fd60c938/full.md",
   "batch_id": "fd60c938-a47c-4afa-b2d1-9b91876ad509",
   "venue": "CVPR 2024",
@@ -5513,7 +5513,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Xie_Learning_Degradation-unaware_Representation_with_Prior-based_Latent_Transformations_for_Blind_Face_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Learning-Degradation-unaware-Representation-with-Prior-based_951a5a0b/full.md",
   "batch_id": "951a5a0b-757b-4484-b0ca-de84446cbbb6",
   "venue": "CVPR 2024",
@@ -5521,7 +5521,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Xing_Seeing_and_Hearing_Open-domain_Visual-Audio_Generation_with_Diffusion_Latent_Aligners_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Seeing-and-Hearing-Open-domain-Visual-Audio-Generation-with_84fa14e6/full.md",
   "batch_id": "84fa14e6-ee20-436a-8094-f5eb4c49b514",
   "venue": "CVPR 2024",
@@ -5553,7 +5553,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Xu_In-N-Out_Faithful_3D_GAN_Inversion_with_Volumetric_Decomposition_for_Face_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/In-N-Out-Faithful-3D-GAN-Inversion-with-Volumetric-Decomposi_abb3dee2/full.md",
   "batch_id": "abb3dee2-393a-4ace-9eac-15fc4a23f612",
   "venue": "CVPR 2024",
@@ -5561,7 +5561,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Xu_ReGenNet_Towards_Human_Action-Reaction_Synthesis_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/ReGenNet-Towards-Human-Action-Reaction-Synthesis_4481916b/full.md",
   "batch_id": "4481916b-2435-498f-ba83-3cf6b8c2fe92",
   "venue": "CVPR 2024",
@@ -5569,7 +5569,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Xu_Text-conditional_Attribute_Alignment_across_Latent_Spaces_for_3D_Controllable_Face_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Text-conditional-Attribute-Alignment-across-Latent-Spaces-fo_b4087531/full.md",
   "batch_id": "b4087531-ddb8-4784-b214-d7e3e207eb6e",
   "venue": "CVPR 2024",
@@ -5585,7 +5585,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Yeh_TextureDreamer_Image-Guided_Texture_Synthesis_Through_Geometry-Aware_Diffusion_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/TextureDreamer-Image-guided-Texture-Synthesis-through-Geomet_8a3420d1/full.md",
   "batch_id": "8a3420d1-3e8a-4140-b70d-c550a8c210d5",
   "venue": "CVPR 2024",
@@ -5593,7 +5593,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Yenphraphai_Image_Sculpting_Precise_Object_Editing_with_3D_Geometry_Control_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Image-Sculpting-Precise-Object-Editing-with-3D-Geometry-Cont_d578d424/full.md",
   "batch_id": "d578d424-f82c-4e88-bc9c-5f74cff32ba1",
   "venue": "CVPR 2024",
@@ -5617,7 +5617,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Yun_SHViT_Single-Head_Vision_Transformer_with_Memory_Efficient_Macro_Design_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/SHViT-Single-Head-Vision-Transformer-with-Memory-Efficient-M_0d14c005/full.md",
   "batch_id": "0d14c005-ed1d-4c31-bf0a-6808142a17c3",
   "venue": "CVPR 2024",
@@ -5665,7 +5665,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Zhang_Improving_Training_Efficiency_of_Diffusion_Models_via_Multi-Stage_Framework_and_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Improving-Training-Efficiency-of-Diffusion-Models-via-Multi_9fda9859/full.md",
   "batch_id": "9fda9859-d53a-443f-b901-06261ffeadc5",
   "venue": "CVPR 2024",
@@ -5673,7 +5673,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Zhang_MaskPLAN_Masked_Generative_Layout_Planning_from_Partial_Input_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/MaskPLAN-Masked-Generative-Layout-Planning-from-Partial-Inpu_42224d0e/full.md",
   "batch_id": "42224d0e-8154-4182-ab7c-6e1c25f8ac5b",
   "venue": "CVPR 2024",
@@ -5681,7 +5681,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Zhao_Synergistic_Global-space_Camera_and_Human_Reconstruction_from_Videos_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Synergistic-Global-space-Camera-and-Human-Reconstruction-fro_31511751/full.md",
   "batch_id": "31511751-5b84-49b5-9bf2-f84ff94022ce",
   "venue": "CVPR 2024",
@@ -5697,7 +5697,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Zheng_Puff-Net_Efficient_Style_Transfer_with_Pure_Content_and_Style_Feature_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Puff-Net-Efficient-Style-Transfer-with-Pure-Content-and-Styl_97cad0b6/full.md",
   "batch_id": "97cad0b6-7802-44fe-96de-886e9335170f",
   "venue": "CVPR 2024",
@@ -5745,7 +5745,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.0.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/The-2024-Conference-on-Empirical-Methods-in-Natural-Language_8cb27b57/full.md",
   "batch_id": "8cb27b57-be1f-4786-a427-02a6f3909a49",
   "venue": "EMNLP 2024",
@@ -5753,7 +5753,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.1.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/UNIGEN-Universal-Domain-Generalization-for-Sentiment-Classif_6eee28c9/full.md",
   "batch_id": "6eee28c9-a6c1-4c9a-ae14-303e1a27b9ba",
   "venue": "EMNLP 2024",
@@ -5769,7 +5769,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.100.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Rethinking-Token-Reduction-for-State-Space-Models_bf845000/full.md",
   "batch_id": "bf845000-aa8a-458c-a2a2-e56bae9bffca",
   "venue": "EMNLP 2024",
@@ -5777,7 +5777,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.101.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Triad-A-Framework-Leveraging-a-Multi-Role-LLM-based-Agent-to_ecb036df/full.md",
   "batch_id": "ecb036df-7815-4e39-854f-54eb24d4290f",
   "venue": "EMNLP 2024",
@@ -5809,7 +5809,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.106.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/TOPVIEWRS-Vision-Language-Models-as-Top-View-Spatial-Reasone_52c443ff/full.md",
   "batch_id": "52c443ff-a930-45d3-9e5d-371229452269",
   "venue": "EMNLP 2024",
@@ -5849,7 +5849,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.110.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Self-Bootstrapped-Visual-Language-Model-for-Knowledge-Select_bccc176f/full.md",
   "batch_id": "bccc176f-b9d3-44cf-81f2-129fbab7af40",
   "venue": "EMNLP 2024",
@@ -5857,7 +5857,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.111.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/PsFuture-A-Pseudo-Future-based-Zero-Shot-Adaptive-Policy-for_d09dfe9d/full.md",
   "batch_id": "d09dfe9d-298d-443b-b581-fef80706d473",
   "venue": "EMNLP 2024",
@@ -5865,7 +5865,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.112.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/TinyChart-Efficient-Chart-Understanding-with-Program-of-Thou_b4f94307/full.md",
   "batch_id": "b4f94307-f319-4de5-b285-90a03810c4bd",
   "venue": "EMNLP 2024",
@@ -5905,7 +5905,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.117.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/TCSinger-Zero-Shot-Singing-Voice-Synthesis-with-Style-Transf_79f06ba1/full.md",
   "batch_id": "79f06ba1-f6f5-4c09-8435-2b60d8497b67",
   "venue": "EMNLP 2024",
@@ -5937,7 +5937,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.120.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Tag-grounded-Visual-Instruction-Tuning-with-Retrieval-Augmen_61d18f1c/full.md",
   "batch_id": "61d18f1c-026e-4ac6-97b6-215752cdb60b",
   "venue": "EMNLP 2024",
@@ -5969,7 +5969,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.124.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Towards-Difficulty-Agnostic-Efficient-Transfer-Learning-for_2239081b/full.md",
   "batch_id": "2239081b-7379-4642-be18-f740d1969d5b",
   "venue": "EMNLP 2024",
@@ -5993,7 +5993,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.127.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/VIDEOSCORE-Building-Automatic-Metrics-to-Simulate-Fine-grain_6b06d84b/full.md",
   "batch_id": "6b06d84b-acfd-47aa-ba05-6f4d69b58de5",
   "venue": "EMNLP 2024",
@@ -6017,7 +6017,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.13.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Thinking-Fair-and-Slow-On-the-Efficacy-of-Structured-Prompts_46ee85dd/full.md",
   "batch_id": "46ee85dd-ce88-46a8-a2ce-a28c94d7c5e4",
   "venue": "EMNLP 2024",
@@ -6073,7 +6073,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.136.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Towards-Low-Resource-Harmful-Meme-Detection-with-LMM-Agents_f7802ca5/full.md",
   "batch_id": "f7802ca5-dc39-4278-8f64-91dd39c5c0e7",
   "venue": "EMNLP 2024",
@@ -6081,7 +6081,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.137.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/VIVA-A-Benchmark-for-Vision-Grounded-Decision-Making-with-Hu_63a1f955/full.md",
   "batch_id": "63a1f955-c136-449f-8783-973eb377e188",
   "venue": "EMNLP 2024",
@@ -6097,7 +6097,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.139.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Self-Refine-Instruction-Tuning-for-Aligning-Reasoning-in-Lan_b8ebebd7/full.md",
   "batch_id": "b8ebebd7-aa15-44ab-b13f-39b060133a53",
   "venue": "EMNLP 2024",
@@ -6137,7 +6137,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.143.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Selective-Vision-is-the-Challenge-for-Visual-Reasoning-A-Ben_5ca19d64/full.md",
   "batch_id": "5ca19d64-3e89-45ca-b70a-5736eb33e851",
   "venue": "EMNLP 2024",
@@ -6153,7 +6153,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.145.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Reusing-Transferable-Weight-Increments-for-Low-resource-Styl_9af5d157/full.md",
   "batch_id": "9af5d157-2daa-47e2-8dc0-760f8e486181",
   "venue": "EMNLP 2024",
@@ -6169,7 +6169,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.147.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Seemingly-Plausible-Distractors-in-Multi-Hop-Reasoning-Are-L_0ca5b7c4/full.md",
   "batch_id": "0ca5b7c4-c6f7-45a2-bbac-f085192c8d84",
   "venue": "EMNLP 2024",
@@ -6209,7 +6209,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.151.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Surveying-the-Dead-Minds-Historical-Psychological-Text-Analy_25c60551/full.md",
   "batch_id": "25c60551-c6a9-4bd6-aef0-be2225a186c0",
   "venue": "EMNLP 2024",
@@ -6225,7 +6225,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.153.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/QUITE-Quantifying-Uncertainty-in-Natural-Language-Text-in-Ba_a865ee6a/full.md",
   "batch_id": "a865ee6a-17c9-4fe0-afe7-2c4143008c8c",
   "venue": "EMNLP 2024",
@@ -6241,7 +6241,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.155.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Whispers-that-Shake-Foundations-Analyzing-and-Mitigating-Fal_4634cc39/full.md",
   "batch_id": "4634cc39-be74-479d-b134-ebae6b3260b1",
   "venue": "EMNLP 2024",
@@ -6249,7 +6249,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.156.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/To-Word-Senses-and-Beyond-Inducing-Concepts-with-Contextuali_7073802a/full.md",
   "batch_id": "7073802a-6496-42de-84f1-9e27b19d0ddf",
   "venue": "EMNLP 2024",
@@ -6281,7 +6281,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.16.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Systematic-Biases-in-LLM-Simulations-of-Debates_27160313/full.md",
   "batch_id": "27160313-4164-4d4c-88ee-c9e6a4e58f82",
   "venue": "EMNLP 2024",
@@ -6289,7 +6289,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.160.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Take-Off-the-Training-Wheels-Progressive-In-Context-Learning_41a1fef2/full.md",
   "batch_id": "41a1fef2-962a-4aac-9443-59940aff667e",
   "venue": "EMNLP 2024",
@@ -6345,7 +6345,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.167.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/With-Ears-to-See-and-Eyes-to-Hear-Sound-Symbolism-Experiment_e0829fa6/full.md",
   "batch_id": "e0829fa6-515d-4afb-8a65-1000a775250a",
   "venue": "EMNLP 2024",
@@ -6361,7 +6361,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.169.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Understanding-Higher-Order-Correlations-Among-Semantic-Compo_b53284b8/full.md",
   "batch_id": "b53284b8-6b65-4a43-a7a5-4a7923aa1190",
   "venue": "EMNLP 2024",
@@ -6369,7 +6369,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.17.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Studying-and-Mitigating-Biases-in-Sign-Language-Understandin_23f5d588/full.md",
   "batch_id": "23f5d588-aae1-4123-9d18-fc9e8a5f4943",
   "venue": "EMNLP 2024",
@@ -6393,7 +6393,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.172.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Verification-and-Refinement-of-Natural-Language-Explanations_a2b05c05/full.md",
   "batch_id": "a2b05c05-57ba-4c86-b3d9-3c452eef6829",
   "venue": "EMNLP 2024",
@@ -6409,7 +6409,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.174.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/The-Accuracy-Paradox-in-RLHF-When-Better-Reward-Models-Don-t_e1caf3d8/full.md",
   "batch_id": "e1caf3d8-bed9-41ab-a4a0-b0ac4f1970e5",
   "venue": "EMNLP 2024",
@@ -6425,7 +6425,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.176.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Zero-shot-Cross-Lingual-Transfer-for-Synthetic-Data-Generati_73f752bc/full.md",
   "batch_id": "73f752bc-b19f-4bd9-ae1c-db224a279f68",
   "venue": "EMNLP 2024",
@@ -6441,7 +6441,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.178.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/SEER-Self-Aligned-Evidence-Extraction-for-Retrieval-Augmente_22be6370/full.md",
   "batch_id": "22be6370-e57d-48ab-982f-1740cc7b2442",
   "venue": "EMNLP 2024",
@@ -6457,7 +6457,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.18.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Uncertainty-in-Language-Models-Assessment-through-Rank-Calib_42ddf024/full.md",
   "batch_id": "42ddf024-183a-4a59-9ab2-d0489c88ee26",
   "venue": "EMNLP 2024",
@@ -6497,7 +6497,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.184.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Understanding-Democratization-in-NLP-and-ML-Research_18104b6d/full.md",
   "batch_id": "18104b6d-08b8-4dac-a1d0-36154e8cf354",
   "venue": "EMNLP 2024",
@@ -6521,7 +6521,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.187.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/ScalingFilter-Assessing-Data-Quality-through-Inverse-Utiliza_4fd757c1/full.md",
   "batch_id": "4fd757c1-f7ef-46a0-a2e8-5e1085bec330",
   "venue": "EMNLP 2024",
@@ -6529,7 +6529,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.188.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Word-Alignment-as-Preference-for-Machine-Translation_0140b3eb/full.md",
   "batch_id": "0140b3eb-d057-4313-ac0d-7cf337233325",
   "venue": "EMNLP 2024",
@@ -6545,7 +6545,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.19.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/RoTBench-A-Multi-Level-Benchmark-for-Evaluating-the-Robustne_ece0331c/full.md",
   "batch_id": "ece0331c-862f-4ef3-976e-446b22d1872f",
   "venue": "EMNLP 2024",
@@ -6553,7 +6553,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.190.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/SEEKR-Selective-Attention-Guided-Knowledge-Retention-for-Con_9668607b/full.md",
   "batch_id": "9668607b-97cf-408a-8751-8303d4c4755f",
   "venue": "EMNLP 2024",
@@ -6609,7 +6609,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.197.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/QUIK-Towards-End-to-end-4-Bit-Inference-on-Generative-Large_4fe40cd5/full.md",
   "batch_id": "4fe40cd5-d830-4f4b-8f60-52350650ebb6",
   "venue": "EMNLP 2024",
@@ -6649,7 +6649,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.21.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Scaling-Properties-of-Speech-Language-Models_b3aa5c64/full.md",
   "batch_id": "b3aa5c64-528e-42b9-9ddd-bd8d41979339",
   "venue": "EMNLP 2024",
@@ -6657,7 +6657,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.22.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/We-Demand-Justice-Towards-Social-Context-Grounding-of-Politi_daac26f9/full.md",
   "batch_id": "daac26f9-83f7-4ec5-9e4d-5c0e5cac7b5a",
   "venue": "EMNLP 2024",
@@ -6689,7 +6689,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.26.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Strength-Lies-in-Differences-Improving-Strategy-Planning-for_b5b80c54/full.md",
   "batch_id": "b5b80c54-6dc9-4e7b-955b-ca5987656d5f",
   "venue": "EMNLP 2024",
@@ -6817,7 +6817,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.40.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Tokenization-Is-More-Than-Compression_3304f5e7/full.md",
   "batch_id": "3304f5e7-540d-45eb-8fb6-5cdbf3e2710f",
   "venue": "EMNLP 2024",
@@ -6833,7 +6833,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.42.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Successfully-Guiding-Humans-with-Imperfect-Instructions-by-H_65408f1c/full.md",
   "batch_id": "65408f1c-cef2-42cb-8e2d-8cec86cadf3d",
   "venue": "EMNLP 2024",
@@ -6897,7 +6897,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.5.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Table-Question-Answering-for-Low-resourced-Indic-Languages_773d6ad4/full.md",
   "batch_id": "773d6ad4-61f5-4111-80c9-99cd7b30b69e",
   "venue": "EMNLP 2024",
@@ -6921,7 +6921,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.52.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/What-s-Mine-becomes-Yours-Defining-Annotating-and-Detecting_dc449a65/full.md",
   "batch_id": "dc449a65-88f6-4121-a6e3-4153041d5239",
   "venue": "EMNLP 2024",
@@ -6969,7 +6969,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.68.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Rethinking-Pruning-Large-Language-Models-Benefits-and-Pitfal_0c7606d1/full.md",
   "batch_id": "0c7606d1-216d-4068-9e4b-5703ffc12b0c",
   "venue": "EMNLP 2024",
@@ -7041,7 +7041,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.76.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/QUDSELECT-Selective-Decoding-for-Questions-Under-Discussion_cb4d9af3/full.md",
   "batch_id": "cb4d9af3-2af4-4bb4-8fc0-54cd8665bc4d",
   "venue": "EMNLP 2024",
@@ -7065,7 +7065,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.79.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Reuse-Your-Rewards-Reward-Model-Transfer-for-Zero-Shot-Cross_adee9cee/full.md",
   "batch_id": "adee9cee-605a-4b41-97ef-b4b0a9593c77",
   "venue": "EMNLP 2024",
@@ -7073,7 +7073,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.8.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/When-LLMs-Meet-Acoustic-Landmarks-An-Efficient-Approach-to-I_4a8570ed/full.md",
   "batch_id": "4a8570ed-17dd-4501-8d40-dff1e2013a59",
   "venue": "EMNLP 2024",
@@ -7097,7 +7097,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.82.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Towards-Tool-Use-Alignment-of-Large-Language-Models_70511035/full.md",
   "batch_id": "70511035-0252-44f1-8b9b-e00847045a05",
   "venue": "EMNLP 2024",
@@ -7153,7 +7153,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.89.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/UniFashion-A-Unified-Vision-Language-Model-for-Multimodal-Fa_cca0d8cd/full.md",
   "batch_id": "cca0d8cd-70d9-47ab-a93f-a26f046f7dca",
   "venue": "EMNLP 2024",
@@ -7161,7 +7161,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.9.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Speaking-in-Wavelet-Domain-A-Simple-and-Efficient-Approach-t_ae59880f/full.md",
   "batch_id": "ae59880f-be60-406b-a521-33922e1e0f8b",
   "venue": "EMNLP 2024",
@@ -7169,7 +7169,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.90.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Tracking-the-perspectives-of-interacting-language-models_33c3d328/full.md",
   "batch_id": "33c3d328-1bf1-41bb-a382-2213970fb0a0",
   "venue": "EMNLP 2024",
@@ -7177,7 +7177,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.0.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/The-2024-Conference-of-the-North-American-Chapter-of-the-Ass_0e66ed00/full.md",
   "batch_id": "0e66ed00-6990-45b4-88a4-6190f439d6dd",
   "venue": "NAACL 2024",
@@ -7209,7 +7209,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.101.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/TISE-A-Tripartite-In-context-Selection-Method-for-Event-Argu_be164935/full.md",
   "batch_id": "be164935-03d4-4936-910e-3151450fdeac",
   "venue": "NAACL 2024",
@@ -7217,7 +7217,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.102.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Reasoning-or-Reciting-Exploring-the-Capabilities-and-Limitat_254f3a03/full.md",
   "batch_id": "254f3a03-f602-40e7-9bb5-a51bfbebb80e",
   "venue": "NAACL 2024",
@@ -7225,7 +7225,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.103.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/TRUE-UIE-Two-Universal-Relations-Unify-Information-Extractio_338c87fa/full.md",
   "batch_id": "338c87fa-b658-4699-bbc0-48519c61597b",
   "venue": "NAACL 2024",
@@ -7233,7 +7233,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.104.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/zrLLM-Zero-Shot-Relational-Learning-on-Temporal-Knowledge-Gr_11247be3/full.md",
   "batch_id": "11247be3-ef92-471a-89bb-f364e6e3bc32",
   "venue": "NAACL 2024",
@@ -7273,7 +7273,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.109.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Routing-to-the-Expert-Efficient-Reward-guided-Ensemble-of-La_aa00a900/full.md",
   "batch_id": "aa00a900-5035-422c-9365-e239dd2eeb30",
   "venue": "NAACL 2024",
@@ -7313,7 +7313,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.113.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/The-Colorful-Future-of-LLMs-Evaluating-and-Improving-LLMs-as_dd734f40/full.md",
   "batch_id": "dd734f40-e8c0-44a8-bbe7-cd1bbc4cad70",
   "venue": "NAACL 2024",
@@ -7345,7 +7345,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.117.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/VisLingInstruct-Elevating-Zero-Shot-Learning-in-Multi-Modal_92cd5ade/full.md",
   "batch_id": "92cd5ade-ae00-4891-a07e-eb6da4baef44",
   "venue": "NAACL 2024",
@@ -7385,7 +7385,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.121.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/RST-LoRA-A-Discourse-Aware-Low-Rank-Adaptation-for-Long-Docu_468d264f/full.md",
   "batch_id": "468d264f-c358-47e0-8210-a252fa34f24e",
   "venue": "NAACL 2024",
@@ -7393,7 +7393,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.122.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Strings-from-the-Library-of-Babel-Random-Sampling-as-a-Stron_1c9e88b9/full.md",
   "batch_id": "1c9e88b9-ad94-46ac-94ca-c14d7239e268",
   "venue": "NAACL 2024",
@@ -7401,7 +7401,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.123.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/ReTA-Recursively-Thinking-Ahead-to-Improve-the-Strategic-Rea_e539bd68/full.md",
   "batch_id": "e539bd68-5a9d-4f7c-a5c0-fa2f3f701deb",
   "venue": "NAACL 2024",
@@ -7425,7 +7425,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.126.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/The-Perspectivist-Paradigm-Shift-Assumptions-and-Challenges_ba3b3ac1/full.md",
   "batch_id": "ba3b3ac1-2fdd-4a50-a629-20104f1cf48c",
   "venue": "NAACL 2024",
@@ -7489,7 +7489,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.133.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/SUMTRA-A-Differentiable-Pipeline-for-Few-Shot-Cross-Lingual_c49b73f6/full.md",
   "batch_id": "c49b73f6-6e06-49a9-94c1-46a8f9905609",
   "venue": "NAACL 2024",
@@ -7553,7 +7553,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.140.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/ReFACT-Updating-Text-to-Image-Models-by-Editing-the-Text-Enc_e20da0be/full.md",
   "batch_id": "e20da0be-026d-43f6-a860-922e5f777c38",
   "venue": "NAACL 2024",
@@ -7585,7 +7585,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.144.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Unlocking-Emergent-Modularity-in-Large-Language-Models_f389074a/full.md",
   "batch_id": "f389074a-b28b-4681-9296-0d4e6c5d7959",
   "venue": "NAACL 2024",
@@ -7633,7 +7633,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.15.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Unleashing-the-Emergent-Cognitive-Synergy-in-Large-Language_42de8e89/full.md",
   "batch_id": "42de8e89-1f35-4bd1-8cbf-2f1bb5961009",
   "venue": "NAACL 2024",
@@ -7641,7 +7641,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.150.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/What-Causes-the-Failure-of-Explicit-to-Implicit-Discourse-Re_5ba85192/full.md",
   "batch_id": "5ba85192-8120-4b87-807c-2b5d4ea6f86c",
   "venue": "NAACL 2024",
@@ -7649,7 +7649,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.151.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/UniverSLU-Universal-Spoken-Language-Understanding-for-Divers_4b6704ca/full.md",
   "batch_id": "4b6704ca-058d-4d99-8933-faba3bef796a",
   "venue": "NAACL 2024",
@@ -7673,7 +7673,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.154.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/TriSum-Learning-Summarization-Ability-from-Large-Language-Mo_c5f94d9a/full.md",
   "batch_id": "c5f94d9a-9e89-4584-b00d-c9fbb91e33cd",
   "venue": "NAACL 2024",
@@ -7697,7 +7697,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.157.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/The-Effect-of-Data-Partitioning-Strategy-on-Model-Generaliza_226f4862/full.md",
   "batch_id": "226f4862-bec1-40e2-ae52-95eb41d20dfe",
   "venue": "NAACL 2024",
@@ -7745,7 +7745,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.162.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Visually-Aware-Context-Modeling-for-News-Image-Captioning_b432d55d/full.md",
   "batch_id": "b432d55d-f17d-4f11-a119-38a055a66cff",
   "venue": "NAACL 2024",
@@ -7753,7 +7753,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.163.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Regularized-Conventions-Equilibrium-Computation-as-a-Model-o_f8e53844/full.md",
   "batch_id": "f8e53844-3e99-4193-a2e8-951be641f362",
   "venue": "NAACL 2024",
@@ -7761,7 +7761,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.164.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/TopicGPT-A-Prompt-based-Topic-Modeling-Framework_c0840d17/full.md",
   "batch_id": "c0840d17-d8f5-41ed-b7b5-f3bec78ba623",
   "venue": "NAACL 2024",
@@ -7777,7 +7777,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.166.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Social-Meme-ing-Measuring-Linguistic-Variation-in-Memes_538b6d4b/full.md",
   "batch_id": "538b6d4b-8246-4bbb-ae93-fd2226c3d59f",
   "venue": "NAACL 2024",
@@ -7793,7 +7793,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.168.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/What-ifyou-said-that-differently-How-Explanation-Formats-Aff_b80bbb97/full.md",
   "batch_id": "b80bbb97-b636-415b-952a-b099c5e26621",
   "venue": "NAACL 2024",
@@ -7801,7 +7801,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.169.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/When-Life-Gives-You-Lemons-Make-Cherryade-Converting-Feedbac_817ef5b3/full.md",
   "batch_id": "817ef5b3-0120-4a2a-86e2-d22651902b92",
   "venue": "NAACL 2024",
@@ -7857,7 +7857,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.175.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Which-One-Leveraging-Context-Between-Objects-and-Multiple-Vi_181be9c9/full.md",
   "batch_id": "181be9c9-a348-45a6-b0de-e08c2a4af896",
   "venue": "NAACL 2024",
@@ -7913,7 +7913,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.181.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Reinforced-Multiple-Instance-Selection-for-Speaker-Attribute_9bec6e45/full.md",
   "batch_id": "9bec6e45-ee1f-4351-969c-62d6cb439486",
   "venue": "NAACL 2024",
@@ -7929,7 +7929,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.19.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/kNN-ICL-Compositional-Task-Oriented-Parsing-Generalization-w_c59ae2dd/full.md",
   "batch_id": "c59ae2dd-a7a0-4ba2-8614-39b33fed0d63",
   "venue": "NAACL 2024",
@@ -7937,7 +7937,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.192.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Subspace-Representations-for-Soft-Set-Operations-and-Sentenc_fa9695b3/full.md",
   "batch_id": "fa9695b3-bf43-428c-a9d1-81de648c5d73",
   "venue": "NAACL 2024",
@@ -7993,7 +7993,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.2.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Text-Diffusion-Model-with-Encoder-Decoder-Transformers-for-S_af00f4db/full.md",
   "batch_id": "af00f4db-7bae-4a30-ade3-cd39e293769f",
   "venue": "NAACL 2024",
@@ -8017,7 +8017,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.22.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/SeaEval-for-Multilingual-Foundation-Models-From-Cross-Lingua_f7334823/full.md",
   "batch_id": "f7334823-b8da-48b9-bbf9-4b663af3db0e",
   "venue": "NAACL 2024",
@@ -8025,7 +8025,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.23.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/VOLCANO-Mitigating-Multimodal-Hallucination-through-Self-Fee_8175ee5a/full.md",
   "batch_id": "8175ee5a-35be-49c7-b492-169f23d62f81",
   "venue": "NAACL 2024",
@@ -8041,7 +8041,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.25.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Simple-and-effective-data-augmentation-for-compositional-gen_c9250d87/full.md",
   "batch_id": "c9250d87-7873-4125-9b16-1da2f0439eb4",
   "venue": "NAACL 2024",
@@ -8049,7 +8049,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.26.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Rethinking-Tabular-Data-Understanding-with-Large-Language-Mo_4b249cdd/full.md",
   "batch_id": "4b249cdd-ab0e-4d2c-9b37-ba46ed5b7728",
   "venue": "NAACL 2024",
@@ -8177,7 +8177,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.40.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Two-Heads-are-Better-than-One-Nested-PoE-for-Robust-Defense_43a5e18d/full.md",
   "batch_id": "43a5e18d-c934-4e7a-9bbb-3917e6104aba",
   "venue": "NAACL 2024",
@@ -8185,7 +8185,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.41.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/V-Attack-Taking-advantage-of-Text-Classifiers-horizontal-vis_67cbe8ad/full.md",
   "batch_id": "67cbe8ad-9a2f-483b-af7f-387d15366117",
   "venue": "NAACL 2024",
@@ -8201,7 +8201,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.43.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/The-taste-of-IPA-Towards-open-vocabulary-keyword-spotting-an_d64e268c/full.md",
   "batch_id": "d64e268c-e8bd-44f3-9067-6efff91cf7d3",
   "venue": "NAACL 2024",
@@ -8209,7 +8209,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.44.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Think-Before-You-Act-A-Two-Stage-Framework-for-Mitigating-Ge_1be444ab/full.md",
   "batch_id": "1be444ab-9aa5-4ec2-a4f8-e73456732054",
   "venue": "NAACL 2024",
@@ -8241,7 +8241,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.48.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Toolink-Linking-Toolkit-Creation-and-Using-through-Chain-of_54dce6cd/full.md",
   "batch_id": "54dce6cd-d58d-4674-9e7c-4576b7984336",
   "venue": "NAACL 2024",
@@ -8257,7 +8257,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.5.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/TelME-Teacher-leading-Multimodal-Fusion-Network-for-Emotion_5d086e7b/full.md",
   "batch_id": "5d086e7b-2bbd-4e9d-b3d2-56bf773d1f6e",
   "venue": "NAACL 2024",
@@ -8273,7 +8273,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.51.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Unveiling-the-Generalization-Power-of-Fine-Tuned-Large-Langu_90f00013/full.md",
   "batch_id": "90f00013-81a0-4789-aa1c-fd0f897a7054",
   "venue": "NAACL 2024",
@@ -8385,7 +8385,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.64.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/TrojFSP-Trojan-Insertion-in-Few-shot-Prompt-Tuning_77cb0429/full.md",
   "batch_id": "77cb0429-e902-4df2-998c-b70e42c6a079",
   "venue": "NAACL 2024",
@@ -8401,7 +8401,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.66.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/X-PARADE-Cross-Lingual-Textual-Entailment-and-Information-Di_8a9e6951/full.md",
   "batch_id": "8a9e6951-bc83-4c9e-8028-77befb4ca94f",
   "venue": "NAACL 2024",
@@ -8409,7 +8409,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.67.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Topics-Authors-and-Institutions-in-Large-Language-Model-Rese_25dd758e/full.md",
   "batch_id": "25dd758e-8685-4c11-8e65-d5d60e3702a8",
   "venue": "NAACL 2024",
@@ -8425,7 +8425,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.69.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/S3Eval-A-Synthetic-Scalable-Systematic-Evaluation-Suite-for_69546659/full.md",
   "batch_id": "69546659-9f69-4d60-843d-73d7ebaffbbb",
   "venue": "NAACL 2024",
@@ -8449,7 +8449,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.71.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Visual-Grounding-Helps-Learn-Word-Meanings-in-Low-Data-Regim_70c725ea/full.md",
   "batch_id": "70c725ea-20ae-4dd8-9442-2a4fc5bd4089",
   "venue": "NAACL 2024",
@@ -8473,7 +8473,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.74.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/SEMQA-Semi-Extractive-Multi-Source-Question-Answering_2ffb76d6/full.md",
   "batch_id": "2ffb76d6-035d-437b-b924-8b9fdda6246e",
   "venue": "NAACL 2024",
@@ -8537,7 +8537,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.89.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Sub-Sentence-Encoder-Contrastive-Learning-of-Propositional-S_0e4b437b/full.md",
   "batch_id": "0e4b437b-04bf-4870-be42-7d12099acbd4",
   "venue": "NAACL 2024",
@@ -8569,7 +8569,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.92.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/SELF-GUARD-Empower-the-LLM-to-Safeguard-Itself_7d285f15/full.md",
   "batch_id": "7d285f15-a860-4b05-9e2e-ac439edf0e5c",
   "venue": "NAACL 2024",
@@ -8585,7 +8585,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.94.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Toward-Informal-Language-Processing-Knowledge-of-Slang-in-La_3182e3ad/full.md",
   "batch_id": "3182e3ad-4c62-44c1-98ae-be8fd6604583",
   "venue": "NAACL 2024",
@@ -8625,7 +8625,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.99.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Ungrammatical-syntax-based-In-context-Example-Selection-for_7ebec998/full.md",
   "batch_id": "7ebec998-77dd-40c2-aa31-cd0bf6aeb142",
   "venue": "NAACL 2024",
@@ -8649,7 +8649,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.196.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/What-Does-the-Bot-Say-Opportunities-and-Risks-of-Large-Langu_072057e9/full.md",
   "batch_id": "072057e9-6b12-404e-8871-3d371a1e7e75",
   "venue": "ACL 2024",
@@ -8657,7 +8657,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.197.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Self-Contrast-Better-Reflection-Through-Inconsistent-Solving_71d6712d/full.md",
   "batch_id": "71d6712d-1edb-47c7-9584-dbb7fe8f2fff",
   "venue": "ACL 2024",
@@ -8665,7 +8665,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.198.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Relying-on-the-Unreliable-The-Impact-of-Language-Models-Relu_3b1f8a6a/full.md",
   "batch_id": "3b1f8a6a-bb19-4408-8a4e-d62996f05a59",
   "venue": "ACL 2024",
@@ -8673,7 +8673,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.199.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Unity-in-Diversity-Collaborative-Pre-training-Across-Multimo_7cb8013b/full.md",
   "batch_id": "7cb8013b-4701-47c5-84e2-c6aa144efa65",
   "venue": "ACL 2024",
@@ -8705,7 +8705,7 @@
  },
  {
   "source": "https://arxiv.org/pdf/2608.11794v1.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cs.AI-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.AI-001",
   "path": "2026-08-13/Toward-Meaningful-Transparency-for-AI-Chatbots-Disclosing-Pe_1388d850/full.md",
   "batch_id": "1388d850-e572-4f0f-8831-368d0b7628ef",
   "venue": "arXiv",
@@ -8713,7 +8713,7 @@
  },
  {
   "source": "https://arxiv.org/pdf/2608.11802v1.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cs.AI-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.AI-001",
   "path": "2026-08-13/Towards-Model-based-Run-time-Cybersecurity-On-Control-Flow-A_2fb783f5/full.md",
   "batch_id": "2fb783f5-f02f-4fd1-9b31-72612593928c",
   "venue": "arXiv",
@@ -8849,7 +8849,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Dong_Weakly_Supervised_Video_Representation_Learning_With_Unaligned_Text_for_Sequential_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Weakly-Supervised-Video-Representation-Learning-with-Unalign_9d92e1a7/full.md",
   "batch_id": "9d92e1a7-611e-4cbf-b79f-0232a54a8130",
   "venue": "CVPR 2023",
@@ -8865,7 +8865,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Huang_VoP_Text-Video_Co-Operative_Prompt_Tuning_for_Cross-Modal_Retrieval_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/VoP-Text-Video-Co-operative-Prompt-Tuning-for-Cross-Modal-Re_39c96500/full.md",
   "batch_id": "39c96500-5f6a-4118-9c67-e3fd01b640ad",
   "venue": "CVPR 2023",
@@ -8873,7 +8873,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Ji_Seeing_What_You_Miss_Vision-Language_Pre-Training_With_Semantic_Completion_Learning_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Seeing-What-You-Miss-Vision-Language-Pre-training-with-Seman_f28e6749/full.md",
   "batch_id": "f28e6749-1eaa-42f1-8baa-32125a95533e",
   "venue": "CVPR 2023",
@@ -8881,7 +8881,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Jiang_Understanding_and_Constructing_Latent_Modality_Structures_in_Multi-Modal_Representation_Learning_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Understanding-and-Constructing-Latent-Modality-Structures-in_1c639b94/full.md",
   "batch_id": "1c639b94-29d5-45ce-a469-dd676ec3a008",
   "venue": "CVPR 2023",
@@ -8889,7 +8889,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Nauta_PIP-Net_Patch-Based_Intuitive_Prototypes_for_Interpretable_Image_Classification_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/PIP-Net-Patch-Based-Intuitive-Prototypes-for-Interpretable-I_c9803020/full.md",
   "batch_id": "c9803020-3b2f-4fec-a6f1-5088c6b0b145",
   "venue": "CVPR 2023",
@@ -8897,7 +8897,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Petrov_Object_Pop-Up_Can_We_Infer_3D_Objects_and_Their_Poses_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Object-pop-up-Can-we-infer-3D-objects-and-their-poses-from-h_3aa0a518/full.md",
   "batch_id": "3aa0a518-c519-4b45-81aa-e0e88b0239c6",
   "venue": "CVPR 2023",
@@ -8905,7 +8905,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Qu_Towards_Robust_Tampered_Text_Detection_in_Document_Image_New_Dataset_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Towards-Robust-Tampered-Text-Detection-in-Document-Image-New_a457aead/full.md",
   "batch_id": "a457aead-39eb-4211-abd9-9631a68e06d4",
   "venue": "CVPR 2023",
@@ -8929,7 +8929,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Saito_Prefix_Conditioning_Unifies_Language_and_Label_Supervision_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Prefix-Conditioning-Unifies-Language-and-Label-Supervision_e05ce227/full.md",
   "batch_id": "e05ce227-1443-4f42-8257-8051cb41101d",
   "venue": "CVPR 2023",
@@ -8961,7 +8961,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Yao_Visual-Language_Prompt_Tuning_With_Knowledge-Guided_Context_Optimization_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/Visual-Language-Prompt-Tuning-with-Knowledge-guided-Context_c09a1723/full.md",
   "batch_id": "c09a1723-e510-4c13-a5d5-20df43e2497b",
   "venue": "CVPR 2023",
@@ -8993,7 +8993,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Zheng_TrojViT_Trojan_Insertion_in_Vision_Transformers_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/TrojViT-Trojan-Insertion-in-Vision-Transformers_eaa3f2fc/full.md",
   "batch_id": "eaa3f2fc-a06e-42ec-8e73-0a33b45ec559",
   "venue": "CVPR 2023",
@@ -9001,7 +9001,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Zhou_OcTr_Octree-Based_Transformer_for_3D_Object_Detection_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/OcTr-Octree-based-Transformer-for-3D-Object-Detection_ff814ec8/full.md",
   "batch_id": "ff814ec8-623b-4372-a13d-c5cf40c67f15",
   "venue": "CVPR 2023",
@@ -9049,7 +9049,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Brument_RNb-NeuS_Reflectance_and_Normal-based_Multi-View_3D_Reconstruction_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/RNb-NeuS-Reflectance-and-Normal-based-Multi-View-3D-Reconstr_57b0c41f/full.md",
   "batch_id": "57b0c41f-09a5-4efc-b443-9ab2ee8ff4e4",
   "venue": "CVPR 2024",
@@ -9065,7 +9065,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Chen_Learning_Spatial_Adaptation_and_Temporal_Coherence_in_Diffusion_Models_for_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Learning-Spatial-Adaptation-and-Temporal-Coherence-in-Diffus_3f9645e9/full.md",
   "batch_id": "3f9645e9-83dd-4a2d-8343-9bcbf9cdbe05",
   "venue": "CVPR 2024",
@@ -9081,7 +9081,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Chihaoui_Masked_and_Shuffled_Blind_Spot_Denoising_for_Real-World_Images_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Masked-and-Shuffled-Blind-Spot-Denoising-for-Real-World-Imag_bbeff764/full.md",
   "batch_id": "bbeff764-206f-4117-8c43-d94d2fd6e93c",
   "venue": "CVPR 2024",
@@ -9089,7 +9089,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Choi_OmniLocalRF_Omnidirectional_Local_Radiance_Fields_from_Dynamic_Videos_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/OmniLocalRF-Omnidirectional-Local-Radiance-Fields-from-Dynam_ebc22f86/full.md",
   "batch_id": "ebc22f86-5e31-47cf-bd33-5b1740c5f4e9",
   "venue": "CVPR 2024",
@@ -9113,7 +9113,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Dong_Interactive3D_Create_What_You_Want_by_Interactive_3D_Generation_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Interactive3D-Create-What-You-Want-by-Interactive-3D-Generat_9703f92f/full.md",
   "batch_id": "9703f92f-514d-48ad-aee0-f7e422b5a06d",
   "venue": "CVPR 2024",
@@ -9121,7 +9121,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Fischer_NeRF_Analogies_Example-Based_Visual_Attribute_Transfer_for_NeRFs_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/NeRF-Analogies-Example-Based-Visual-Attribute-Transfer-for-N_15c4ef45/full.md",
   "batch_id": "15c4ef45-9ec0-4efb-85d5-08cc6e5139d6",
   "venue": "CVPR 2024",
@@ -9137,7 +9137,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Han_JDEC_JPEG_Decoding_via_Enhanced_Continuous_Cosine_Coefficients_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/JDEC-JPEG-Decoding-via-Enhanced-Continuous-Cosine-Coefficien_04110021/full.md",
   "batch_id": "04110021-28d2-42e0-9f21-c7d2d8501a2a",
   "venue": "CVPR 2024",
@@ -9217,7 +9217,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Liang_Towards_Robust_Event-guided_Low-Light_Image_Enhancement_A_Large-Scale_Real-World_Event-Image_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Towards-Robust-Event-guided-Low-Light-Image-Enhancement-A-La_d773e9b4/full.md",
   "batch_id": "d773e9b4-028c-46c0-8dc3-7ad9265a99bd",
   "venue": "CVPR 2024",
@@ -9233,7 +9233,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Liu_HumanGaussian_Text-Driven_3D_Human_Generation_with_Gaussian_Splatting_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/HumanGaussian-Text-Driven-3D-Human-Generation-with-Gaussian_9adef85a/full.md",
   "batch_id": "9adef85a-0b2b-42c0-ba55-5140c23c4165",
   "venue": "CVPR 2024",
@@ -9273,7 +9273,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Peng_Parameter_Efficient_Fine-tuning_via_Cross_Block_Orchestration_for_Segment_Anything_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Parameter-Efficient-Fine-tuning-via-Cross-Block-Orchestratio_84807d77/full.md",
   "batch_id": "84807d77-4d69-40b7-8ac8-e61c9fca36ab",
   "venue": "CVPR 2024",
@@ -9297,7 +9297,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Teney_Neural_Redshift_Random_Networks_are_not_Random_Functions_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Neural-Redshift-Random-Networks-are-not-Random-Functions_5f080766/full.md",
   "batch_id": "5f080766-914e-45e2-a49a-a3a69cfc46dc",
   "venue": "CVPR 2024",
@@ -9305,7 +9305,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Wei_Semantic-aware_SAM_for_Point-Prompted_Instance_Segmentation_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Semantic-aware-SAM-for-Point-Prompted-Instance-Segmentation_4985880c/full.md",
   "batch_id": "4985880c-7b7d-4563-9a7a-8af18dec3aa5",
   "venue": "CVPR 2024",
@@ -9329,7 +9329,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Yang_Texture-Preserving_Diffusion_Models_for_High-Fidelity_Virtual_Try-On_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Texture-Preserving-Diffusion-Models-for-High-Fidelity-Virtua_ceecc89b/full.md",
   "batch_id": "ceecc89b-32ab-40c5-ba98-7ebf2347bfb7",
   "venue": "CVPR 2024",
@@ -9337,7 +9337,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Zeng_Make_Pixels_Dance_High-Dynamic_Video_Generation_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Make-Pixels-Dance-High-Dynamic-Video-Generation_6557a309/full.md",
   "batch_id": "6557a309-9027-430c-b637-4cdebd3fca5c",
   "venue": "CVPR 2024",
@@ -9345,7 +9345,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Zhan_Semantic_Human_Mesh_Reconstruction_with_Textures_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Semantic-Human-Mesh-Reconstruction-with-Textures_0b011dae/full.md",
   "batch_id": "0b011dae-7819-49c0-be36-68f7be0070c9",
   "venue": "CVPR 2024",
@@ -9361,7 +9361,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Zhang_MAPSeg_Unified_Unsupervised_Domain_Adaptation_for_Heterogeneous_Medical_Image_Segmentation_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/MAPSeg-Unified-Unsupervised-Domain-Adaptation-for-Heterogene_93e6912f/full.md",
   "batch_id": "93e6912f-484b-4017-9bef-db9c7d0a3059",
   "venue": "CVPR 2024",
@@ -9369,7 +9369,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Zhang_PIA_Your_Personalized_Image_Animator_via_Plug-and-Play_Modules_in_Text-to-Image_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/PIA-Your-Personalized-Image-Animator-via-Plug-and-Play-Modul_40b8e702/full.md",
   "batch_id": "40b8e702-4f5e-4c50-b276-626df8d1ae81",
   "venue": "CVPR 2024",
@@ -9377,7 +9377,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/de_Geus_Task-aligned_Part-aware_Panoptic_Segmentation_through_Joint_Object-Part_Representations_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Task-aligned-Part-aware-Panoptic-Segmentation-through-Joint_0380ace9/full.md",
   "batch_id": "0380ace9-0f1a-41cc-87e5-d39caeac9be6",
   "venue": "CVPR 2024",
@@ -9385,7 +9385,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.104.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Retrieved-Sequence-Augmentation-for-Protein-Representation-L_0638c29f/full.md",
   "batch_id": "0638c29f-4832-470a-984a-650e88b2842a",
   "venue": "EMNLP 2024",
@@ -9441,7 +9441,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.93.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/Watch-Every-Step-LLM-Agent-Learning-via-Iterative-Step-Level_ba023ecb/full.md",
   "batch_id": "ba023ecb-fac3-4be3-961c-15c1432e8ef5",
   "venue": "EMNLP 2024",
@@ -9449,7 +9449,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.94.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/STANDARDIZE-Aligning-Language-Models-with-Expert-Defined-Sta_6a94bee0/full.md",
   "batch_id": "6a94bee0-2774-4f2e-8c0b-e06f80dbd8a6",
   "venue": "EMNLP 2024",
@@ -9481,7 +9481,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.emnlp-main.98.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
   "path": "2026-08-13/SHIELD-Evaluation-and-Defense-Strategies-for-Copyright-Compl_8329f937/full.md",
   "batch_id": "8329f937-2273-4bdc-a593-2b0e5c3f8ab0",
   "venue": "EMNLP 2024",
@@ -9505,7 +9505,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.184.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Uncertainty-Quantification-for-In-Context-Learning-of-Large_3b5e4e43/full.md",
   "batch_id": "3b5e4e43-b59f-4a5a-ba74-97ce398f2111",
   "venue": "NAACL 2024",
@@ -9537,7 +9537,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.188.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/What-Are-We-Measuring-When-We-Evaluate-Large-Vision-Language_f0822b09/full.md",
   "batch_id": "f0822b09-f3c1-464e-bbdb-45ff297364d5",
   "venue": "NAACL 2024",
@@ -9545,7 +9545,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.189.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/Show-Your-Work-with-Confidence-Confidence-Bands-for-Tuning-C_17fccff5/full.md",
   "batch_id": "17fccff5-f973-42e6-93a7-5cc1f4a3744a",
   "venue": "NAACL 2024",
@@ -9601,7 +9601,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.naacl-long.82.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-001",
   "path": "2026-08-13/XferBench-a-Data-Driven-Benchmark-for-Emergent-Language_e936f02d/full.md",
   "batch_id": "e936f02d-ad90-461e-bd03-538d92582759",
   "venue": "NAACL 2024",
@@ -9649,7 +9649,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.80.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/Transitive-Consistency-Constrained-Learning-for-Entity-to-En_e10f074e/full.md",
   "batch_id": "e10f074e-0624-4e1c-a96b-71d909902e15",
   "venue": "ACL 2024",
@@ -9673,7 +9673,7 @@
  },
  {
   "source": "https://aclanthology.org/2024.acl-long.83.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-001",
   "path": "2026-08-13/WaterBench-Towards-Holistic-Evaluation-of-Watermarks-for-Lar_90e9ee07/full.md",
   "batch_id": "90e9ee07-fcfd-49f4-80c7-f086a2d7f6a5",
   "venue": "ACL 2024",
@@ -10033,7 +10033,7 @@
  },
  {
   "source": "https://arxiv.org/pdf/2608.12175v1.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-001",
   "path": "2026-08-13/TGRHuman-Text-Guided-Realistic-3D-Human-Generation-via-Difus_509ac02a/full.md",
   "batch_id": "509ac02a-1839-43ac-b4ad-87bfd2a95e4d",
   "venue": "arXiv",
@@ -10041,7 +10041,7 @@
  },
  {
   "source": "https://arxiv.org/pdf/2608.12155v1.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-001",
   "path": "2026-08-13/Understanding-Why-Foundation-Models-Work-for-Difusion-Genera_b32a97fa/full.md",
   "batch_id": "b32a97fa-69a7-46af-afb9-678caae1eb4e",
   "venue": "arXiv",
@@ -10081,7 +10081,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Yan_PlenVDB_Memory_Efficient_VDB-Based_Radiance_Fields_for_Fast_Training_and_CVPR_2023_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
   "path": "2026-08-13/PlenVDB-Memory-Efficient-VDB-Based-Radiance-Fields-for-Fast_8a3c3ed6/full.md",
   "batch_id": "8a3c3ed6-0bfd-4211-b7f9-c4b6cffb55fc",
   "venue": "CVPR 2023",
@@ -10145,7 +10145,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Sumiyasu_Identifying_Important_Group_of_Pixels_using_Interactions_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Identifying-Important-Group-of-Pixels-using-Interactions_60d78362/full.md",
   "batch_id": "60d78362-1075-4cc1-8c88-dc26eed6e983",
   "venue": "CVPR 2024",
@@ -10153,7 +10153,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Hong_On_Exact_Inversion_of_DPM-Solvers_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/On-Exact-Inversion-of-DPM-Solvers_d8dcc90d/full.md",
   "batch_id": "d8dcc90d-3b53-4c2b-a0f4-b523dcf1d73f",
   "venue": "CVPR 2024",
@@ -10169,7 +10169,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Deng_PRDP_Proximal_Reward_Difference_Prediction_for_Large-Scale_Reward_Finetuning_of_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/PRDP-Proximal-Reward-Difference-Prediction-for-Large-Scale-R_39d13e49/full.md",
   "batch_id": "39d13e49-c475-4b69-bacd-231d691e8765",
   "venue": "CVPR 2024",
@@ -10177,7 +10177,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Zhu_Task-Customized_Mixture_of_Adapters_for_General_Image_Fusion_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Task-Customized-Mixture-of-Adapters-for-General-Image-Fusion_e6afd07d/full.md",
   "batch_id": "e6afd07d-3ddb-41dc-8615-2bf59c58c2b3",
   "venue": "CVPR 2024",
@@ -10185,7 +10185,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Giroux_Towards_a_Perceptual_Evaluation_Framework_for_Lighting_Estimation_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/Towards-a-Perceptual-Evaluation-Framework-for-Lighting-Estim_41138041/full.md",
   "batch_id": "41138041-0042-4e98-ba21-e2b7e0e2e0b8",
   "venue": "CVPR 2024",
@@ -10193,7 +10193,7 @@
  },
  {
   "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Xue_VRetouchEr_Learning_Cross-frame_Feature_Interdependence_with_Imperfection_Flow_for_Face_CVPR_2024_paper.pdf",
-  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
   "path": "2026-08-13/VRetouchEr-Learning-Cross-frame-Feature-Interdependence-with_bff3a697/full.md",
   "batch_id": "bff3a697-32b5-42f2-8ef3-15c658298fc9",
   "venue": "CVPR 2024",
