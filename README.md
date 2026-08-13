@@ -1,47 +1,77 @@
-# 论文库总目录（Hub）
+# 🗂️ zhangcursor-hub — 论文笔记总厂库
 
-> 自动生成于 2026-08-13 07:16:49 · 共 3228 篇论文已入库
+**全部论文笔记的统一索引**：收录 arXiv 与各大学术会议（ACL / EMNLP / NAACL / COLING / CVPR / ICCV）论文的完整解析产物，一份索引查遍所有论文仓库。
 
-## 来源分布
+<!-- 胶囊徽章带 -->
+![Papers](https://img.shields.io/badge/Papers-1422-brightgreen?style=flat-square)
+![Repos](https://img.shields.io/badge/Repos-9-blue?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/ZhangCurosr/zhangcursor-hub?style=flat-square)
+![Pipeline](https://img.shields.io/github/actions/workflow/status/ZhangCurosr/paper-notes/mineru_batch.yml?label=daily%20pipeline&style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
-- **CVPR 2023**: 354 篇
-- **CVPR 2024**: 329 篇
-- **arXiv**: 280 篇
-- **ACL 2025**: 200 篇
-- **CVPR 2025**: 200 篇
-- **ACL 2023**: 196 篇
-- **COLING 2025**: 194 篇
-- **other**: 191 篇
-- **NAACL 2022**: 188 篇
-- **ACL 2024**: 186 篇
-- **NAACL 2025**: 186 篇
-- **EMNLP 2024**: 185 篇
-- **EMNLP 2023**: 184 篇
-- **EMNLP 2025**: 179 篇
-- **NAACL 2024**: 176 篇
+## 这是什么
+
+- **统一索引**：全部论文产物仓库的 URL → 仓库/路径 映射，一份 JSON 查遍所有论文
+- **全自动**：每天 02:00 / 14:00 UTC 由云端流水线抓取新论文并更新本库
+- **去重保障**：每篇论文只保留一套完整产物（`paper.pdf` + `full.md` + `images/` + `meta.json`），冗余目录定期自动清理
+
+## 统计
+
+- 论文总数：**1422**
+
+- **arXiv**：383 篇
+- **CVPR 2023**：275 篇
+- **CVPR 2024**：217 篇
+- **ACL 2024**：186 篇
+- **EMNLP 2024**：185 篇
+- **NAACL 2024**：176 篇
 
 ## 产物仓库
 
-- `ZhangCurosr/zhangcursor-papers-acl-2023-001` — 196 篇
-- `ZhangCurosr/zhangcursor-papers-acl-2024-001` — 186 篇
-- `ZhangCurosr/zhangcursor-papers-acl-2025-001` — 200 篇
-- `ZhangCurosr/zhangcursor-papers-arxiv-ai-001` — 65 篇
-- `ZhangCurosr/zhangcursor-papers-arxiv-cl-001` — 38 篇
-- `ZhangCurosr/zhangcursor-papers-arxiv-cv-001` — 74 篇
-- `ZhangCurosr/zhangcursor-papers-arxiv-lg-001` — 103 篇
-- `ZhangCurosr/zhangcursor-papers-coling-2025-001` — 194 篇
-- `ZhangCurosr/zhangcursor-papers-cvpr-2023-001` — 354 篇
-- `ZhangCurosr/zhangcursor-papers-cvpr-2024-001` — 329 篇
-- `ZhangCurosr/zhangcursor-papers-cvpr-2025-001` — 200 篇
-- `ZhangCurosr/zhangcursor-papers-emnlp-2023-001` — 184 篇
-- `ZhangCurosr/zhangcursor-papers-emnlp-2024-001` — 185 篇
-- `ZhangCurosr/zhangcursor-papers-emnlp-2025-001` — 179 篇
-- `ZhangCurosr/zhangcursor-papers-iccv-2023-001` — 191 篇
-- `ZhangCurosr/zhangcursor-papers-naacl-2022-001` — 188 篇
-- `ZhangCurosr/zhangcursor-papers-naacl-2024-001` — 176 篇
-- `ZhangCurosr/zhangcursor-papers-naacl-2025-001` — 186 篇
+| 仓库 | 论文数 |
+|---|---|
+| [`ZhangCurosr/zhangcursor-papers-acl-2024-001`](https://github.com/ZhangCurosr/zhangcursor-papers-acl-2024-001) | 186 |
+| [`ZhangCurosr/zhangcursor-papers-arxiv-ai-001`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-ai-001) | 121 |
+| [`ZhangCurosr/zhangcursor-papers-arxiv-cl-001`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cl-001) | 61 |
+| [`ZhangCurosr/zhangcursor-papers-arxiv-cv-001`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cv-001) | 93 |
+| [`ZhangCurosr/zhangcursor-papers-arxiv-lg-001`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-lg-001) | 108 |
+| [`ZhangCurosr/zhangcursor-papers-cvpr-2023-001`](https://github.com/ZhangCurosr/zhangcursor-papers-cvpr-2023-001) | 275 |
+| [`ZhangCurosr/zhangcursor-papers-cvpr-2024-001`](https://github.com/ZhangCurosr/zhangcursor-papers-cvpr-2024-001) | 217 |
+| [`ZhangCurosr/zhangcursor-papers-emnlp-2024-001`](https://github.com/ZhangCurosr/zhangcursor-papers-emnlp-2024-001) | 185 |
+| [`ZhangCurosr/zhangcursor-papers-naacl-2024-001`](https://github.com/ZhangCurosr/zhangcursor-papers-naacl-2024-001) | 176 |
 
-## 检索
+## 索引格式（index.json）
 
-全量映射见 `index.json`（url → 仓库/路径）。
+```json
+{
+  "source": "https://arxiv.org/pdf/xxxx.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-08-13/Paper-Title_abc12345",
+  "title": "Paper Title",
+  "venue": "arXiv",
+  "date": "2026-08-13"
+}
+```
 
+## 怎么用
+
+```python
+# 读 index.json 按标题 / venue / 来源检索
+idx = json.load(open("index.json"))
+hits = [r for r in idx if "attention" in r["title"].lower()]
+```
+
+## 更新机制
+
+- 每日流水线（`paper-notes` 仓库 Actions）自动追加新论文
+- “Dedup Repos” workflow 一键去重并重建本索引（覆盖式，保证索引与仓库实际一致）
+
+## Limits
+
+- 索引仅收录**完整产物**（有 PDF 且已解析）的论文
+- 论文全文请到对应产物仓库取用，本库不存原文
+- 各仓库容量上限 500MB，超限自动开新仓（`-002`），索引会跟随归一
+
+## License
+
+MIT
