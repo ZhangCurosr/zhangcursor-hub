@@ -3,21 +3,24 @@
   "ZhangCurosr/zhangcursor-papers-acl2024-001": 200
  },
  "arXiv": {
-  "ZhangCurosr/zhangcursor-papers-cs.AI-001": 50,
-  "ZhangCurosr/zhangcursor-papers-cs.CL-001": 57,
-  "ZhangCurosr/zhangcursor-papers-cs.CV-001": 77,
-  "ZhangCurosr/zhangcursor-papers-cs.LG-001": 92
+  "ZhangCurosr/zhangcursor-papers-cs.AI-001": 74,
+  "ZhangCurosr/zhangcursor-papers-cs.CV-001": 79,
+  "ZhangCurosr/zhangcursor-papers-cs.CL-001": 47,
+  "ZhangCurosr/zhangcursor-papers-cs.LG-001": 79
  },
  "CVPR 2023": {
   "ZhangCurosr/zhangcursor-papers-cvpr2023-001": 200
  },
  "CVPR 2024": {
-  "ZhangCurosr/zhangcursor-papers-cvpr2024-001": 199
+  "ZhangCurosr/zhangcursor-papers-cvpr2024-001": 195,
+  "ZhangCurosr/zhangcursor-papers-cvpr2024-002": 4
  },
  "EMNLP 2024": {
-  "ZhangCurosr/zhangcursor-papers-emnlp2024-001": 200
+  "ZhangCurosr/zhangcursor-papers-emnlp2024-001": 188,
+  "ZhangCurosr/zhangcursor-papers-emnlp2024-002": 12
  },
  "NAACL 2024": {
-  "ZhangCurosr/zhangcursor-papers-naacl2024-001": 200
+  "ZhangCurosr/zhangcursor-papers-naacl2024-002": 31,
+  "ZhangCurosr/zhangcursor-papers-naacl2024-001": 169
  }
 }
