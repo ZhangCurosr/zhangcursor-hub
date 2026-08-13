@@ -1,42 +1,30 @@
 {
- "other": {
-  "ZhangCurosr/zhangcursor-papers-acl2024-001": 62,
-  "ZhangCurosr/zhangcursor-papers-acl2024-002": 2,
-  "ZhangCurosr/zhangcursor-papers-cs.CL-001": 9,
-  "ZhangCurosr/zhangcursor-papers-cs.AI-001": 6,
-  "ZhangCurosr/zhangcursor-papers-cs.CV-001": 23,
-  "ZhangCurosr/zhangcursor-papers-cs.LG-001": 8,
-  "ZhangCurosr/zhangcursor-papers-cvpr2023-001": 13,
-  "ZhangCurosr/zhangcursor-papers-cvpr2024-001": 19,
-  "ZhangCurosr/zhangcursor-papers-emnlp2024-001": 20,
-  "ZhangCurosr/zhangcursor-papers-emnlp2024-002": 2,
-  "ZhangCurosr/zhangcursor-papers-naacl2024-001": 21,
-  "ZhangCurosr/zhangcursor-papers-cs.AI-002": 1,
+ "ACL 2024": {
+  "ZhangCurosr/zhangcursor-papers-acl2024-001": 198,
+  "ZhangCurosr/zhangcursor-papers-acl2024-002": 2
+ },
+ "arXiv": {
+  "ZhangCurosr/zhangcursor-papers-cs.AI-001": 52,
+  "ZhangCurosr/zhangcursor-papers-cs.LG-001": 103,
+  "ZhangCurosr/zhangcursor-papers-cs.CV-001": 71,
+  "ZhangCurosr/zhangcursor-papers-cs.CL-001": 45,
+  "ZhangCurosr/zhangcursor-papers-cs.AI-002": 1
+ },
+ "CVPR 2023": {
+  "ZhangCurosr/zhangcursor-papers-cvpr2023-001": 195
+ },
+ "CVPR 2024": {
+  "ZhangCurosr/zhangcursor-papers-cvpr2024-001": 177,
   "ZhangCurosr/zhangcursor-papers-cvpr2024-002": 3,
   "ZhangCurosr/zhangcursor-papers-cvpr2024-003": 1,
   "ZhangCurosr/zhangcursor-papers-cvpr2024-004": 4
  },
- "ACL 2024": {
-  "ZhangCurosr/zhangcursor-papers-acl2024-001": 136
- },
- "arXiv": {
-  "ZhangCurosr/zhangcursor-papers-cs.AI-001": 46,
-  "ZhangCurosr/zhangcursor-papers-cs.LG-001": 95,
-  "ZhangCurosr/zhangcursor-papers-cs.CV-001": 48,
-  "ZhangCurosr/zhangcursor-papers-cs.CL-001": 36
- },
- "CVPR 2023": {
-  "ZhangCurosr/zhangcursor-papers-cvpr2023-001": 182
- },
- "CVPR 2024": {
-  "ZhangCurosr/zhangcursor-papers-cvpr2024-001": 158
- },
  "EMNLP 2024": {
-  "ZhangCurosr/zhangcursor-papers-emnlp2024-001": 170,
-  "ZhangCurosr/zhangcursor-papers-emnlp2024-002": 8
+  "ZhangCurosr/zhangcursor-papers-emnlp2024-001": 190,
+  "ZhangCurosr/zhangcursor-papers-emnlp2024-002": 10
  },
  "NAACL 2024": {
-  "ZhangCurosr/zhangcursor-papers-naacl2024-001": 165,
+  "ZhangCurosr/zhangcursor-papers-naacl2024-001": 186,
   "ZhangCurosr/zhangcursor-papers-naacl2024-002": 14
  }
 }
