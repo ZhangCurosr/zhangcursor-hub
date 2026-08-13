@@ -1,25 +1,23 @@
 {
  "ACL 2024": {
-  "ZhangCurosr/zhangcursor-papers-acl-2024-001": 196
+  "ZhangCurosr/zhangcursor-papers-acl-2024-001": 176
  },
  "EMNLP 2024": {
-  "ZhangCurosr/zhangcursor-papers-emnlp-2024-001": 193
+  "ZhangCurosr/zhangcursor-papers-emnlp-2024-001": 174
  },
  "NAACL 2024": {
-  "ZhangCurosr/zhangcursor-papers-naacl-2024-001": 196
+  "ZhangCurosr/zhangcursor-papers-naacl-2024-001": 171
  },
  "arXiv": {
-  "ZhangCurosr/zhangcursor-papers-arxiv-cv-001": 66,
-  "ZhangCurosr/zhangcursor-papers-arxiv-lg-001": 84,
-  "ZhangCurosr/zhangcursor-papers-arxiv-ai-001": 58,
-  "ZhangCurosr/zhangcursor-papers-arxiv-cl-001": 37,
-  "ZhangCurosr/zhangcursor-papers-cs.LG-001": 18,
-  "ZhangCurosr/zhangcursor-papers-cs.CL-001": 4
+  "ZhangCurosr/zhangcursor-papers-arxiv-cv-001": 60,
+  "ZhangCurosr/zhangcursor-papers-arxiv-lg-001": 100,
+  "ZhangCurosr/zhangcursor-papers-arxiv-ai-001": 56,
+  "ZhangCurosr/zhangcursor-papers-arxiv-cl-001": 46
  },
  "CVPR 2023": {
-  "ZhangCurosr/zhangcursor-papers-cvpr-2023-001": 189
+  "ZhangCurosr/zhangcursor-papers-cvpr-2023-001": 160
  },
  "CVPR 2024": {
-  "ZhangCurosr/zhangcursor-papers-cvpr-2024-001": 195
+  "ZhangCurosr/zhangcursor-papers-cvpr-2024-001": 136
  }
 }
