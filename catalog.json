@@ -1,50 +1,68 @@
 {
- "ACL 2024": {
-  "ZhangCurosr/zhangcursor-papers-acl-2024-001": 186
- },
- "EMNLP 2024": {
-  "ZhangCurosr/zhangcursor-papers-emnlp-2024-001": 185
- },
- "NAACL 2024": {
-  "ZhangCurosr/zhangcursor-papers-naacl-2024-001": 176
- },
- "arXiv": {
-  "ZhangCurosr/zhangcursor-papers-arxiv-cv-001": 74,
-  "ZhangCurosr/zhangcursor-papers-arxiv-lg-001": 103,
-  "ZhangCurosr/zhangcursor-papers-arxiv-ai-001": 65,
-  "ZhangCurosr/zhangcursor-papers-arxiv-cl-001": 38
- },
- "CVPR 2023": {
-  "ZhangCurosr/zhangcursor-papers-cvpr-2023-001": 354
- },
- "CVPR 2024": {
-  "ZhangCurosr/zhangcursor-papers-cvpr-2024-001": 329
+ "NAACL 2022": {
+  "ZhangCurosr/zhangcursor-papers-naacl-2022-001": 200
  },
  "ACL 2023": {
-  "ZhangCurosr/zhangcursor-papers-acl-2023-001": 196
- },
- "ACL 2025": {
-  "ZhangCurosr/zhangcursor-papers-acl-2025-001": 200
- },
- "COLING 2025": {
-  "ZhangCurosr/zhangcursor-papers-coling-2025-001": 194
- },
- "CVPR 2025": {
-  "ZhangCurosr/zhangcursor-papers-cvpr-2025-001": 200
+  "ZhangCurosr/zhangcursor-papers-acl-2023-001": 192,
+  "ZhangCurosr/zhangcursor-papers-acl-2023-002": 7
  },
  "EMNLP 2023": {
-  "ZhangCurosr/zhangcursor-papers-emnlp-2023-001": 184
+  "ZhangCurosr/zhangcursor-papers-emnlp-2023-001": 191,
+  "ZhangCurosr/zhangcursor-papers-emnlp-2023-002": 9
+ },
+ "ACL 2024": {
+  "ZhangCurosr/zhangcursor-papers-acl-2024-001": 194,
+  "ZhangCurosr/zhangcursor-papers-acl-2024-002": 7
+ },
+ "EMNLP 2024": {
+  "ZhangCurosr/zhangcursor-papers-emnlp-2024-001": 194,
+  "ZhangCurosr/zhangcursor-papers-emnlp-2024-002": 7
+ },
+ "NAACL 2024": {
+  "ZhangCurosr/zhangcursor-papers-naacl-2024-001": 196,
+  "ZhangCurosr/zhangcursor-papers-naacl-2024-002": 4
+ },
+ "ACL 2025": {
+  "ZhangCurosr/zhangcursor-papers-acl-2025-001": 193,
+  "ZhangCurosr/zhangcursor-papers-acl-2025-002": 7
+ },
+ "COLING 2025": {
+  "ZhangCurosr/zhangcursor-papers-coling-2025-001": 191,
+  "ZhangCurosr/zhangcursor-papers-coling-2025-002": 9
  },
  "EMNLP 2025": {
-  "ZhangCurosr/zhangcursor-papers-emnlp-2025-001": 179
- },
- "other": {
-  "ZhangCurosr/zhangcursor-papers-iccv-2023-001": 191
- },
- "NAACL 2022": {
-  "ZhangCurosr/zhangcursor-papers-naacl-2022-001": 188
+  "ZhangCurosr/zhangcursor-papers-emnlp-2025-001": 195,
+  "ZhangCurosr/zhangcursor-papers-emnlp-2025-002": 5
  },
  "NAACL 2025": {
-  "ZhangCurosr/zhangcursor-papers-naacl-2025-001": 186
+  "ZhangCurosr/zhangcursor-papers-naacl-2025-001": 193,
+  "ZhangCurosr/zhangcursor-papers-naacl-2025-002": 7
+ },
+ "arXiv": {
+  "ZhangCurosr/zhangcursor-papers-arxiv-cv-002": 33,
+  "ZhangCurosr/zhangcursor-papers-arxiv-lg-001": 103,
+  "ZhangCurosr/zhangcursor-papers-arxiv-ai-001": 34,
+  "ZhangCurosr/zhangcursor-papers-arxiv-cl-001": 47,
+  "ZhangCurosr/zhangcursor-papers-arxiv-cv-001": 50,
+  "ZhangCurosr/zhangcursor-papers-arxiv-lg-002": 5,
+  "ZhangCurosr/zhangcursor-papers-arxiv-ai-002": 15
+ },
+ "CVPR 2023": {
+  "ZhangCurosr/zhangcursor-papers-cvpr-2023-001": 281,
+  "ZhangCurosr/zhangcursor-papers-cvpr-2023-002": 85
+ },
+ "CVPR 2024": {
+  "ZhangCurosr/zhangcursor-papers-cvpr-2024-001": 215,
+  "ZhangCurosr/zhangcursor-papers-cvpr-2024-003": 33,
+  "ZhangCurosr/zhangcursor-papers-cvpr-2024-002": 95
+ },
+ "CVPR 2025": {
+  "ZhangCurosr/zhangcursor-papers-cvpr-2025-001": 182,
+  "ZhangCurosr/zhangcursor-papers-cvpr-2025-002": 9,
+  "ZhangCurosr/zhangcursor-papers-cvpr-2025-003": 9
+ },
+ "ICCV 2023": {
+  "ZhangCurosr/zhangcursor-papers-iccv-2023-001": 193,
+  "ZhangCurosr/zhangcursor-papers-iccv-2023-002": 7
  }
 }
