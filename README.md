@@ -3,7 +3,7 @@
 统一索引全部论文笔记产物仓库。
 
 ## 统计
-- 论文总数：**1079**
+- 论文总数：**1205**
 
 - **2024.acl-long.0.pdf**: 1 篇
 - **2024.acl-long.1.pdf**: 1 篇
@@ -1084,21 +1084,161 @@
 - **2024.naacl-long.97.p**: 1 篇
 - **2024.naacl-long.98.p**: 1 篇
 - **2024.naacl-long.99.p**: 1 篇
+- **2024.acl-long.194.pd**: 1 篇
+- **2024.acl-long.195.pd**: 1 篇
+- **2024.acl-long.196.pd**: 1 篇
+- **2024.acl-long.197.pd**: 1 篇
+- **2024.acl-long.198.pd**: 1 篇
+- **2024.acl-long.199.pd**: 1 篇
+- **2608.11739v1.pdf**: 1 篇
+- **2608.11766v1.pdf**: 1 篇
+- **2608.11768v1.pdf**: 1 篇
+- **2608.11794v1.pdf**: 1 篇
+- **2608.11802v1.pdf**: 1 篇
+- **2608.11888v1.pdf**: 1 篇
+- **2608.11629v1.pdf**: 1 篇
+- **2608.11649v1.pdf**: 1 篇
+- **2608.11650v1.pdf**: 1 篇
+- **2608.11691v1.pdf**: 1 篇
+- **2608.11645v1.pdf**: 1 篇
+- **2608.11646v1.pdf**: 1 篇
+- **2608.11656v1.pdf**: 1 篇
+- **2608.11690v1.pdf**: 1 篇
+- **2608.11716v1.pdf**: 1 篇
+- **2608.12000v1.pdf**: 1 篇
+- **Agro_Implicit_Occupa**: 1 篇
+- **Ahuja_Neural_Rate_Es**: 1 篇
+- **Bhatia_CCuantuMM_Cyc**: 1 篇
+- **Chu_BUOL_A_Bottom-Up**: 1 篇
+- **Ci_GFPose_Learning_3**: 1 篇
+- **Dong_Weakly_Supervis**: 1 篇
+- **Du_Minimizing_the_Ac**: 1 篇
+- **Huang_VoP_Text-Video**: 1 篇
+- **Ji_Seeing_What_You_M**: 1 篇
+- **Jiang_Understanding_**: 1 篇
+- **Nauta_PIP-Net_Patch-**: 1 篇
+- **Petrov_Object_Pop-Up**: 1 篇
+- **Qu_Towards_Robust_Ta**: 1 篇
+- **Rangwani_NoisyTwins_**: 1 篇
+- **Sain_Exploiting_Unla**: 1 篇
+- **Saito_Prefix_Conditi**: 1 篇
+- **Worchel_Differentiab**: 1 篇
+- **Xu_CXTrack_Improving**: 1 篇
+- **Xu_DisCoScene_Spatia**: 1 篇
+- **Yao_Visual-Language_**: 1 篇
+- **Zhang_CloSET_Modelin**: 1 篇
+- **Zhang_DeSTSeg_Segmen**: 1 篇
+- **Zhang_Diverse_Embedd**: 1 篇
+- **Zheng_TrojViT_Trojan**: 1 篇
+- **Zhou_OcTr_Octree-Bas**: 1 篇
+- **Zielonka_Instant_Vol**: 1 篇
+- **Argaw_Scaling_Up_Vid**: 1 篇
+- **Azad_Activity-Biomet**: 1 篇
+- **Bastico_Coupled_Lapl**: 1 篇
+- **Bhattad_StyLitGAN_Im**: 1 篇
+- **Brument_RNb-NeuS_Ref**: 1 篇
+- **Chen_ArtAdapter_Text**: 1 篇
+- **Chen_Learning_Spatia**: 1 篇
+- **Cheng_Learning_Conti**: 1 篇
+- **Chihaoui_Masked_and_**: 1 篇
+- **Choi_OmniLocalRF_Omn**: 1 篇
+- **Deng_Z_Zero-shot_Sty**: 1 篇
+- **Dogadov_Fitting_Flat**: 1 篇
+- **Dong_Interactive3D_C**: 1 篇
+- **Fischer_NeRF_Analogi**: 1 篇
+- **Guo_MoMask_Generativ**: 1 篇
+- **Han_JDEC_JPEG_Decodi**: 1 篇
+- **Hsiao_Confronting_Am**: 1 篇
+- **Huang_AlignSAM_Align**: 1 篇
+- **Jayasumana_MarkovGen**: 1 篇
+- **Ju_DiffInDScene_Diff**: 1 篇
+- **Kara_DIOD_Self-Disti**: 1 篇
+- **Kirschstein_Diffusio**: 1 篇
+- **Lee_MFP_Making_Full_**: 1 篇
+- **Li_CosmicMan_A_Text-**: 1 篇
+- **Li_DiffAvatar_Simula**: 1 篇
+- **Liang_Towards_Robust**: 1 篇
+- **Ling_FreeDrag_Featur**: 1 篇
+- **Liu_HumanGaussian_Te**: 1 篇
+- **Ma_AB_BNN_AddBit-Ope**: 1 篇
+- **Ma_HashPoint_Acceler**: 1 篇
+- **Pang_ASH_Animatable_**: 1 篇
+- **Pang_HIR-Diff_Unsupe**: 1 篇
+- **Peng_Parameter_Effic**: 1 篇
+- **Qian_From_a_Birds_Ey**: 1 篇
+- **Saratchandran_From_A**: 1 篇
+- **Teney_Neural_Redshif**: 1 篇
+- **Wei_Semantic-aware_S**: 1 篇
+- **Wen_GoMAvatar_Effici**: 1 篇
+- **Xu_Enhancing_Video_S**: 1 篇
+- **Yang_Texture-Preserv**: 1 篇
+- **Zeng_Make_Pixels_Dan**: 1 篇
+- **Zhan_Semantic_Human_**: 1 篇
+- **Zhang_HOI-M3_Capture**: 1 篇
+- **Zhang_MAPSeg_Unified**: 1 篇
+- **Zhang_PIA_Your_Perso**: 1 篇
+- **de_Geus_Task-aligned**: 1 篇
+- **2024.emnlp-main.104.**: 1 篇
+- **2024.emnlp-main.56.p**: 1 篇
+- **2024.emnlp-main.57.p**: 1 篇
+- **2024.emnlp-main.58.p**: 1 篇
+- **2024.emnlp-main.59.p**: 1 篇
+- **2024.emnlp-main.91.p**: 1 篇
+- **2024.emnlp-main.92.p**: 1 篇
+- **2024.emnlp-main.93.p**: 1 篇
+- **2024.emnlp-main.94.p**: 1 篇
+- **2024.emnlp-main.95.p**: 1 篇
+- **2024.emnlp-main.96.p**: 1 篇
+- **2024.emnlp-main.97.p**: 1 篇
+- **2024.emnlp-main.98.p**: 1 篇
+- **2024.emnlp-main.99.p**: 1 篇
+- **2024.naacl-long.183.**: 1 篇
+- **2024.naacl-long.184.**: 1 篇
+- **2024.naacl-long.185.**: 1 篇
+- **2024.naacl-long.186.**: 1 篇
+- **2024.naacl-long.187.**: 1 篇
+- **2024.naacl-long.188.**: 1 篇
+- **2024.naacl-long.189.**: 1 篇
+- **2024.naacl-long.190.**: 1 篇
+- **2024.naacl-long.191.**: 1 篇
+- **2024.naacl-long.193.**: 1 篇
+- **2024.naacl-long.79.p**: 1 篇
+- **2024.naacl-long.80.p**: 1 篇
+- **2024.naacl-long.81.p**: 1 篇
+- **2024.naacl-long.82.p**: 1 篇
+- **2024.naacl-long.83.p**: 1 篇
+- **2024.naacl-long.84.p**: 1 篇
+- **2024.naacl-long.85.p**: 1 篇
+- **2024.naacl-long.86.p**: 1 篇
 
 ## 产物仓库
 
 - `ZhangCurosr/zhangcursor-papers-acl2024-001` — 165 篇
 - `ZhangCurosr/zhangcursor-papers-acl2024-002` — 21 篇
-- `ZhangCurosr/zhangcursor-papers-cs.AI-001` — 53 篇
-- `ZhangCurosr/zhangcursor-papers-cs.CL-001` — 40 篇
-- `ZhangCurosr/zhangcursor-papers-cs.CV-001` — 75 篇
-- `ZhangCurosr/zhangcursor-papers-cs.LG-001` — 70 篇
-- `ZhangCurosr/zhangcursor-papers-cvpr2023-001` — 165 篇
-- `ZhangCurosr/zhangcursor-papers-cvpr2024-001` — 129 篇
-- `ZhangCurosr/zhangcursor-papers-emnlp2024-001` — 172 篇
+- `ZhangCurosr/zhangcursor-papers-acl2024-003` — 6 篇
+- `ZhangCurosr/zhangcursor-papers-cs.AI-001` — 54 篇
+- `ZhangCurosr/zhangcursor-papers-cs.AI-002` — 5 篇
+- `ZhangCurosr/zhangcursor-papers-cs.CL-001` — 44 篇
+- `ZhangCurosr/zhangcursor-papers-cs.CV-001` — 77 篇
+- `ZhangCurosr/zhangcursor-papers-cs.LG-001` — 73 篇
+- `ZhangCurosr/zhangcursor-papers-cs.LG-002` — 1 篇
+- `ZhangCurosr/zhangcursor-papers-cvpr2023-001` — 172 篇
+- `ZhangCurosr/zhangcursor-papers-cvpr2023-002` — 3 篇
+- `ZhangCurosr/zhangcursor-papers-cvpr2023-003` — 6 篇
+- `ZhangCurosr/zhangcursor-papers-cvpr2023-004` — 6 篇
+- `ZhangCurosr/zhangcursor-papers-cvpr2023-005` — 4 篇
+- `ZhangCurosr/zhangcursor-papers-cvpr2024-001` — 145 篇
+- `ZhangCurosr/zhangcursor-papers-cvpr2024-002` — 14 篇
+- `ZhangCurosr/zhangcursor-papers-cvpr2024-003` — 6 篇
+- `ZhangCurosr/zhangcursor-papers-cvpr2024-004` — 10 篇
+- `ZhangCurosr/zhangcursor-papers-emnlp2024-001` — 173 篇
 - `ZhangCurosr/zhangcursor-papers-emnlp2024-002` — 7 篇
+- `ZhangCurosr/zhangcursor-papers-emnlp2024-004` — 4 篇
+- `ZhangCurosr/zhangcursor-papers-emnlp2024-005` — 9 篇
 - `ZhangCurosr/zhangcursor-papers-naacl2024-001` — 166 篇
 - `ZhangCurosr/zhangcursor-papers-naacl2024-002` — 16 篇
+- `ZhangCurosr/zhangcursor-papers-naacl2024-003` — 10 篇
+- `ZhangCurosr/zhangcursor-papers-naacl2024-005` — 8 篇
 
 ## 检索
 
