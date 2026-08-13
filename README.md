@@ -1,28 +1,28 @@
 # 论文笔记总厂库（Hub）
 
-统一索引全部论文笔记产物仓库。
+统一索引全部论文笔记产物仓库（去重后每篇论文仅一套完整产物：pdf + full.md + images + meta）。
 
 ## 统计
-- 论文总数：**1284**
+- 论文总数：**1094**
 
-- **arXiv**: 285 篇
-- **ACL 2024**: 200 篇
-- **CVPR 2023**: 200 篇
-- **EMNLP 2024**: 200 篇
-- **NAACL 2024**: 200 篇
-- **CVPR 2024**: 199 篇
+- **arXiv**: 341 篇
+- **ACL 2024**: 167 篇
+- **NAACL 2024**: 156 篇
+- **CVPR 2023**: 154 篇
+- **EMNLP 2024**: 152 篇
+- **CVPR 2024**: 124 篇
 
 ## 产物仓库
 
-- `ZhangCurosr/zhangcursor-papers-acl2024-001` — 200 篇
-- `ZhangCurosr/zhangcursor-papers-cs.AI-001` — 60 篇
-- `ZhangCurosr/zhangcursor-papers-cs.CL-001` — 48 篇
-- `ZhangCurosr/zhangcursor-papers-cs.CV-001` — 82 篇
-- `ZhangCurosr/zhangcursor-papers-cs.LG-001` — 95 篇
-- `ZhangCurosr/zhangcursor-papers-cvpr2023-001` — 200 篇
-- `ZhangCurosr/zhangcursor-papers-cvpr2024-001` — 199 篇
-- `ZhangCurosr/zhangcursor-papers-emnlp2024-001` — 200 篇
-- `ZhangCurosr/zhangcursor-papers-naacl2024-001` — 200 篇
+- `ZhangCurosr/zhangcursor-papers-acl-2024-001` — 167 篇
+- `ZhangCurosr/zhangcursor-papers-arxiv-ai-001` — 99 篇
+- `ZhangCurosr/zhangcursor-papers-arxiv-cl-001` — 61 篇
+- `ZhangCurosr/zhangcursor-papers-arxiv-cv-001` — 73 篇
+- `ZhangCurosr/zhangcursor-papers-arxiv-lg-001` — 108 篇
+- `ZhangCurosr/zhangcursor-papers-cvpr-2023-001` — 154 篇
+- `ZhangCurosr/zhangcursor-papers-cvpr-2024-001` — 124 篇
+- `ZhangCurosr/zhangcursor-papers-emnlp-2024-001` — 152 篇
+- `ZhangCurosr/zhangcursor-papers-naacl-2024-001` — 156 篇
 
 ## 检索
 
