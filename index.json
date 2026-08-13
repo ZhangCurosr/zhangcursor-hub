@@ -7551,5 +7551,887 @@
   "path": "2026-08-13/2024.naacl-long.99.pdf_9a96bbfc/full.md",
   "batch_id": "9a96bbfc-5ae4-4934-9606-41b247d62c1c",
   "synced_at": "2026-08-13 02:47:24"
+ },
+ {
+  "source": "https://aclanthology.org/2024.acl-long.194.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-003",
+  "path": "2026-08-13/2024.acl-long.194.pdf_31655918/full.md",
+  "batch_id": "31655918-d133-49bd-ba66-eb4e3a0c6ad7",
+  "synced_at": "2026-08-13 02:34:35"
+ },
+ {
+  "source": "https://aclanthology.org/2024.acl-long.195.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-003",
+  "path": "2026-08-13/2024.acl-long.195.pdf_39d7b32c/full.md",
+  "batch_id": "39d7b32c-2f82-4788-9a16-40896e251e7b",
+  "synced_at": "2026-08-13 02:34:35"
+ },
+ {
+  "source": "https://aclanthology.org/2024.acl-long.196.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-003",
+  "path": "2026-08-13/2024.acl-long.196.pdf_190e287d/full.md",
+  "batch_id": "190e287d-ba77-41bb-9dd3-8593da1a2eab",
+  "synced_at": "2026-08-13 02:34:35"
+ },
+ {
+  "source": "https://aclanthology.org/2024.acl-long.197.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-003",
+  "path": "2026-08-13/2024.acl-long.197.pdf_3374dbcc/full.md",
+  "batch_id": "3374dbcc-bee5-4186-8b55-d9703a8a58c5",
+  "synced_at": "2026-08-13 02:34:35"
+ },
+ {
+  "source": "https://aclanthology.org/2024.acl-long.198.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-003",
+  "path": "2026-08-13/2024.acl-long.198.pdf_1f16aa52/full.md",
+  "batch_id": "1f16aa52-956d-4fa8-978d-3ef99aaca4d2",
+  "synced_at": "2026-08-13 02:34:35"
+ },
+ {
+  "source": "https://aclanthology.org/2024.acl-long.199.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl2024-003",
+  "path": "2026-08-13/2024.acl-long.199.pdf_8c1a18a2/full.md",
+  "batch_id": "8c1a18a2-85dd-4560-9abc-86662a952b4c",
+  "synced_at": "2026-08-13 02:34:35"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2608.11739v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.AI-001",
+  "path": "2026-08-13/2608.11739v1.pdf_cc9f4e94/full.md",
+  "batch_id": "cc9f4e94-8838-42d5-8d30-db834a4a0ea1",
+  "synced_at": "2026-08-13 02:34:26"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2608.11766v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.AI-002",
+  "path": "2026-08-13/2608.11766v1.pdf_684dce78/full.md",
+  "batch_id": "684dce78-b896-4066-b719-b2fa0a4d088c",
+  "synced_at": "2026-08-13 02:34:38"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2608.11768v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.AI-002",
+  "path": "2026-08-13/2608.11768v1.pdf_36183837/full.md",
+  "batch_id": "36183837-0894-43dc-8c3f-97d69ba001d4",
+  "synced_at": "2026-08-13 02:34:38"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2608.11794v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.AI-002",
+  "path": "2026-08-13/2608.11794v1.pdf_90d9b1dc/full.md",
+  "batch_id": "90d9b1dc-9651-4a8f-a8dd-45623cbcc168",
+  "synced_at": "2026-08-13 02:34:38"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2608.11802v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.AI-002",
+  "path": "2026-08-13/2608.11802v1.pdf_31b20bb7/full.md",
+  "batch_id": "31b20bb7-dc6b-4943-8626-4866b824a702",
+  "synced_at": "2026-08-13 02:34:38"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2608.11888v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.AI-002",
+  "path": "2026-08-13/2608.11888v1.pdf_bf343aea/full.md",
+  "batch_id": "bf343aea-4cdf-4fd1-b3be-bae2508ccfcb",
+  "synced_at": "2026-08-13 02:34:38"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2608.11629v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.CL-001",
+  "path": "2026-08-13/2608.11629v1.pdf_24b6bbc5/full.md",
+  "batch_id": "24b6bbc5-c4d8-476f-b863-20b582803ff7",
+  "synced_at": "2026-08-13 02:32:12"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2608.11649v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.CL-001",
+  "path": "2026-08-13/2608.11649v1.pdf_ba66d0a8/full.md",
+  "batch_id": "ba66d0a8-5bd9-485d-8444-854482cf9846",
+  "synced_at": "2026-08-13 02:32:12"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2608.11650v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.CL-001",
+  "path": "2026-08-13/2608.11650v1.pdf_10d08fdc/full.md",
+  "batch_id": "10d08fdc-4971-4a38-a3c3-5d529990b8e7",
+  "synced_at": "2026-08-13 02:32:12"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2608.11691v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.CL-001",
+  "path": "2026-08-13/2608.11691v1.pdf_db005380/full.md",
+  "batch_id": "db005380-a5b2-40dc-860e-f959cff144e4",
+  "synced_at": "2026-08-13 02:32:12"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2608.11645v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-001",
+  "path": "2026-08-13/2608.11645v1.pdf_da6d8641/full.md",
+  "batch_id": "da6d8641-6b94-434e-8b38-daede16ae3e1",
+  "synced_at": "2026-08-13 02:34:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2608.11646v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.CV-001",
+  "path": "2026-08-13/2608.11646v1.pdf_fd240f94/full.md",
+  "batch_id": "fd240f94-3a70-4ecf-b0da-6c51a443de14",
+  "synced_at": "2026-08-13 02:34:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2608.11656v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.LG-001",
+  "path": "2026-08-13/2608.11656v1.pdf_156af090/full.md",
+  "batch_id": "156af090-56d0-4980-a51d-ff40731f1a18",
+  "synced_at": "2026-08-13 02:33:57"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2608.11690v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.LG-001",
+  "path": "2026-08-13/2608.11690v1.pdf_e40b866f/full.md",
+  "batch_id": "e40b866f-935a-43ec-bbaf-8b7dc7249f97",
+  "synced_at": "2026-08-13 02:33:57"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2608.11716v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.LG-001",
+  "path": "2026-08-13/2608.11716v1.pdf_ad6aff91/full.md",
+  "batch_id": "ad6aff91-6789-46bc-afcf-7f6f60d77631",
+  "synced_at": "2026-08-13 02:33:57"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2608.12000v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cs.LG-002",
+  "path": "2026-08-13/2608.12000v1.pdf_278e88c4/full.md",
+  "batch_id": "278e88c4-079c-4e5d-97a5-2e08996b9542",
+  "synced_at": "2026-08-13 02:34:08"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Agro_Implicit_Occupancy_Flow_Fields_for_Perception_and_Prediction_in_Self-Driving_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
+  "path": "2026-08-13/Agro_Implicit_Occupancy_Flow_Fields_for_Perception_and_Predi_1bf4984b/full.md",
+  "batch_id": "1bf4984b-9427-4d2b-a36e-04addab106d7",
+  "synced_at": "2026-08-13 02:34:14"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Ahuja_Neural_Rate_Estimator_and_Unsupervised_Learning_for_Efficient_Distributed_Image_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
+  "path": "2026-08-13/Ahuja_Neural_Rate_Estimator_and_Unsupervised_Learning_for_Ef_520990cb/full.md",
+  "batch_id": "520990cb-e607-4d5e-a844-71c05e771596",
+  "synced_at": "2026-08-13 02:34:14"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Bhatia_CCuantuMM_Cycle-Consistent_Quantum-Hybrid_Matching_of_Multiple_Shapes_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
+  "path": "2026-08-13/Bhatia_CCuantuMM_Cycle-Consistent_Quantum-Hybrid_Matching_of_147ea9f0/full.md",
+  "batch_id": "147ea9f0-9771-4b0f-a7ea-129eb03c9057",
+  "synced_at": "2026-08-13 02:34:14"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Chu_BUOL_A_Bottom-Up_Framework_With_Occupancy-Aware_Lifting_for_Panoptic_3D_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
+  "path": "2026-08-13/Chu_BUOL_A_Bottom-Up_Framework_With_Occupancy-Aware_Lifting__77f1ba97/full.md",
+  "batch_id": "77f1ba97-445b-4a06-9923-0c3f26f617ff",
+  "synced_at": "2026-08-13 02:34:14"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Ci_GFPose_Learning_3D_Human_Pose_Prior_With_Gradient_Fields_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
+  "path": "2026-08-13/Ci_GFPose_Learning_3D_Human_Pose_Prior_With_Gradient_Fields__3e0c2770/full.md",
+  "batch_id": "3e0c2770-63fd-44dd-bd7f-1a172746b71f",
+  "synced_at": "2026-08-13 02:34:14"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Dong_Weakly_Supervised_Video_Representation_Learning_With_Unaligned_Text_for_Sequential_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
+  "path": "2026-08-13/Dong_Weakly_Supervised_Video_Representation_Learning_With_Un_3f315f36/full.md",
+  "batch_id": "3f315f36-85d4-4134-bd92-d31c4ab2f48e",
+  "synced_at": "2026-08-13 02:34:14"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Du_Minimizing_the_Accumulated_Trajectory_Error_To_Improve_Dataset_Distillation_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-001",
+  "path": "2026-08-13/Du_Minimizing_the_Accumulated_Trajectory_Error_To_Improve_Da_f2a4d8d1/full.md",
+  "batch_id": "f2a4d8d1-627e-4bb4-a61f-48b371daf171",
+  "synced_at": "2026-08-13 02:34:14"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Huang_VoP_Text-Video_Co-Operative_Prompt_Tuning_for_Cross-Modal_Retrieval_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "path": "2026-08-13/Huang_VoP_Text-Video_Co-Operative_Prompt_Tuning_for_Cross-Mo_b3465e83/full.md",
+  "batch_id": "b3465e83-9763-4854-b7d0-fad343ecf59f",
+  "synced_at": "2026-08-13 02:34:21"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Ji_Seeing_What_You_Miss_Vision-Language_Pre-Training_With_Semantic_Completion_Learning_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "path": "2026-08-13/Ji_Seeing_What_You_Miss_Vision-Language_Pre-Training_With_Se_c06c7a35/full.md",
+  "batch_id": "c06c7a35-ebbf-4eb8-a748-57bc7e590a18",
+  "synced_at": "2026-08-13 02:34:21"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Jiang_Understanding_and_Constructing_Latent_Modality_Structures_in_Multi-Modal_Representation_Learning_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-002",
+  "path": "2026-08-13/Jiang_Understanding_and_Constructing_Latent_Modality_Structu_8ee4df5f/full.md",
+  "batch_id": "8ee4df5f-1d6b-4e65-bbd2-b89ab753d674",
+  "synced_at": "2026-08-13 02:34:21"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Nauta_PIP-Net_Patch-Based_Intuitive_Prototypes_for_Interpretable_Image_Classification_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-003",
+  "path": "2026-08-13/Nauta_PIP-Net_Patch-Based_Intuitive_Prototypes_for_Interpret_9c32c5e5/full.md",
+  "batch_id": "9c32c5e5-d2d5-4007-9691-b05a7328943a",
+  "synced_at": "2026-08-13 02:34:29"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Petrov_Object_Pop-Up_Can_We_Infer_3D_Objects_and_Their_Poses_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-003",
+  "path": "2026-08-13/Petrov_Object_Pop-Up_Can_We_Infer_3D_Objects_and_Their_Poses_768452a3/full.md",
+  "batch_id": "768452a3-bbe1-4e91-8d44-84e14a09f550",
+  "synced_at": "2026-08-13 02:34:29"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Qu_Towards_Robust_Tampered_Text_Detection_in_Document_Image_New_Dataset_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-003",
+  "path": "2026-08-13/Qu_Towards_Robust_Tampered_Text_Detection_in_Document_Image__35ffd91d/full.md",
+  "batch_id": "35ffd91d-97fb-4244-a0b2-e0e75183c79a",
+  "synced_at": "2026-08-13 02:34:29"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Rangwani_NoisyTwins_Class-Consistent_and_Diverse_Image_Generation_Through_StyleGANs_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-003",
+  "path": "2026-08-13/Rangwani_NoisyTwins_Class-Consistent_and_Diverse_Image_Gener_c66a65ad/full.md",
+  "batch_id": "c66a65ad-549b-4de0-9da7-32931a5383b2",
+  "synced_at": "2026-08-13 02:34:29"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Sain_Exploiting_Unlabelled_Photos_for_Stronger_Fine-Grained_SBIR_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-003",
+  "path": "2026-08-13/Sain_Exploiting_Unlabelled_Photos_for_Stronger_Fine-Grained__7e3b348f/full.md",
+  "batch_id": "7e3b348f-bbdb-4776-8be5-be269f8e71b0",
+  "synced_at": "2026-08-13 02:34:29"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Saito_Prefix_Conditioning_Unifies_Language_and_Label_Supervision_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-003",
+  "path": "2026-08-13/Saito_Prefix_Conditioning_Unifies_Language_and_Label_Supervi_b19ed67c/full.md",
+  "batch_id": "b19ed67c-9663-4b40-af23-db132e861350",
+  "synced_at": "2026-08-13 02:34:29"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Worchel_Differentiable_Shadow_Mapping_for_Efficient_Inverse_Graphics_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-004",
+  "path": "2026-08-13/Worchel_Differentiable_Shadow_Mapping_for_Efficient_Inverse__61d98d51/full.md",
+  "batch_id": "61d98d51-ccc1-4387-9a22-d555830a5304",
+  "synced_at": "2026-08-13 02:34:37"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Xu_CXTrack_Improving_3D_Point_Cloud_Tracking_With_Contextual_Information_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-004",
+  "path": "2026-08-13/Xu_CXTrack_Improving_3D_Point_Cloud_Tracking_With_Contextual_3d289e82/full.md",
+  "batch_id": "3d289e82-012d-449d-8e9c-002a80bd1448",
+  "synced_at": "2026-08-13 02:34:37"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Xu_DisCoScene_Spatially_Disentangled_Generative_Radiance_Fields_for_Controllable_3D-Aware_Scene_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-004",
+  "path": "2026-08-13/Xu_DisCoScene_Spatially_Disentangled_Generative_Radiance_Fie_bb9e864e/full.md",
+  "batch_id": "bb9e864e-dc05-4734-a984-fd989296ac52",
+  "synced_at": "2026-08-13 02:34:37"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Yao_Visual-Language_Prompt_Tuning_With_Knowledge-Guided_Context_Optimization_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-004",
+  "path": "2026-08-13/Yao_Visual-Language_Prompt_Tuning_With_Knowledge-Guided_Cont_7613fa6f/full.md",
+  "batch_id": "7613fa6f-5488-4e16-aa27-555e40aa53d9",
+  "synced_at": "2026-08-13 02:34:37"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Zhang_CloSET_Modeling_Clothed_Humans_on_Continuous_Surface_With_Explicit_Template_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-004",
+  "path": "2026-08-13/Zhang_CloSET_Modeling_Clothed_Humans_on_Continuous_Surface_W_c7f76892/full.md",
+  "batch_id": "c7f76892-d6a0-422a-9889-9b471a491492",
+  "synced_at": "2026-08-13 02:34:37"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Zhang_DeSTSeg_Segmentation_Guided_Denoising_Student-Teacher_for_Anomaly_Detection_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-004",
+  "path": "2026-08-13/Zhang_DeSTSeg_Segmentation_Guided_Denoising_Student-Teacher__a45cd471/full.md",
+  "batch_id": "a45cd471-0261-4342-a359-b1764ef77cf3",
+  "synced_at": "2026-08-13 02:34:37"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Zhang_Diverse_Embedding_Expansion_Network_and_Low-Light_Cross-Modality_Benchmark_for_Visible-Infrared_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-005",
+  "path": "2026-08-13/Zhang_Diverse_Embedding_Expansion_Network_and_Low-Light_Cros_8f779e4c/full.md",
+  "batch_id": "8f779e4c-c8b2-4891-bd1e-1e8c5202865b",
+  "synced_at": "2026-08-13 02:34:42"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Zheng_TrojViT_Trojan_Insertion_in_Vision_Transformers_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-005",
+  "path": "2026-08-13/Zheng_TrojViT_Trojan_Insertion_in_Vision_Transformers_CVPR_2_bf45cd9c/full.md",
+  "batch_id": "bf45cd9c-e619-4a8e-9f68-589f0a199932",
+  "synced_at": "2026-08-13 02:34:42"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Zhou_OcTr_Octree-Based_Transformer_for_3D_Object_Detection_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-005",
+  "path": "2026-08-13/Zhou_OcTr_Octree-Based_Transformer_for_3D_Object_Detection_C_a5807003/full.md",
+  "batch_id": "a5807003-1a36-487d-940f-ac5df3afc6fb",
+  "synced_at": "2026-08-13 02:34:42"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2023/papers/Zielonka_Instant_Volumetric_Head_Avatars_CVPR_2023_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2023-005",
+  "path": "2026-08-13/Zielonka_Instant_Volumetric_Head_Avatars_CVPR_2023_paper.pdf_cd67a90a/full.md",
+  "batch_id": "cd67a90a-6eca-4982-a32b-8acd001bcfab",
+  "synced_at": "2026-08-13 02:34:42"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Argaw_Scaling_Up_Video_Summarization_Pretraining_with_Large_Language_Models_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
+  "path": "2026-08-13/Argaw_Scaling_Up_Video_Summarization_Pretraining_with_Large__c28321b6/full.md",
+  "batch_id": "c28321b6-46af-48f4-b44e-dbfc6ce40f3e",
+  "synced_at": "2026-08-13 02:35:26"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Azad_Activity-Biometrics_Person_Identification_from_Daily_Activities_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
+  "path": "2026-08-13/Azad_Activity-Biometrics_Person_Identification_from_Daily_Ac_9a8315cd/full.md",
+  "batch_id": "9a8315cd-1d0f-423a-81f5-c3d358682a6f",
+  "synced_at": "2026-08-13 02:35:26"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Bastico_Coupled_Laplacian_Eigenmaps_for_Locally-Aware_3D_Rigid_Point_Cloud_Matching_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
+  "path": "2026-08-13/Bastico_Coupled_Laplacian_Eigenmaps_for_Locally-Aware_3D_Rig_bec97a59/full.md",
+  "batch_id": "bec97a59-1969-4fa5-b2c0-104af24c8921",
+  "synced_at": "2026-08-13 02:35:26"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Bhattad_StyLitGAN_Image-Based_Relighting_via_Latent_Control_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
+  "path": "2026-08-13/Bhattad_StyLitGAN_Image-Based_Relighting_via_Latent_Control__02f1e803/full.md",
+  "batch_id": "02f1e803-6c5f-4569-9a20-68c24268c4c5",
+  "synced_at": "2026-08-13 02:35:26"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Brument_RNb-NeuS_Reflectance_and_Normal-based_Multi-View_3D_Reconstruction_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
+  "path": "2026-08-13/Brument_RNb-NeuS_Reflectance_and_Normal-based_Multi-View_3D__10af77cf/full.md",
+  "batch_id": "10af77cf-f607-4e0b-9c47-99d5f7c4b587",
+  "synced_at": "2026-08-13 02:35:26"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Chen_ArtAdapter_Text-to-Image_Style_Transfer_using_Multi-Level_Style_Encoder_and_Explicit_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
+  "path": "2026-08-13/Chen_ArtAdapter_Text-to-Image_Style_Transfer_using_Multi-Lev_9e732233/full.md",
+  "batch_id": "9e732233-2177-465a-9fad-67706fa23cc3",
+  "synced_at": "2026-08-13 02:35:26"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Chen_Learning_Spatial_Adaptation_and_Temporal_Coherence_in_Diffusion_Models_for_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
+  "path": "2026-08-13/Chen_Learning_Spatial_Adaptation_and_Temporal_Coherence_in_D_18792944/full.md",
+  "batch_id": "18792944-c572-40dc-85b4-9f266e5d9a1e",
+  "synced_at": "2026-08-13 02:35:26"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Cheng_Learning_Continuous_3D_Words_for_Text-to-Image_Generation_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
+  "path": "2026-08-13/Cheng_Learning_Continuous_3D_Words_for_Text-to-Image_Generat_f0d62281/full.md",
+  "batch_id": "f0d62281-fcfa-44ec-8530-67958b8e16b8",
+  "synced_at": "2026-08-13 02:35:26"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Chihaoui_Masked_and_Shuffled_Blind_Spot_Denoising_for_Real-World_Images_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
+  "path": "2026-08-13/Chihaoui_Masked_and_Shuffled_Blind_Spot_Denoising_for_Real-W_4d05eaf7/full.md",
+  "batch_id": "4d05eaf7-8c97-4218-8b95-47a148afe5d0",
+  "synced_at": "2026-08-13 02:35:26"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Choi_OmniLocalRF_Omnidirectional_Local_Radiance_Fields_from_Dynamic_Videos_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
+  "path": "2026-08-13/Choi_OmniLocalRF_Omnidirectional_Local_Radiance_Fields_from__ab51125b/full.md",
+  "batch_id": "ab51125b-9754-4adc-bbd0-daee38fd2cf7",
+  "synced_at": "2026-08-13 02:35:26"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Deng_Z_Zero-shot_Style_Transfer_via_Attention_Reweighting_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
+  "path": "2026-08-13/Deng_Z_Zero-shot_Style_Transfer_via_Attention_Reweighting_CV_341c345b/full.md",
+  "batch_id": "341c345b-a865-43a6-a494-b47096954636",
+  "synced_at": "2026-08-13 02:35:26"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Dogadov_Fitting_Flats_to_Flats_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
+  "path": "2026-08-13/Dogadov_Fitting_Flats_to_Flats_CVPR_2024_paper.pdf_55a9ce59/full.md",
+  "batch_id": "55a9ce59-60d3-4f84-a14f-7fd68c5991b5",
+  "synced_at": "2026-08-13 02:35:26"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Dong_Interactive3D_Create_What_You_Want_by_Interactive_3D_Generation_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
+  "path": "2026-08-13/Dong_Interactive3D_Create_What_You_Want_by_Interactive_3D_Ge_0e4138ee/full.md",
+  "batch_id": "0e4138ee-6fe8-4ee1-bf20-4995c09b63a0",
+  "synced_at": "2026-08-13 02:35:26"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Fischer_NeRF_Analogies_Example-Based_Visual_Attribute_Transfer_for_NeRFs_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
+  "path": "2026-08-13/Fischer_NeRF_Analogies_Example-Based_Visual_Attribute_Transf_77752c11/full.md",
+  "batch_id": "77752c11-86d5-4069-b833-bbb49bbb2ce9",
+  "synced_at": "2026-08-13 02:35:26"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Guo_MoMask_Generative_Masked_Modeling_of_3D_Human_Motions_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
+  "path": "2026-08-13/Guo_MoMask_Generative_Masked_Modeling_of_3D_Human_Motions_CV_7b0ac43a/full.md",
+  "batch_id": "7b0ac43a-5cde-414c-a065-b49ca08245c2",
+  "synced_at": "2026-08-13 02:35:26"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Han_JDEC_JPEG_Decoding_via_Enhanced_Continuous_Cosine_Coefficients_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-001",
+  "path": "2026-08-13/Han_JDEC_JPEG_Decoding_via_Enhanced_Continuous_Cosine_Coeffi_f798eace/full.md",
+  "batch_id": "f798eace-b71f-4ffa-98f6-0276cdbec934",
+  "synced_at": "2026-08-13 02:35:26"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Hsiao_Confronting_Ambiguity_in_6D_Object_Pose_Estimation_via_Score-Based_Diffusion_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "path": "2026-08-13/Hsiao_Confronting_Ambiguity_in_6D_Object_Pose_Estimation_via_dc217a29/full.md",
+  "batch_id": "dc217a29-af42-4e7c-b6c0-180870ab6d3a",
+  "synced_at": "2026-08-13 02:35:36"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Huang_AlignSAM_Aligning_Segment_Anything_Model_to_Open_Context_via_Reinforcement_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "path": "2026-08-13/Huang_AlignSAM_Aligning_Segment_Anything_Model_to_Open_Conte_86b1dc6c/full.md",
+  "batch_id": "86b1dc6c-2dc0-448a-8470-2cc51a279b4b",
+  "synced_at": "2026-08-13 02:35:36"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Jayasumana_MarkovGen_Structured_Prediction_for_Efficient_Text-to-Image_Generation_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "path": "2026-08-13/Jayasumana_MarkovGen_Structured_Prediction_for_Efficient_Tex_9d6b6792/full.md",
+  "batch_id": "9d6b6792-6a1d-405e-8fa0-589e9e28ccb4",
+  "synced_at": "2026-08-13 02:35:36"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Ju_DiffInDScene_Diffusion-based_High-Quality_3D_Indoor_Scene_Generation_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "path": "2026-08-13/Ju_DiffInDScene_Diffusion-based_High-Quality_3D_Indoor_Scene_e3367415/full.md",
+  "batch_id": "e3367415-0214-47b3-a703-f300b21e8a88",
+  "synced_at": "2026-08-13 02:35:36"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Kara_DIOD_Self-Distillation_Meets_Object_Discovery_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "path": "2026-08-13/Kara_DIOD_Self-Distillation_Meets_Object_Discovery_CVPR_2024_9c6466ed/full.md",
+  "batch_id": "9c6466ed-9e1a-4ae8-907c-2ff50c3c49f1",
+  "synced_at": "2026-08-13 02:35:36"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Kirschstein_DiffusionAvatars_Deferred_Diffusion_for_High-fidelity_3D_Head_Avatars_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "path": "2026-08-13/Kirschstein_DiffusionAvatars_Deferred_Diffusion_for_High-fid_ffd734f1/full.md",
+  "batch_id": "ffd734f1-cf59-4d05-94b3-72fbd50f46be",
+  "synced_at": "2026-08-13 02:35:36"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Lee_MFP_Making_Full_Use_of_Probability_Maps_for_Interactive_Image_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "path": "2026-08-13/Lee_MFP_Making_Full_Use_of_Probability_Maps_for_Interactive__f06c56d0/full.md",
+  "batch_id": "f06c56d0-96b1-48a0-a30d-aa3f527c21ff",
+  "synced_at": "2026-08-13 02:35:36"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Li_CosmicMan_A_Text-to-Image_Foundation_Model_for_Humans_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "path": "2026-08-13/Li_CosmicMan_A_Text-to-Image_Foundation_Model_for_Humans_CVP_f6e8947d/full.md",
+  "batch_id": "f6e8947d-a346-496d-8965-da9bc928981f",
+  "synced_at": "2026-08-13 02:35:36"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Li_DiffAvatar_Simulation-Ready_Garment_Optimization_with_Differentiable_Simulation_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "path": "2026-08-13/Li_DiffAvatar_Simulation-Ready_Garment_Optimization_with_Dif_377229f5/full.md",
+  "batch_id": "377229f5-d7dc-4414-88e5-4d268ba2d2db",
+  "synced_at": "2026-08-13 02:35:36"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Liang_Towards_Robust_Event-guided_Low-Light_Image_Enhancement_A_Large-Scale_Real-World_Event-Image_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "path": "2026-08-13/Liang_Towards_Robust_Event-guided_Low-Light_Image_Enhancemen_2a801f28/full.md",
+  "batch_id": "2a801f28-7385-47e2-98e4-aeca3c442100",
+  "synced_at": "2026-08-13 02:35:36"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Ling_FreeDrag_Feature_Dragging_for_Reliable_Point-based_Image_Editing_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "path": "2026-08-13/Ling_FreeDrag_Feature_Dragging_for_Reliable_Point-based_Imag_fa28834f/full.md",
+  "batch_id": "fa28834f-c287-4bec-8a9f-5cc484e77254",
+  "synced_at": "2026-08-13 02:35:36"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Liu_HumanGaussian_Text-Driven_3D_Human_Generation_with_Gaussian_Splatting_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "path": "2026-08-13/Liu_HumanGaussian_Text-Driven_3D_Human_Generation_with_Gauss_876f7b9b/full.md",
+  "batch_id": "876f7b9b-dae1-4305-a364-bf93eedd9f5b",
+  "synced_at": "2026-08-13 02:35:36"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neural_Network_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "path": "2026-08-13/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neu_0ead05b7/full.md",
+  "batch_id": "0ead05b7-835f-4bee-b733-0371d4434139",
+  "synced_at": "2026-08-13 02:35:36"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Ma_HashPoint_Accelerated_Point_Searching_and_Sampling_for_Neural_Rendering_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-002",
+  "path": "2026-08-13/Ma_HashPoint_Accelerated_Point_Searching_and_Sampling_for_Ne_491c5d61/full.md",
+  "batch_id": "491c5d61-b35e-40aa-9f2b-bc0f628c1e69",
+  "synced_at": "2026-08-13 02:35:36"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Pang_ASH_Animatable_Gaussian_Splats_for_Efficient_and_Photoreal_Human_Rendering_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-003",
+  "path": "2026-08-13/Pang_ASH_Animatable_Gaussian_Splats_for_Efficient_and_Photor_83a5ed33/full.md",
+  "batch_id": "83a5ed33-b50b-4b37-b635-5af7aad81f47",
+  "synced_at": "2026-08-13 02:35:48"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Pang_HIR-Diff_Unsupervised_Hyperspectral_Image_Restoration_Via_Improved_Diffusion_Models_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-003",
+  "path": "2026-08-13/Pang_HIR-Diff_Unsupervised_Hyperspectral_Image_Restoration_V_44b7d4d6/full.md",
+  "batch_id": "44b7d4d6-cd4b-46d0-b0b3-ba3293ba9312",
+  "synced_at": "2026-08-13 02:35:48"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Peng_Parameter_Efficient_Fine-tuning_via_Cross_Block_Orchestration_for_Segment_Anything_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-003",
+  "path": "2026-08-13/Peng_Parameter_Efficient_Fine-tuning_via_Cross_Block_Orchest_276a5648/full.md",
+  "batch_id": "276a5648-376d-4336-9bac-a43a71fd2f24",
+  "synced_at": "2026-08-13 02:35:48"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Qian_From_a_Birds_Eye_View_to_See_Joint_Camera_and_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-003",
+  "path": "2026-08-13/Qian_From_a_Birds_Eye_View_to_See_Joint_Camera_and_CVPR_2024_11e97856/full.md",
+  "batch_id": "11e97856-6dfd-4709-82c5-1ee16b3955c4",
+  "synced_at": "2026-08-13 02:35:48"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Saratchandran_From_Activation_to_Initialization_Scaling_Insights_for_Optimizing_Neural_Fields_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-003",
+  "path": "2026-08-13/Saratchandran_From_Activation_to_Initialization_Scaling_Insi_6cdb83ec/full.md",
+  "batch_id": "6cdb83ec-e28f-409d-b9f4-3aa0b24d403e",
+  "synced_at": "2026-08-13 02:35:48"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Teney_Neural_Redshift_Random_Networks_are_not_Random_Functions_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-003",
+  "path": "2026-08-13/Teney_Neural_Redshift_Random_Networks_are_not_Random_Functio_5fe4627e/full.md",
+  "batch_id": "5fe4627e-caa0-426e-90f5-9d99557e634e",
+  "synced_at": "2026-08-13 02:35:48"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Wei_Semantic-aware_SAM_for_Point-Prompted_Instance_Segmentation_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-004",
+  "path": "2026-08-13/Wei_Semantic-aware_SAM_for_Point-Prompted_Instance_Segmentat_6f964846/full.md",
+  "batch_id": "6f964846-c004-4ced-8d17-1c41677b2de3",
+  "synced_at": "2026-08-13 02:35:58"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Wen_GoMAvatar_Efficient_Animatable_Human_Modeling_from_Monocular_Video_Using_Gaussians-on-Mesh_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-004",
+  "path": "2026-08-13/Wen_GoMAvatar_Efficient_Animatable_Human_Modeling_from_Monoc_76182737/full.md",
+  "batch_id": "76182737-72da-4973-9ac3-d44d5bf2c260",
+  "synced_at": "2026-08-13 02:35:58"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Xu_Enhancing_Video_Super-Resolution_via_Implicit_Resampling-based_Alignment_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-004",
+  "path": "2026-08-13/Xu_Enhancing_Video_Super-Resolution_via_Implicit_Resampling-_e0e7fd38/full.md",
+  "batch_id": "e0e7fd38-f66d-4bc4-ae43-827a6c577af7",
+  "synced_at": "2026-08-13 02:35:58"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Yang_Texture-Preserving_Diffusion_Models_for_High-Fidelity_Virtual_Try-On_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-004",
+  "path": "2026-08-13/Yang_Texture-Preserving_Diffusion_Models_for_High-Fidelity_V_dff0452a/full.md",
+  "batch_id": "dff0452a-ecb8-4f4d-a1ec-e0d5c688445b",
+  "synced_at": "2026-08-13 02:35:58"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Zeng_Make_Pixels_Dance_High-Dynamic_Video_Generation_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-004",
+  "path": "2026-08-13/Zeng_Make_Pixels_Dance_High-Dynamic_Video_Generation_CVPR_20_92792d42/full.md",
+  "batch_id": "92792d42-5e14-4d49-bc1c-83d3e0b8de29",
+  "synced_at": "2026-08-13 02:35:58"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Zhan_Semantic_Human_Mesh_Reconstruction_with_Textures_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-004",
+  "path": "2026-08-13/Zhan_Semantic_Human_Mesh_Reconstruction_with_Textures_CVPR_2_6de9b581/full.md",
+  "batch_id": "6de9b581-029b-42ca-a2d4-68704c332892",
+  "synced_at": "2026-08-13 02:35:58"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Zhang_HOI-M3_Capture_Multiple_Humans_and_Objects_Interaction_within_Contextual_Environment_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-004",
+  "path": "2026-08-13/Zhang_HOI-M3_Capture_Multiple_Humans_and_Objects_Interaction_18ab31bc/full.md",
+  "batch_id": "18ab31bc-4853-4cf2-8f8c-f542ac8d28e1",
+  "synced_at": "2026-08-13 02:35:58"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Zhang_MAPSeg_Unified_Unsupervised_Domain_Adaptation_for_Heterogeneous_Medical_Image_Segmentation_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-004",
+  "path": "2026-08-13/Zhang_MAPSeg_Unified_Unsupervised_Domain_Adaptation_for_Hete_8be18395/full.md",
+  "batch_id": "8be18395-15c2-4b48-85a2-a9df08e6fc5a",
+  "synced_at": "2026-08-13 02:35:58"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/Zhang_PIA_Your_Personalized_Image_Animator_via_Plug-and-Play_Modules_in_Text-to-Image_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-004",
+  "path": "2026-08-13/Zhang_PIA_Your_Personalized_Image_Animator_via_Plug-and-Play_9692dc32/full.md",
+  "batch_id": "9692dc32-3e20-4a68-8968-f9ab58e290ab",
+  "synced_at": "2026-08-13 02:35:58"
+ },
+ {
+  "source": "https://openaccess.thecvf.com//content/CVPR2024/papers/de_Geus_Task-aligned_Part-aware_Panoptic_Segmentation_through_Joint_Object-Part_Representations_CVPR_2024_paper.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-cvpr2024-004",
+  "path": "2026-08-13/de_Geus_Task-aligned_Part-aware_Panoptic_Segmentation_throug_0d00858e/full.md",
+  "batch_id": "0d00858e-38f3-468c-8edd-90ee4e1b285e",
+  "synced_at": "2026-08-13 02:35:58"
+ },
+ {
+  "source": "https://aclanthology.org/2024.emnlp-main.104.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-001",
+  "path": "2026-08-13/2024.emnlp-main.104.pdf_d1f0004a/full.md",
+  "batch_id": "d1f0004a-fd94-4577-a13c-7bd4249d1f97",
+  "synced_at": "2026-08-13 02:33:48"
+ },
+ {
+  "source": "https://aclanthology.org/2024.emnlp-main.56.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-004",
+  "path": "2026-08-13/2024.emnlp-main.56.pdf_8c04a940/full.md",
+  "batch_id": "8c04a940-2716-43bb-8a85-4d214c0c93ba",
+  "synced_at": "2026-08-13 02:34:24"
+ },
+ {
+  "source": "https://aclanthology.org/2024.emnlp-main.57.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-004",
+  "path": "2026-08-13/2024.emnlp-main.57.pdf_450db926/full.md",
+  "batch_id": "450db926-930e-4d59-8072-044fef0fbda7",
+  "synced_at": "2026-08-13 02:34:24"
+ },
+ {
+  "source": "https://aclanthology.org/2024.emnlp-main.58.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-004",
+  "path": "2026-08-13/2024.emnlp-main.58.pdf_397f67c3/full.md",
+  "batch_id": "397f67c3-57be-43d8-b2fd-6cb9fda29a55",
+  "synced_at": "2026-08-13 02:34:24"
+ },
+ {
+  "source": "https://aclanthology.org/2024.emnlp-main.59.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-004",
+  "path": "2026-08-13/2024.emnlp-main.59.pdf_ef634574/full.md",
+  "batch_id": "ef634574-8f8d-4210-aede-6a858c1e0d34",
+  "synced_at": "2026-08-13 02:34:24"
+ },
+ {
+  "source": "https://aclanthology.org/2024.emnlp-main.91.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-005",
+  "path": "2026-08-13/2024.emnlp-main.91.pdf_5fb3fd91/full.md",
+  "batch_id": "5fb3fd91-9b0d-4ea0-8344-9e49201c03b9",
+  "synced_at": "2026-08-13 02:34:31"
+ },
+ {
+  "source": "https://aclanthology.org/2024.emnlp-main.92.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-005",
+  "path": "2026-08-13/2024.emnlp-main.92.pdf_be0e45b3/full.md",
+  "batch_id": "be0e45b3-6235-4b2f-9057-9aec36b4b07b",
+  "synced_at": "2026-08-13 02:34:31"
+ },
+ {
+  "source": "https://aclanthology.org/2024.emnlp-main.93.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-005",
+  "path": "2026-08-13/2024.emnlp-main.93.pdf_2e591342/full.md",
+  "batch_id": "2e591342-b139-43dc-b2da-f665b060378f",
+  "synced_at": "2026-08-13 02:34:31"
+ },
+ {
+  "source": "https://aclanthology.org/2024.emnlp-main.94.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-005",
+  "path": "2026-08-13/2024.emnlp-main.94.pdf_6137d3a6/full.md",
+  "batch_id": "6137d3a6-dbfb-49d1-98de-b88479a79eea",
+  "synced_at": "2026-08-13 02:34:31"
+ },
+ {
+  "source": "https://aclanthology.org/2024.emnlp-main.95.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-005",
+  "path": "2026-08-13/2024.emnlp-main.95.pdf_bcc41240/full.md",
+  "batch_id": "bcc41240-8e20-47b5-bb82-6997d2aaf4f0",
+  "synced_at": "2026-08-13 02:34:31"
+ },
+ {
+  "source": "https://aclanthology.org/2024.emnlp-main.96.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-005",
+  "path": "2026-08-13/2024.emnlp-main.96.pdf_cfbc201f/full.md",
+  "batch_id": "cfbc201f-9b21-4a02-a873-b4f567a9251e",
+  "synced_at": "2026-08-13 02:34:31"
+ },
+ {
+  "source": "https://aclanthology.org/2024.emnlp-main.97.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-005",
+  "path": "2026-08-13/2024.emnlp-main.97.pdf_61bb9085/full.md",
+  "batch_id": "61bb9085-6979-4d68-b1f3-9d4ba26993b6",
+  "synced_at": "2026-08-13 02:34:31"
+ },
+ {
+  "source": "https://aclanthology.org/2024.emnlp-main.98.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-005",
+  "path": "2026-08-13/2024.emnlp-main.98.pdf_80caeeba/full.md",
+  "batch_id": "80caeeba-ecfa-4e63-a32c-cfcae43f98c2",
+  "synced_at": "2026-08-13 02:34:31"
+ },
+ {
+  "source": "https://aclanthology.org/2024.emnlp-main.99.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-emnlp2024-005",
+  "path": "2026-08-13/2024.emnlp-main.99.pdf_a970ed8e/full.md",
+  "batch_id": "a970ed8e-34b9-4092-8ef0-2fffa9cfdc02",
+  "synced_at": "2026-08-13 02:34:31"
+ },
+ {
+  "source": "https://aclanthology.org/2024.naacl-long.183.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-003",
+  "path": "2026-08-13/2024.naacl-long.183.pdf_0321cea8/full.md",
+  "batch_id": "0321cea8-36ff-45bb-b9d0-9fb92d0fab6e",
+  "synced_at": "2026-08-13 02:33:49"
+ },
+ {
+  "source": "https://aclanthology.org/2024.naacl-long.184.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-003",
+  "path": "2026-08-13/2024.naacl-long.184.pdf_b9a30e56/full.md",
+  "batch_id": "b9a30e56-5038-4b9b-b32b-88ddc741c68e",
+  "synced_at": "2026-08-13 02:33:49"
+ },
+ {
+  "source": "https://aclanthology.org/2024.naacl-long.185.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-003",
+  "path": "2026-08-13/2024.naacl-long.185.pdf_13b01a28/full.md",
+  "batch_id": "13b01a28-ac08-49c1-966b-2792833889de",
+  "synced_at": "2026-08-13 02:33:49"
+ },
+ {
+  "source": "https://aclanthology.org/2024.naacl-long.186.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-003",
+  "path": "2026-08-13/2024.naacl-long.186.pdf_982199b8/full.md",
+  "batch_id": "982199b8-464f-4a45-aee7-d199416907c3",
+  "synced_at": "2026-08-13 02:33:49"
+ },
+ {
+  "source": "https://aclanthology.org/2024.naacl-long.187.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-003",
+  "path": "2026-08-13/2024.naacl-long.187.pdf_f7b066c8/full.md",
+  "batch_id": "f7b066c8-4bf1-4fa4-9423-da927038802a",
+  "synced_at": "2026-08-13 02:33:49"
+ },
+ {
+  "source": "https://aclanthology.org/2024.naacl-long.188.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-003",
+  "path": "2026-08-13/2024.naacl-long.188.pdf_334fec22/full.md",
+  "batch_id": "334fec22-17c6-452e-8e7b-dcc475db9b03",
+  "synced_at": "2026-08-13 02:33:49"
+ },
+ {
+  "source": "https://aclanthology.org/2024.naacl-long.189.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-003",
+  "path": "2026-08-13/2024.naacl-long.189.pdf_7a868668/full.md",
+  "batch_id": "7a868668-3b7a-4624-94b0-2d8adea5d883",
+  "synced_at": "2026-08-13 02:33:49"
+ },
+ {
+  "source": "https://aclanthology.org/2024.naacl-long.190.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-003",
+  "path": "2026-08-13/2024.naacl-long.190.pdf_8f238c43/full.md",
+  "batch_id": "8f238c43-ad2e-4bac-be53-47922193d274",
+  "synced_at": "2026-08-13 02:33:49"
+ },
+ {
+  "source": "https://aclanthology.org/2024.naacl-long.191.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-003",
+  "path": "2026-08-13/2024.naacl-long.191.pdf_9503e318/full.md",
+  "batch_id": "9503e318-82e7-4853-902b-6fe91e6588af",
+  "synced_at": "2026-08-13 02:33:49"
+ },
+ {
+  "source": "https://aclanthology.org/2024.naacl-long.193.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-003",
+  "path": "2026-08-13/2024.naacl-long.193.pdf_42060738/full.md",
+  "batch_id": "42060738-db30-448e-b386-48df6208cc02",
+  "synced_at": "2026-08-13 02:33:49"
+ },
+ {
+  "source": "https://aclanthology.org/2024.naacl-long.79.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-005",
+  "path": "2026-08-13/2024.naacl-long.79.pdf_992fa0f8/full.md",
+  "batch_id": "992fa0f8-f4c5-4d44-9fa5-2e2228edc795",
+  "synced_at": "2026-08-13 02:34:13"
+ },
+ {
+  "source": "https://aclanthology.org/2024.naacl-long.80.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-005",
+  "path": "2026-08-13/2024.naacl-long.80.pdf_61926b69/full.md",
+  "batch_id": "61926b69-8b82-4c50-8ef7-c82bb508d3be",
+  "synced_at": "2026-08-13 02:34:13"
+ },
+ {
+  "source": "https://aclanthology.org/2024.naacl-long.81.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-005",
+  "path": "2026-08-13/2024.naacl-long.81.pdf_f910344a/full.md",
+  "batch_id": "f910344a-f836-42dc-bbd9-c6ef77dd2473",
+  "synced_at": "2026-08-13 02:34:13"
+ },
+ {
+  "source": "https://aclanthology.org/2024.naacl-long.82.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-005",
+  "path": "2026-08-13/2024.naacl-long.82.pdf_8bdca1eb/full.md",
+  "batch_id": "8bdca1eb-898b-4e98-8759-fa757ab9c22d",
+  "synced_at": "2026-08-13 02:34:13"
+ },
+ {
+  "source": "https://aclanthology.org/2024.naacl-long.83.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-005",
+  "path": "2026-08-13/2024.naacl-long.83.pdf_f06d5e01/full.md",
+  "batch_id": "f06d5e01-2e3a-4f24-9b7c-38cdc91ca4a0",
+  "synced_at": "2026-08-13 02:34:13"
+ },
+ {
+  "source": "https://aclanthology.org/2024.naacl-long.84.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-005",
+  "path": "2026-08-13/2024.naacl-long.84.pdf_cadfe510/full.md",
+  "batch_id": "cadfe510-fc9e-46fb-95af-da5f43b8c56b",
+  "synced_at": "2026-08-13 02:34:13"
+ },
+ {
+  "source": "https://aclanthology.org/2024.naacl-long.85.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-005",
+  "path": "2026-08-13/2024.naacl-long.85.pdf_b81b0c26/full.md",
+  "batch_id": "b81b0c26-fdb4-4acd-91a1-e2b5b7f82ba6",
+  "synced_at": "2026-08-13 02:34:13"
+ },
+ {
+  "source": "https://aclanthology.org/2024.naacl-long.86.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-naacl2024-005",
+  "path": "2026-08-13/2024.naacl-long.86.pdf_30b6574d/full.md",
+  "batch_id": "30b6574d-023b-4311-a484-60e2164494bc",
+  "synced_at": "2026-08-13 02:34:13"
  }
 ]
