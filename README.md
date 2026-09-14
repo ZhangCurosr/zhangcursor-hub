@@ -3,7 +3,7 @@
 **全部论文笔记的统一索引**：收录 arXiv 与各大学术会议（ACL / EMNLP / NAACL / COLING / CVPR / ICCV）论文的完整解析产物，一份索引查遍所有论文仓库。
 
 <!-- 胶囊徽章带 -->
-![Papers](https://img.shields.io/badge/Papers-8385-brightgreen?style=flat-square)
+![Papers](https://img.shields.io/badge/Papers-8386-brightgreen?style=flat-square)
 ![Repos](https://img.shields.io/badge/Repos-40-blue?style=flat-square)
 ![Last commit](https://img.shields.io/github/last-commit/ZhangCurosr/zhangcursor-hub?style=flat-square)
 ![Pipeline](https://img.shields.io/github/actions/workflow/status/ZhangCurosr/paper-notes/mineru_batch.yml?label=daily%20pipeline&style=flat-square)
@@ -17,7 +17,7 @@
 
 ## 统计
 
-- 论文总数：**8385**
+- 论文总数：**8386**
 
 - **arXiv**：5275 篇
 - **CVPR 2023**：366 篇
@@ -25,6 +25,7 @@
 - **ACL 2024**：201 篇
 - **EMNLP 2024**：201 篇
 - **NAACL 2022**：200 篇
+- **ACL 2023**：200 篇
 - **EMNLP 2023**：200 篇
 - **NAACL 2024**：200 篇
 - **ACL 2025**：200 篇
@@ -33,13 +34,12 @@
 - **NAACL 2025**：200 篇
 - **CVPR 2025**：200 篇
 - **ICCV 2023**：200 篇
-- **ACL 2023**：199 篇
 
 ## 产物仓库
 
 | 仓库 | 论文数 |
 |---|---|
-| [`ZhangCurosr/zhangcursor-papers-acl-2023-001`](https://github.com/ZhangCurosr/zhangcursor-papers-acl-2023-001) | 192 |
+| [`ZhangCurosr/zhangcursor-papers-acl-2023-001`](https://github.com/ZhangCurosr/zhangcursor-papers-acl-2023-001) | 193 |
 | [`ZhangCurosr/zhangcursor-papers-acl-2023-002`](https://github.com/ZhangCurosr/zhangcursor-papers-acl-2023-002) | 7 |
 | [`ZhangCurosr/zhangcursor-papers-acl-2024-001`](https://github.com/ZhangCurosr/zhangcursor-papers-acl-2024-001) | 194 |
 | [`ZhangCurosr/zhangcursor-papers-acl-2024-002`](https://github.com/ZhangCurosr/zhangcursor-papers-acl-2024-002) | 7 |

@@ -67078,5 +67078,13 @@
   "batch_id": "f9779217-5060-4d99-84ed-54ef2856e58b",
   "venue": "arXiv",
   "synced_at": "2026-09-11 17:42:25"
+ },
+ {
+  "source": "https://aclanthology.org/2023.acl-long.911.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-acl-2023-001",
+  "path": "2026-09-14/Program-Chairs-Report-on-Peer-Review-at-ACL-2023_4d6b7e5d/full.md",
+  "batch_id": "4d6b7e5d-2ecf-4109-bb9d-bca6511f7fbf",
+  "venue": "ACL 2023",
+  "synced_at": "2026-09-14 19:02:03"
  }
 ]
