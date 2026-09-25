@@ -3,7 +3,7 @@
 **全部论文笔记的统一索引**：收录 arXiv 与各大学术会议（ACL / EMNLP / NAACL / COLING / CVPR / ICCV）论文的完整解析产物，一份索引查遍所有论文仓库。
 
 <!-- 胶囊徽章带 -->
-![Papers](https://img.shields.io/badge/Papers-9649-brightgreen?style=flat-square)
+![Papers](https://img.shields.io/badge/Papers-9928-brightgreen?style=flat-square)
 ![Repos](https://img.shields.io/badge/Repos-40-blue?style=flat-square)
 ![Last commit](https://img.shields.io/github/last-commit/ZhangCurosr/zhangcursor-hub?style=flat-square)
 ![Pipeline](https://img.shields.io/github/actions/workflow/status/ZhangCurosr/paper-notes/mineru_batch.yml?label=daily%20pipeline&style=flat-square)
@@ -17,9 +17,9 @@
 
 ## 统计
 
-- 论文总数：**9649**
+- 论文总数：**9928**
 
-- **arXiv**：6538 篇
+- **arXiv**：6817 篇
 - **CVPR 2023**：366 篇
 - **CVPR 2024**：343 篇
 - **ACL 2024**：201 篇
@@ -45,13 +45,13 @@
 | [`ZhangCurosr/zhangcursor-papers-acl-2024-002`](https://github.com/ZhangCurosr/zhangcursor-papers-acl-2024-002) | 7 |
 | [`ZhangCurosr/zhangcursor-papers-acl-2025-001`](https://github.com/ZhangCurosr/zhangcursor-papers-acl-2025-001) | 193 |
 | [`ZhangCurosr/zhangcursor-papers-acl-2025-002`](https://github.com/ZhangCurosr/zhangcursor-papers-acl-2025-002) | 7 |
-| [`ZhangCurosr/zhangcursor-papers-arxiv-ai-001`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-ai-001) | 1031 |
-| [`ZhangCurosr/zhangcursor-papers-arxiv-ai-002`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-ai-002) | 304 |
+| [`ZhangCurosr/zhangcursor-papers-arxiv-ai-001`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-ai-001) | 1101 |
+| [`ZhangCurosr/zhangcursor-papers-arxiv-ai-002`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-ai-002) | 341 |
 | [`ZhangCurosr/zhangcursor-papers-arxiv-ai-003`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-ai-003) | 7 |
-| [`ZhangCurosr/zhangcursor-papers-arxiv-cl-001`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cl-001) | 1145 |
+| [`ZhangCurosr/zhangcursor-papers-arxiv-cl-001`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cl-001) | 1218 |
 | [`ZhangCurosr/zhangcursor-papers-arxiv-cl-002`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cl-002) | 13 |
-| [`ZhangCurosr/zhangcursor-papers-arxiv-cv-001`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cv-001) | 886 |
-| [`ZhangCurosr/zhangcursor-papers-arxiv-cv-002`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cv-002) | 665 |
+| [`ZhangCurosr/zhangcursor-papers-arxiv-cv-001`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cv-001) | 946 |
+| [`ZhangCurosr/zhangcursor-papers-arxiv-cv-002`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cv-002) | 704 |
 | [`ZhangCurosr/zhangcursor-papers-arxiv-cv-003`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cv-003) | 127 |
 | [`ZhangCurosr/zhangcursor-papers-arxiv-cv-004`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cv-004) | 5 |
 | [`ZhangCurosr/zhangcursor-papers-arxiv-lg-001`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-lg-001) | 2121 |
