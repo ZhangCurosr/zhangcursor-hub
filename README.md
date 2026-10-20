@@ -3,7 +3,7 @@
 **全部论文笔记的统一索引**：收录 arXiv 与各大学术会议（ACL / EMNLP / NAACL / COLING / CVPR / ICCV）论文的完整解析产物，一份索引查遍所有论文仓库。
 
 <!-- 胶囊徽章带 -->
-![Papers](https://img.shields.io/badge/Papers-15515-brightgreen?style=flat-square)
+![Papers](https://img.shields.io/badge/Papers-15516-brightgreen?style=flat-square)
 ![Repos](https://img.shields.io/badge/Repos-46-blue?style=flat-square)
 ![Last commit](https://img.shields.io/github/last-commit/ZhangCurosr/zhangcursor-hub?style=flat-square)
 ![Pipeline](https://img.shields.io/github/actions/workflow/status/ZhangCurosr/paper-notes/mineru_batch.yml?label=daily%20pipeline&style=flat-square)
@@ -17,9 +17,9 @@
 
 ## 统计
 
-- 论文总数：**15515**
+- 论文总数：**15516**
 
-- **arXiv**：12404 篇
+- **arXiv**：12405 篇
 - **CVPR 2023**：366 篇
 - **CVPR 2024**：343 篇
 - **ACL 2024**：201 篇
@@ -55,7 +55,7 @@
 | [`ZhangCurosr/zhangcursor-papers-arxiv-cv-002`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cv-002) | 1038 |
 | [`ZhangCurosr/zhangcursor-papers-arxiv-cv-003`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cv-003) | 450 |
 | [`ZhangCurosr/zhangcursor-papers-arxiv-cv-004`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cv-004) | 214 |
-| [`ZhangCurosr/zhangcursor-papers-arxiv-cv-005`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cv-005) | 123 |
+| [`ZhangCurosr/zhangcursor-papers-arxiv-cv-005`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cv-005) | 124 |
 | [`ZhangCurosr/zhangcursor-papers-arxiv-cv-006`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cv-006) | 62 |
 | [`ZhangCurosr/zhangcursor-papers-arxiv-cv-007`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cv-007) | 25 |
 | [`ZhangCurosr/zhangcursor-papers-arxiv-lg-001`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-lg-001) | 3038 |
