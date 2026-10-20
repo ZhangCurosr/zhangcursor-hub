@@ -120310,5 +120310,3813 @@
   "batch_id": "0173fa9d-416c-4dbe-98eb-d01a73f4b20c",
   "venue": "arXiv",
   "synced_at": "2026-10-16 19:47:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25823v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/1-Introduction_aa37ef9c/full.md",
+  "batch_id": "aa37ef9c-b175-452d-9171-7c86f8121c5b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25735v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/A-Calibrated-Instrument-for-Detecting-Disposition-Drift-in-L_8898a067/full.md",
+  "batch_id": "8898a067-3f26-42de-b3fa-5574e9f68f36",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25843v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/A-Cue-s-Hidden-Price-Auditing-Seller-Influence-on-AI-Shopper_a3659929/full.md",
+  "batch_id": "a3659929-0612-48ee-8ba0-e4667bf33734",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26340v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/A-GENERIC-ON-BOARD-AI-PROCESSING-CHAIN-FOR-EARTH-OBSERVATION_2e367b2b/full.md",
+  "batch_id": "2e367b2b-f1f0-4d84-bfbc-1fb6f81de747",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26528v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/A-Semantic-Knowledge-Graph-Construction-Pipeline-for-Vehicle_2e5534a4/full.md",
+  "batch_id": "2e5534a4-a6d9-42b6-b856-14a4b6e45bd8",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25652v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/A-feature-ODE-describing-the-learning-behavior-of-shallow-ML_2ec69183/full.md",
+  "batch_id": "2ec69183-523b-43e7-8873-9e90c15afe1a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25963v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/ABACUS-Program-Guided-Multistep-Reasoning-over-Frozen-Judgme_0d54811f/full.md",
+  "batch_id": "0d54811f-b5fc-4f49-b249-93e221e65967",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25764v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/ACTTIME-ACTION-CONDITIONED-WORLD-MODEL-ING-FOR-TIME-SERIES_4f3d3602/full.md",
+  "batch_id": "4f3d3602-9d89-4394-979e-c45921a5cc0e",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25638v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/ACorD-Adaptive-Correspondence-Discovery-for-Medical-Image-Re_f20bae5e/full.md",
+  "batch_id": "f20bae5e-9729-4dd9-b17e-0012abf44bb2",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26828v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/AGENT-WORLD-MODEL-IN-THE-WILD-COMPUTER-USE-AGENT-ENVIRONMENT_dd129a10/full.md",
+  "batch_id": "dd129a10-b69e-49d3-9604-8a715b56242c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26455v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/ALIGN-Aligning-Condition-Estimation-and-Expression-in-Advant_be086169/full.md",
+  "batch_id": "be086169-63c2-4396-9e18-f14cff61fe3b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26844v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/ANYGOAL-ON-WORLD-MODEL-GENERALIZATIONBEYOND-EXPERT-ROLLOUTS_2c97ca59/full.md",
+  "batch_id": "2c97ca59-e0b7-4487-afa7-14880a05baf1",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26008v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Accelerated-Drift-of-Scientific-Prose-in-the-LLM-Era-Evidenc_dd15d209/full.md",
+  "batch_id": "dd15d209-1b3d-4b76-b561-8b68adb1273c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25950v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/AdaExploreBench-Benchmarking-LLM-Agents-for-Proactive-Explor_33b0be57/full.md",
+  "batch_id": "33b0be57-0359-4596-bbe1-de3d736efec0",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25860v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Adaptive-Decoding-Methods-for-Token-Efficient-Reinforcement_9e1c943a/full.md",
+  "batch_id": "9e1c943a-8a59-4576-8d1e-ed1fceca70eb",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26821v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/AfriBED-a-Speech-Recognition-Bias-Evaluation-Dataset-for-Low_eef0cc81/full.md",
+  "batch_id": "eef0cc81-2600-4406-bd3f-ceb1fc2c4c5d",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25767v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/Agentic-Diagnosis-and-Verified-Repair-of-Foundation-Models_1e116823/full.md",
+  "batch_id": "1e116823-98a6-445b-8a56-7a9aff7bb75e",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26548v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/Agentic-Orchestration-of-EDC-Data-Space-Retrieval-and-Natura_8ff0d8c5/full.md",
+  "batch_id": "8ff0d8c5-d7aa-4f1f-bb51-1c09a4a7d44f",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25797v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/AirMPA-A-Meteorology-to-Pollution-Adapter-for-Global-Air-Qua_04d32986/full.md",
+  "batch_id": "04d32986-6c27-44e9-b82a-ea7974241d06",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26662v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/AllPath-Layered-Verification-for-a-Deployed-Self-Revising-LL_9cfbbf07/full.md",
+  "batch_id": "9cfbbf07-6096-4e78-b887-1658123973fb",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25725v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Anatomy-of-Off-Policy-Policy-Gradient-Importance-Sampling-KL_667e2ed2/full.md",
+  "batch_id": "667e2ed2-bf43-4e28-9893-8ddc0948ba55",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26384v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/Answer-Delivery-Under-a-Shared-Token-Budget-An-Audited-Study_47d3de7f/full.md",
+  "batch_id": "47d3de7f-54d4-4f9e-a856-9de759b63842",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25858v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Are-Self-Evolving-Agents-Continual-Learners_ce1c55fa/full.md",
+  "batch_id": "ce1c55fa-cdae-4b49-b6fa-fe93f8f0f78b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26031v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/AuDQ-Auditable-Data-Quality-through-Agentic-Rule-Discovery_cd9c9d2c/full.md",
+  "batch_id": "cd9c9d2c-3c43-4f3c-89e0-8c5928b2719b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25982v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/Auditor-Assisted-Summary-Channel-Verification-for-Hosted-LLM_f42e4794/full.md",
+  "batch_id": "f42e4794-750e-4d25-bdd0-ee13b5a8c2a3",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26369v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/Autonomous-intelligence-for-mining-productivity-a-multi-agen_882f8fd5/full.md",
+  "batch_id": "882f8fd5-ecd7-445d-b887-b370c23c5add",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26251v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/BEYOND-STATIC-LEADERBOARDS-CAPABILITY-FOCUSED-EVALUATION-WIT_955c5cb3/full.md",
+  "batch_id": "955c5cb3-0e8a-4b4b-a244-223f183a0888",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26383v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/BOSS-Token-Budgeted-Online-Sampling-and-Selection-for-LLM-Re_f0cd7ade/full.md",
+  "batch_id": "f0cd7ade-887a-48b3-9f5e-b05c0a2606b5",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26542v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/BREAKING-DIFFUSION-PARALLEL-REASONING-WITH-DRAFT-REFINEMENT_dd157bda/full.md",
+  "batch_id": "dd157bda-cad7-4462-91e4-6644719701c0",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25966v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/Behavioral-Probes-for-Information-Flow-in-LLM-Swarms_eb7f07f3/full.md",
+  "batch_id": "eb7f07f3-02c3-4b89-b7c5-9c6aa9b3d688",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25867v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/Benefit-Targeted-Routing-and-Bounded-Revision-for-LLM-Based_0bbeec88/full.md",
+  "batch_id": "0bbeec88-bec4-4bbb-a4df-e26a98b08890",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26554v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/BetaMem-Learning-to-Remember-a-Changing-World-for-Embodied-A_af636889/full.md",
+  "batch_id": "af636889-725e-4a76-ad84-176cc6d3af7f",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26524v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/Beyond-Behavioral-Accuracy-Evaluating-Individual-Level-Fidel_feee6cd0/full.md",
+  "batch_id": "feee6cd0-fc4e-4165-bd75-edeccd1801cb",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25659v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/Beyond-Leaderboards-A-Method-for-Application-Specific-Capabi_db9a8d26/full.md",
+  "batch_id": "db9a8d26-f366-49ac-9934-1c3fad270f14",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25682v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/BitFlat-Error-Localized-Bitstream-Design-for-Robust-Diffusio_26433fc3/full.md",
+  "batch_id": "26433fc3-7ad2-4af8-b1eb-0aebb0423e64",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26346v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/CARRS-A-Constraint-Aware-Real-Time-Routing-System-for-Emerge_d401f632/full.md",
+  "batch_id": "d401f632-799d-4e1d-b6c9-0970173871b1",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26337v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/CIS-Transolver-A-Cross-Layer-Incremental-State-Neural-Operat_e720b9c5/full.md",
+  "batch_id": "e720b9c5-c82f-46d2-b99d-6f026eacedde",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25947v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/CLAIM-LAUNDERING-WHEN-AGENT-DECISION-MODELS-TRUST-RECORDS-OV_e78872d6/full.md",
+  "batch_id": "e78872d6-5c91-4884-8431-2f4ac109702c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25871v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/CODA-Cohort-and-Drift-aware-Foundation-Model-for-Multimodal_420c5e4b/full.md",
+  "batch_id": "420c5e4b-4509-4a6d-9a40-e1bb61d7d578",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25760v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/COMPUTATION-NOT-MEMORY-CHAIN-OF-THOUGHT-AND-STATE-TRACKING-I_807d22f4/full.md",
+  "batch_id": "807d22f4-6515-4899-bb8b-a42d868a3920",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26071v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/CUA-Lite-An-Open-Platform-for-Computer-Use-Agents_f7c8a89d/full.md",
+  "batch_id": "f7c8a89d-daf6-4c67-98a4-dfe971c85ff2",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25697v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/CVaR-RMD-CVaR-Selection-Pressure-for-Robust-Metaheuristic-Di_6997966a/full.md",
+  "batch_id": "6997966a-4d53-4074-88c4-2288c83b2b71",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25954v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/CXBENCH-A-Benchmark-for-Process-Compliant-LLM-Agents-in-Regu_711bb653/full.md",
+  "batch_id": "711bb653-5c92-4fb7-bed3-ea5b9e260158",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25788v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/Can-LLM-User-Proxies-Stand-In-for-Humans-in-Reliance-Measure_5b0356de/full.md",
+  "batch_id": "5b0356de-c537-425d-85d9-d8976154db0a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25709v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/Causal-Humility-Governing-the-Authority-of-Fairness-Claims-U_7cf2273c/full.md",
+  "batch_id": "7cf2273c-df27-4723-8a52-7a945d56b8df",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25980v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/ClueFlow-Learning-Long-Horizon-Search-through-Attributed-Res_1f4885f9/full.md",
+  "batch_id": "1f4885f9-b079-45fb-baf6-f792b1117668",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26239v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/CoRS-Fast-Neural-Flexible-Job-Shop-Scheduling-via-Composite_c417b8d2/full.md",
+  "batch_id": "c417b8d2-7001-40c6-a49b-a0adb1decfdf",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25749v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Cognitively-Decoupled-Meta-Induction-for-Out-of-Distribution_7ec6c431/full.md",
+  "batch_id": "7ec6c431-1afb-4b4d-bfe7-f50148a0885f",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26595v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Concerns-in-Benchmarking-Jailbreaks-An-Empirical-Study-of-At_3e1c630a/full.md",
+  "batch_id": "3e1c630a-6f71-409c-9719-481c7d6ba675",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26614v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Conducting-Reliable-Keyword-Estimation-with-Unreliable-ASR-i_3dab630d/full.md",
+  "batch_id": "3dab630d-f599-4343-906a-7514d23716ea",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25650v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Consistency-Training-Suppresses-Cue-Following-Without-Teachi_25894635/full.md",
+  "batch_id": "25894635-e2cb-4161-9557-52f8867a3801",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26852v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/CoopUQ-Robust-Multi-Robot-Social-Navigation-via-Uncertainty_9469b30d/full.md",
+  "batch_id": "9469b30d-114e-4ecb-b5f2-3572745c10d0",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25721v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Corrected-Block-Sparse-Spectral-Optimization-Exact-Models-Fi_06884757/full.md",
+  "batch_id": "06884757-3241-4cf9-8aae-88a0738c0f58",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25973v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Correctness-Dependent-Asymmetric-Target-Distributions-for-Se_cf336b12/full.md",
+  "batch_id": "cf336b12-2af2-4830-b278-8c78ed01a38a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25678v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Cross-Pollination-Retrieval-Finding-Transferable-Ideas-Acros_ef059428/full.md",
+  "batch_id": "ef059428-21d5-47a0-9f5a-c5ce47cd9c4c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26035v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Decision4Rec-A-Jev-Inspired-Framework-of-Decision-Models-on_b8526c6f/full.md",
+  "batch_id": "b8526c6f-cc9d-43e5-a4ce-23146a243417",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25835v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Diffusion-Language-Models-Change-Speed-Across-Tasks-and-Lang_31087009/full.md",
+  "batch_id": "31087009-7c26-4eba-9dbd-1c74f62d6bd0",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26105v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/Don-t-Rewrite-the-SID-Map-Topology-Preservation-for-Generati_a431d072/full.md",
+  "batch_id": "a431d072-48da-4557-8dbb-fd99e514243b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25959v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/EmbodiedWorld-200K-Toward-Embodied-World-Agents-via-Embodied_205ad43b/full.md",
+  "batch_id": "205ad43b-934e-45ef-bf0d-ab7f49ecb346",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25931v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/EvoSkill-v2-Fully-Agentic-Skill-Evolution-from-Benchmark-Ada_8789f02e/full.md",
+  "batch_id": "8789f02e-5c63-4152-9fa1-ad7872d2d72a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26022v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/FRAMEGRPO-INCENTIVIZING-VIDEO-REASONING-VIA-MULTI-FRAME-ROLL_31fbb170/full.md",
+  "batch_id": "31fbb170-38c9-48cf-8e79-a6dc3b9b6a69",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25776v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/FROM-TRACE-TO-FIX-RESIDUAL-TASK-STATE-IN-LONG-HORIZON-AGENTS_06c022da/full.md",
+  "batch_id": "06c022da-39e5-43b6-b973-801d7ecfbb2b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25834v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/FRONTIERREFACTOR-Benchmarking-Multi-Scale-Performance-Orient_5ed3f75b/full.md",
+  "batch_id": "5ed3f75b-9690-423d-b31f-a60fdbe5518e",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26215v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/Fairness-or-Fallacy-Mapping-the-Landscape-of-AI-Bias-in-Dise_18df5cf3/full.md",
+  "batch_id": "18df5cf3-e77d-4a90-9b6d-3bfff9f52176",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26438v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/Fake-News-Real-Crashes-Information-Injection-Attacks-on-LLM_04e9dc0e/full.md",
+  "batch_id": "04e9dc0e-8075-49dc-9e80-504941775229",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26066v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/FinSafeGuard-A-Quality-Driven-Synthetic-Dataset-for-Financia_ea1890c0/full.md",
+  "batch_id": "ea1890c0-df66-4147-b817-a3925556a683",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25717v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/Fine-Grained-Units-Flat-Decisions-Hierarchical-Micro-Expert_84e581c7/full.md",
+  "batch_id": "84e581c7-b0b2-49cf-be3e-ccbe2aa50dde",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25700v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/From-Black-Box-to-Controller-Inference-Time-Steering-of-LLM_7b323760/full.md",
+  "batch_id": "7b323760-c933-453a-8b9e-8a590560fe89",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26098v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/From-Code-to-Playable-Systems-CEGame-Bench-for-Long-Horizon_9a0b7a92/full.md",
+  "batch_id": "9a0b7a92-a02b-4cc2-ade0-6fcf882924da",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26650v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/From-Outcomes-to-Components-A-Counterfactual-Evaluation-Fram_4459acd7/full.md",
+  "batch_id": "4459acd7-f833-4217-beb9-e33a8e4f863c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26362v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/GAIDA-Generative-AI-for-Human-in-the-Loop-Document-Annotatio_f8bbcd98/full.md",
+  "batch_id": "f8bbcd98-bea7-47bc-b441-06bebcb5edc3",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25970v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/GLOBE-GEOMETRY-LED-ONLINE-BEHAVIORAL-EARLY-EXIT-VIA-UNIT-SPH_a49a2cdc/full.md",
+  "batch_id": "a49a2cdc-2325-4556-abec-2cd3d5e1e18c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26781v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Game-of-Phones-Harnessing-Game-Theory-and-LLMs-in-Bot-Wars-t_67ecb14d/full.md",
+  "batch_id": "67ecb14d-2cf8-4a75-8413-08f07b1ecef8",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26194v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/GeoEdit-Adversarial-De-Evidencing-for-Silent-Geoprivacy-Prot_d8fa2849/full.md",
+  "batch_id": "d8fa2849-5918-4cdf-9faa-3765abae6a8b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25941v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/Global-probabilistic-forecasting-of-air-pollution-at-the-kil_3fea52ed/full.md",
+  "batch_id": "3fea52ed-9cac-47df-a1a6-d21dab4eada6",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25978v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/GraphEvoResearcher-Graph-Aware-Training-Free-Self-Reflective_fd10695b/full.md",
+  "batch_id": "fd10695b-5f3e-4b6e-9435-59b1fa55f10e",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26695v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/HIERARCHICAL-TOKEN-MERGING-WITH-RECURSIVE-AUTOENCODERS-FOR-U_e3cb0e6b/full.md",
+  "batch_id": "e3cb0e6b-8192-41d1-bc9b-601a1a84b0b4",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26059v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Honeyed-Words-Hidden-Daggers-Benchmarking-and-Training-LLMs_05ee075e/full.md",
+  "batch_id": "05ee075e-7297-4947-b9de-659dd8e22878",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26664v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/Honeypots-for-AI-Agent-Insider-Threats_84b841ff/full.md",
+  "batch_id": "84b841ff-dbb5-45f3-bba4-6add19c2adfd",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26095v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/How-Robust-Are-Prognostic-Radiomic-Features-Comparing-Select_55de1367/full.md",
+  "batch_id": "55de1367-b469-4c0d-8bdc-36f30b0a6c95",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25673v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/HyperTaxa-Multiscale-Genome-Representations-for-Generalized_96cdabf9/full.md",
+  "batch_id": "96cdabf9-2365-4ebd-aa2a-eb2dc8563fb6",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26685v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Intra-Rubric-Reward-Divergence-Mitigating-Rubric-Hacking-thr_14a8f5d0/full.md",
+  "batch_id": "14a8f5d0-9769-4321-a155-84fa5ed9b830",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25932v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/KEEP-THE-LINEAGES-ALIVE-DIVERSITY-PRESERVING-SMC-FOR-DIFFUSI_6c01f878/full.md",
+  "batch_id": "6c01f878-8eac-4b46-b51c-c74f90f5c969",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26834v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Kronecker-Delta-Rule-for-Long-Context-Linear-Attention_51360ef9/full.md",
+  "batch_id": "51360ef9-1fd4-4c70-ac36-ef9ae5c633bc",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26507v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/LEARN-THE-TASK-NOT-THE-SCHEDULE-REDUCING-SPURIOUS-CROSS-ARM_2cbed1c3/full.md",
+  "batch_id": "2cbed1c3-45c1-4ad8-a101-64a88ee6c2d4",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26787v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/LG-Bench-A-Graph-Structured-Evaluation-Benchmark-for-Life-Sc_56a2661a/full.md",
+  "batch_id": "56a2661a-3cee-4ee7-b91b-39a9ee2e952d",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25675v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/LIRQuant-An-Efficient-Locally-Isolated-Rotation-Quantization_f7a707e1/full.md",
+  "batch_id": "f7a707e1-e016-46fe-95d2-860831bfb419",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26211v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/LLMs-Prompted-for-Legal-Context-Refuse-More-Overrefusal-from_78349ad7/full.md",
+  "batch_id": "78349ad7-bed1-45de-af23-6881bd1dad78",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26256v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/LOCU-L-wdin-Orthogonalized-Constraint-Updates-for-Multi-Cons_0d57ed8f/full.md",
+  "batch_id": "0d57ed8f-e0ef-4d9d-b396-80444cd65a98",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26339v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Large-Scale-Biomedical-RAG-Corpus-Scaling-Document-Represent_e70ebad4/full.md",
+  "batch_id": "e70ebad4-7eae-4a1e-861d-0594ed64a37d",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26840v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/LatComm-Reusable-Context-Compression-for-Latent-Communicatio_e6353662/full.md",
+  "batch_id": "e6353662-408a-4497-861f-19676296bfff",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26418v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Local-data-augmentation-for-imbalanced-binary-classification_58986fe5/full.md",
+  "batch_id": "58986fe5-14ed-4510-95a4-920e76855a46",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25852v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/MASIF-Implicit-Failures-for-Process-Observability-in-Multi-A_2e415e4d/full.md",
+  "batch_id": "2e415e4d-a638-48db-b7f1-08d6e10165b6",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26322v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/MCDA-Multi-View-Graph-Contrastive-Learning-with-Dynamic-Topo_39dbb8ae/full.md",
+  "batch_id": "39dbb8ae-c94c-45c0-b4c5-a5d834a8f5cc",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25893v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/MOTOR-COMPOUND-FAULT-DIAGNOSIS-USING-AN-ATTENTION-BASED-CROS_537a392c/full.md",
+  "batch_id": "537a392c-6346-44e4-a93b-53a79b38c542",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25689v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/MT-CC-Multi-Group-Temperature-Scaling-for-Asymmetric-Calibra_419c6234/full.md",
+  "batch_id": "419c6234-12ed-48d5-ab2d-0645f01e0a4d",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26241v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Machina-Pauliana-A-neuro-symbolic-approach-to-the-actio-paul_a4c6e77f/full.md",
+  "batch_id": "a4c6e77f-7604-49d3-abef-26e8118273f0",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25892v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/Manifold-Constrained-Residual-Adaptation-with-Frame-Adaptive_a82c8511/full.md",
+  "batch_id": "a82c8511-00af-48e8-9522-22febcc43ce1",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25991v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/Map-Distribution-Mixture-of-Experts-for-Multi-Agent-Pathfind_ffa343b9/full.md",
+  "batch_id": "ffa343b9-cf18-4602-a315-66db015fa7b0",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25626v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/MapSteal-Map-based-Autonomous-Knowledge-Stealing-Attack-Agai_f5cdbd7f/full.md",
+  "batch_id": "f5cdbd7f-1ab7-40cf-aaba-7419a2b32a8a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25846v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Measurement-Validity-and-Representation-Dynamics-of-Confiden_52558799/full.md",
+  "batch_id": "52558799-9060-4d98-8710-f02d6d14f7bd",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25865v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/Minimum-Cost-Robust-Evidence-Certificates-for-Horn-Reasoning_8e897427/full.md",
+  "batch_id": "8e897427-0b0f-40a7-bf0d-f306b75650be",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26801v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/Mise-en-Video-Fine-Grained-3D-Control-for-Multi-Shot-Video-G_b807aac7/full.md",
+  "batch_id": "b807aac7-2643-4723-a531-837eef0b309f",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26496v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Mitigating-Reward-Hacking-in-Preference-Reward-Models-with-E_2d288eb7/full.md",
+  "batch_id": "2d288eb7-766b-4028-95d6-9b330933b7e5",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26185v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-001",
+  "path": "2026-10-20/MoveBench-A-Rubric-Based-Benchmark-for-Evaluating-Large-Lang_b265bab7/full.md",
+  "batch_id": "b265bab7-fcb4-48b1-9327-b331c511b6d4",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:36:18"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26024v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/Multimodal-Decoupling-for-Diversified-Recommendation-through_ec62b754/full.md",
+  "batch_id": "ec62b754-61f6-4598-90fd-6614f1a122a6",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25985v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/NIOCIS-TYPED-DECISION-NEXT-HOP-ROUTINGWITH-NODE-CONDITIONED_73aab348/full.md",
+  "batch_id": "73aab348-3818-4b70-b3b8-e62dda4ec810",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26124v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Nash-MOPD-Optimizing-Task-Trade-offs-in-Multi-Teacher-On-Pol_776ac890/full.md",
+  "batch_id": "776ac890-dea5-4142-99bd-5404f79d3a18",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25676v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/Neither-Over-nor-Under-Constrained-Evaluating-LLM-Personaliz_54a687d5/full.md",
+  "batch_id": "54a687d5-205e-4e63-bfa9-eda90b584808",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26817v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Next-Best-Action-Causal-Constrained-Ofline-RL-for-Business-A_84617430/full.md",
+  "batch_id": "84617430-bfa3-4c55-b2f4-bf464f663ee0",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25728v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/No-Matter-Who-You-Are-Addressivity-and-Sycophancy-in-Large-L_04612151/full.md",
+  "batch_id": "04612151-3a31-4875-a6b5-6fd9bbac0d17",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26077v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/Not-All-Similarity-Is-Leakage-Distribution-Aware-Identity-Le_80ceab47/full.md",
+  "batch_id": "80ceab47-34f3-4a8b-8782-406ed678f0ad",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25842v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/Not-Every-Rollout-Needs-Distillation-Correctness-Filtered-On_39427027/full.md",
+  "batch_id": "39427027-7538-4a7f-b698-6085b1cc843c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26860v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/OPENVLHARNESS-REAL-WORLD-VISUAL-AGENTIC-TOOL-USE-WITH-MULTIM_843ac619/full.md",
+  "batch_id": "843ac619-8f9a-43f5-ab58-f02e07ecf2a5",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25840v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/OV-PEAR-Observation-Verified-Pose-Scale-Estimation-and-Recon_4b94d0f2/full.md",
+  "batch_id": "4b94d0f2-da99-435a-9418-79c286bb4d9a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26187v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/On-Counting-Graphs-for-Modal-Logic-with-Counting_e5753000/full.md",
+  "batch_id": "e5753000-39ec-489e-b946-8e5464ffe6a6",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25977v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/On-the-Benefits-of-Uncertainty-Estimation-for-Species-Classi_1c8b48b8/full.md",
+  "batch_id": "1c8b48b8-c1c5-426f-ad51-fa8d1fa1023a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25779v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/OpenSaC-A-Python-Library-for-Search-as-Code-in-Deep-Research_c55e91ad/full.md",
+  "batch_id": "c55e91ad-ab7e-4746-b456-0754fe1d884f",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25949v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/OrderGPT-Generation-Order-as-a-Learnable-Modeling-Choice_3e120c4c/full.md",
+  "batch_id": "3e120c4c-97d2-4854-9853-e1216beca2b4",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25712v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/PFedQFT-Personalized-Federated-Quantum-Inspired-Fine-Tuning_87b670f0/full.md",
+  "batch_id": "87b670f0-863c-4ce9-b0d0-ed14535f0523",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25946v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/POLICY-SEARCH-IN-CODE-SPACE-FOR-MULTI-AGENT-PATHFINDING_16f7e504/full.md",
+  "batch_id": "16f7e504-3df6-4ec2-8d96-9a7b2f1ea2f3",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25961v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/PaceVLA-Adaptive-Temporal-Action-Quantization-in-Vi-sub-s-su_fbd8e285/full.md",
+  "batch_id": "fbd8e285-59d4-4acf-ae00-ba49cdc311a0",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26351v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/PhyPro-FM-A-Physics-and-Prompt-Guided-Graph-Foundation-Model_84eff084/full.md",
+  "batch_id": "84eff084-7565-464a-824f-ac0676c33b13",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26279v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/Physics-anchored-residual-quantum-neural-networks-for-cloud_5fac5d77/full.md",
+  "batch_id": "5fac5d77-dd46-41f0-a489-36b5fe2cf4ad",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26430v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/Physiology-Aware-Graph-Attention-for-Early-Ventricular-Reent_30f438a3/full.md",
+  "batch_id": "30f438a3-f583-498f-9e0f-9def5f23753e",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25996v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/Procedural-Memory-for-Language-Agents-A-Neurosymbolic-Perspe_ff2e4f1a/full.md",
+  "batch_id": "ff2e4f1a-7aae-4a02-b1c9-39a67d9c8c97",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25957v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Productive-State-Space-Exploration-for-Multi-turn-RL-in-LLM_c7cbfd40/full.md",
+  "batch_id": "c7cbfd40-4f21-4058-99e4-575a25ffa3be",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25692v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Progress-Guided-Preference-Generation-for-Aligning-Generativ_bcd571f7/full.md",
+  "batch_id": "bcd571f7-34ab-41d3-be7c-b38aa6f7b954",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26829v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/ProteinGeoBench-Frontier-Structural-Biology-Agents-Are-Fluen_57a3529e/full.md",
+  "batch_id": "57a3529e-f0a4-46a0-88a2-a742ac7e1383",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26826v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/REFCRAFT-BENCHMARKING-VISUAL-REFERENCE-CONDITIONED-AGENTIC-G_05f84cf1/full.md",
+  "batch_id": "05f84cf1-6c86-4c80-8363-20e354e731bc",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26261v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/REFLEX-RNA-Ensemble-Generation-via-Flexibility-Calibrated-St_62640ab4/full.md",
+  "batch_id": "62640ab4-0f73-4d51-acdf-f2d08c2510a8",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26856v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/REINFORCEMENT-LEARNING-WITH-VISUALLY-AT-TRIBUTABLE-ON-POLICY_cbb83186/full.md",
+  "batch_id": "cbb83186-68db-4e09-8c74-08e96b9e8928",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25758v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/REMEMBER-LESS-ADAPT-LONGER-BOUNDED-STATE-IN-CONTEXT-REINFORC_2de565e9/full.md",
+  "batch_id": "2de565e9-3b8f-4cb9-8e7b-f08b2654a7e4",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26645v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/Reasoning-Aware-Multicalibrated-Reliability-Predictors-for-L_9ae1d689/full.md",
+  "batch_id": "9ae1d689-c0e0-40d7-aca9-56bcb91d2da4",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25967v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/Reconstruction-and-Discrete-Event-Simulation-Assessment-of-a_475ba3e1/full.md",
+  "batch_id": "475ba3e1-01f6-49a6-b2d7-8173b26d1f84",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26101v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/Reliable-Before-Profitable-QuantHarness-for-Governing-Financ_b386a846/full.md",
+  "batch_id": "b386a846-fdfd-4970-a740-40eec0482451",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26453v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/Remembering-Has-a-Price-Learning-Memory-Worth-under-Resource_cda89037/full.md",
+  "batch_id": "cda89037-148a-4962-ab36-54a22f868358",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26443v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Rethinking-LLM-Fine-Tuning-via-Weight-Space-Reparameterizati_a75cae31/full.md",
+  "batch_id": "a75cae31-883f-4034-89ef-cd7e707e1822",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26636v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/Revision-Based-Learning-from-Interactive-Experience-and-Feed_a58749f0/full.md",
+  "batch_id": "a58749f0-182a-4928-9a12-aa39050fbe0f",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26568v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/Reward-Objectives-for-Robust-PO-MDPs-A-Law-Preserving-Equiva_59a80c0f/full.md",
+  "batch_id": "59a80c0f-0913-4a9d-92b4-38174cdbac78",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26287v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/RoboPhoto-VLA-Robotic-Photography-System-based-on-Vision-Lan_22b15d8a/full.md",
+  "batch_id": "22b15d8a-79f2-4b40-bc67-8c70a0ebda10",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26511v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/RouterWorld-Scaling-Conversational-AI-with-Latency-Aware-LLM_aa93ca7d/full.md",
+  "batch_id": "aa93ca7d-be0e-491f-a990-0bab1760d006",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25850v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Rubrics-Beyond-Evaluation-Exploiting-Rubric-Structure-in-Rei_63331a98/full.md",
+  "batch_id": "63331a98-a62e-41a0-9006-a5742e19a294",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25795v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/SAR-Learning-Global-Item-Space-Matching-and-Geometry-Aware-P_d3800fbf/full.md",
+  "batch_id": "d3800fbf-1931-4945-8c03-10d99f091bd5",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26793v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/SOMA-Continuous-Monitoring-and-Intervention-for-System-Two-R_046cf491/full.md",
+  "batch_id": "046cf491-9d80-4aac-b34f-89b7e85c720e",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26487v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/SPAR-Structural-Pruning-and-Action-Recovery-for-Vision-Langu_631fda8c/full.md",
+  "batch_id": "631fda8c-2743-4765-902a-da5222e02c69",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25646v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/SPHERICAL-FIXED-POINT-REASONERS-ADAPTIVE-LOOP-HALTING-ON-THE_b1035294/full.md",
+  "batch_id": "b1035294-f2f0-4538-a0c5-3a67b02129e2",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26679v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/STEPBENCH-Diagnosing-Real-World-Procedural-Understanding-in_713a3f8d/full.md",
+  "batch_id": "713a3f8d-6491-46a6-9bf9-6adecd24b269",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25844v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/SWIFT-Self-guided-Weak-to-strong-dIFfusion-models-via-Target_b71685d9/full.md",
+  "batch_id": "b71685d9-af5e-49b0-a784-a11b47569a9a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25611v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Safety-Offset-Learning-When-Benign-Fine-Tuning-Misaligns-LLM_4f7bb46a/full.md",
+  "batch_id": "4f7bb46a-bdd1-4f10-8c10-563183b44d67",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26836v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/Same-Simulation-Different-Evidence-Where-Retrieved-Tool-Outp_48d0ceff/full.md",
+  "batch_id": "48d0ceff-b6b0-4b97-9459-7a20c4a46408",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26503v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/ScopeMem-Latent-Memory-That-Learns-Where-to-Revise-Frozen-GU_dc76a907/full.md",
+  "batch_id": "dc76a907-ea96-4663-96ba-4225f306e360",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25916v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/Secure-Agentic-Coding-through-Counterexample-Grounded-Feedba_1ea42088/full.md",
+  "batch_id": "1ea42088-2bfd-4739-94de-7f48bad15ad1",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25629v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/Selecting-and-Composing-Agent-Design-Patterns-Industrial-Cas_4887d7cb/full.md",
+  "batch_id": "4887d7cb-44ca-42a4-a446-24d88ade6598",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26311v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/Selective-Transfer-through-Sequence-Distillation-From-Benchm_bbf1fb38/full.md",
+  "batch_id": "bbf1fb38-88b1-47ed-aa4d-73f05cca6a4a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25777v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Standing-on-the-Shoulders-of-Giants-Enhancing-LLM-Agents-for_918d8385/full.md",
+  "batch_id": "918d8385-ba12-49aa-8ec6-98f0bd1e61bb",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26313v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/StrucChunk-Structure-Aware-Retrieval-for-Legal-Document-RAG_ded431a8/full.md",
+  "batch_id": "ded431a8-8f55-43e7-958f-4e1a7446136a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26025v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/TAMEDFLOW-TRAJECTORY-AWARE-DISTILLATION-FOR-TEACHER-ASSISTED_e58845b1/full.md",
+  "batch_id": "e58845b1-adce-4a93-a772-0bda7e4c952e",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25930v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/TESS-LLM-guided-Translation-Exploration-Simulation-and-Searc_cec3c8a0/full.md",
+  "batch_id": "cec3c8a0-3adb-4a59-b345-beb55c5438e8",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26651v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/THE-EFFECTIVENESS-AND-DURABILITY-OF-PRETRAINING-DATA-FILTERI_a59e9239/full.md",
+  "batch_id": "a59e9239-7048-4011-8716-ff9b138a651c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25933v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/THE-KV-SURGEON-COMPENSATION-AWARE-OFFLINE-KV-CACHE-COMPACTIO_2a6503cc/full.md",
+  "batch_id": "2a6503cc-b787-44cb-a83f-9ce0cebc80a5",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25640v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/THINK-COMPRESS-ANSWER-REINFORCEMENT-LEARNING-FOR-MULTIMODAL_1bc94b64/full.md",
+  "batch_id": "1bc94b64-40d0-4b75-b3f5-2dcdd9529800",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26754v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/TOKENGATE-ADAPTING-LLMS-FOR-FAST-AND-MEMORY-EFFICIENT-PREFIL_9397e6b3/full.md",
+  "batch_id": "9397e6b3-c8f2-493e-9358-fe156d093b8a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26698v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/TOWARDS-ROBUST-MODEL-ORGANISMS-FOR-ELICITING-LATENT-KNOWLEDG_839584a1/full.md",
+  "batch_id": "839584a1-74ad-4349-a456-9bb4771574d7",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25765v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/TRACE-Tracking-Multimodal-Clinical-Trajectories-for-Inpatien_e15fdab2/full.md",
+  "batch_id": "e15fdab2-f322-49a4-904b-52177a89d419",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26845v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/TRAIN-AN-IMAGINATIVE-AGENT_e8738d29/full.md",
+  "batch_id": "e8738d29-9e20-4d82-be10-252a279c2a71",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26551v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/TRAINING-NATURAL-SCHEMERS-RL-CAN-AMPLIFYOVERSIGHT-CONDITIONA_a5d3f05d/full.md",
+  "batch_id": "a5d3f05d-3033-4983-a731-0e9a252aef13",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26660v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/Tandem-Serving-Hybrid-Linear-Attention-GUI-Agents-on-Mobile_4496199d/full.md",
+  "batch_id": "4496199d-55b7-47ac-a6df-c96b5b81c125",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26324v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/The-Control-Layer-Behind-Rule-Following-Agents-Trading-Acros_bd3ae93a/full.md",
+  "batch_id": "bd3ae93a-77d9-4e7c-b969-a221aef7eba8",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26655v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/The-Development-of-Sycophancy-in-Language-Models-Tracing-Vul_01d18a32/full.md",
+  "batch_id": "01d18a32-35ca-427f-b992-8ccf8bd7e711",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25630v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/The-Forward-Inverse-Duality-of-Controlled-Emergence-A-Comput_4960679d/full.md",
+  "batch_id": "4960679d-fc79-4c5a-a2b0-41db9d7759e7",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26310v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/The-Scheduler-Is-a-Hidden-Retriever-How-Asynchrony-Shapes-Ev_200fda8d/full.md",
+  "batch_id": "200fda8d-bea4-4d13-829f-a7bb289fe38f",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25733v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/TimelineAgent-An-LLM-based-Framework-for-Query-Centric-Event_1f3a8785/full.md",
+  "batch_id": "1f3a8785-14cb-4e86-97e1-ac40692c160c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26002v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/TimesJev-Thinking-Fast-on-Time-Series-with-System-1-Sufficie_5833ab3d/full.md",
+  "batch_id": "5833ab3d-b8e7-4e3a-a9c4-a308706f1fe1",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25693v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/ToolOPD-Credit-Aware-On-Policy-Distillation-for-Tool-Use-Age_17bd33ca/full.md",
+  "batch_id": "17bd33ca-72cf-469e-ae8c-fad7f8917217",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26286v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Toward-Online-Robust-Zero-Sum-Markov-Games-with-Function-App_cbc5705c/full.md",
+  "batch_id": "cbc5705c-fe5b-45d2-b622-625abf487333",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26516v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/Toward-Structured-Financial-Foundation-Models_bc9f25bd/full.md",
+  "batch_id": "bc9f25bd-471b-4193-812c-95fb3fda3f9c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26226v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/Towards-More-Granular-Reasoning-Mapping-the-DSA-Transparency_983d60dc/full.md",
+  "batch_id": "983d60dc-68eb-49a1-a597-7573c54e567b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26020v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Understanding-When-Reflective-Prompt-and-Skill-Optimization_8a7756f1/full.md",
+  "batch_id": "8a7756f1-57e1-4abf-9929-37e4d22fffa5",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25924v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/UtilityBench-Measuring-Language-Model-Utility-When-Errors-Ha_605b4444/full.md",
+  "batch_id": "605b4444-6d5c-4b0f-a75d-a22d37ed968f",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26629v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/VADAR-IMPLICIT-GOAL-CONDITIONING-VIA-VALUEDISAGGREGATION_bf99e5ce/full.md",
+  "batch_id": "bf99e5ce-98fb-44de-8b2e-d266f1367493",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26190v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/VEILED-SH-Vulnerability-Expression-through-Indirect-Language_15382214/full.md",
+  "batch_id": "15382214-9ce8-44b3-8295-a27928a1c0a1",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26469v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/VERICUA-LEARNING-PROACTIVE-VERIFICATION-FORRELIABLE-GUI-AGEN_6251bd3d/full.md",
+  "batch_id": "6251bd3d-e39e-4391-a247-607471fbc0aa",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26342v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/VIBETRAINING-BENCH-DATA-TRAINER-HARNESS-CO-DESIGN-FOR-ITERAT_24ce1aac/full.md",
+  "batch_id": "24ce1aac-6bbf-42f1-9957-c371eb546f9b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25683v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/WHEN-SAFETY-FAILS-COLLECTIVELY-ROBUST-ALIGN-MENT-AGAINST-HAR_6975c0bf/full.md",
+  "batch_id": "6975c0bf-b54e-40a8-8cb3-b4f56702328b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25896v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-002",
+  "path": "2026-10-20/WHEN-SHOULD-AI-CHIME-IN-BENCHMARKING-TIMELY-CONTRIBUTION-OF_8dda34b5/full.md",
+  "batch_id": "8dda34b5-5154-4945-aa32-2e6a24b10ea1",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:28"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26632v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/WHEN-THE-HARNESS-DECIDES-SUCCESS-STATE-THAT-CANNOT-BE-RE-OBS_152d553b/full.md",
+  "batch_id": "152d553b-66b0-45a2-9308-d1b367e5bcd1",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25836v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/WHERE-RL-BREAKS-LOCALIZING-AND-REPAIRING-FAILURES-VIA-TARGET_09ea93f6/full.md",
+  "batch_id": "09ea93f6-5deb-4f88-970c-1c54c32dba19",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26847v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/WeAct-Dynamic-Weight-Switching-as-Agent-Actions_97e5ffc1/full.md",
+  "batch_id": "97e5ffc1-dc1f-4255-bf23-2fbe245d1b9a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25621v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Weighted-State-Souping-for-Efficient-Long-Context-Retrieval_536daae4/full.md",
+  "batch_id": "536daae4-d5de-4e73-a6d5-f8c5233771b7",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26582v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/WhatIf-Bench-Benchmarking-Intervention-Aware-Time-Series-For_e3559bc8/full.md",
+  "batch_id": "e3559bc8-f955-499f-aa8b-a4313269b0f7",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25603v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-003",
+  "path": "2026-10-20/When-Better-Opportunities-Backfire-Service-Worker-Responses_d23df58c/full.md",
+  "batch_id": "d23df58c-348c-4742-b40e-31430c33c105",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:50:49"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26394v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-003",
+  "path": "2026-10-20/When-Coding-Agents-Outpace-Review-Evaluating-PRD-Driven-Deve_9fb45c16/full.md",
+  "batch_id": "9fb45c16-0991-46f4-917d-7c04c8dde7b7",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:50:49"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25827v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/When-Retrieval-Partially-Conflicts-with-Skills-Understanding_b3b22d4e/full.md",
+  "batch_id": "b3b22d4e-8d8e-40c6-bd7f-e516c3b40bb9",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25819v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-ai-003",
+  "path": "2026-10-20/When-to-Stop-Asking-Factor-Coverage-Bias-and-LLM-Determinabi_6a3f9596/full.md",
+  "batch_id": "6a3f9596-db10-48d6-88d8-001e168c182d",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:50:49"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26848v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/Where-is-Physical-RSI-capability-from-An-Observational-Scali_c47358e2/full.md",
+  "batch_id": "c47358e2-9192-4a34-89bc-1b5ea3ca9282",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25707v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Whose-Credential-Is-It-How-Owner-Attribution-in-Agent-Memory_9ae61abd/full.md",
+  "batch_id": "9ae61abd-d10b-43d2-a4b6-4f3a26fc0da9",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26747v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/recAMPLIFY-Large-Scale-Pretraining-of-Recursive-Protein-Lang_3f6e2d9d/full.md",
+  "batch_id": "3f6e2d9d-fc37-44b8-a8c1-2820962b596f",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26525v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/A-FISHER-GEOMETRIC-VIEW-OF-MULTI-TEACHER-ON-POLICY-DISTILLAT_39d96dd5/full.md",
+  "batch_id": "39d96dd5-aeb4-4599-8bdf-c3eac1de8e73",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26474v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/AFRIGUARD-Safety-and-Robust-Refusal-For-African-Languages_c8cf709e/full.md",
+  "batch_id": "c8cf709e-d7db-440f-88f4-edea773ece2a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26819v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/ASTOR-Benchmarking-and-Improving-Autoformulation-for-Soft-Co_13fc877d/full.md",
+  "batch_id": "13fc877d-847e-4933-aa4e-5ebbad6c59ae",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26444v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Abstract_d3bcad8a/full.md",
+  "batch_id": "d3bcad8a-36a0-4fb1-a8d0-cebe44faa72c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26370v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/An-Empirical-Study-of-Parameter-Eficient-Fine-Tuning-for-Mix_bba44c4b/full.md",
+  "batch_id": "bba44c4b-d105-4243-8b35-f62e441ba191",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26296v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Answering-While-You-Type-Optimizing-Time-to-Answer-with-Stre_e197cc92/full.md",
+  "batch_id": "e197cc92-5836-46ca-a4aa-3b4e6699c8e9",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25854v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Arabic-Financial-NLP_36211397/full.md",
+  "batch_id": "36211397-2a56-4499-afef-85bb6f9bd2eb",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26258v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/AudioScorer-Learning-Question-Aware-Token-Relevance-for-Larg_e66e235c/full.md",
+  "batch_id": "e66e235c-8399-41e8-84a8-e523ab269e09",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26601v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/BERT-Is-Already-a-Denoiser-Cheaply-Unlocking-Iterative-Gener_b2cc5053/full.md",
+  "batch_id": "b2cc5053-7db4-428d-b302-198d9b9094a4",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25897v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/BUDGETED-ATTACK-SCHEDULING-FOR-LLM-RED-TEAMING-THE-ROLES-OF_19b613f4/full.md",
+  "batch_id": "19b613f4-fb69-46f1-abe3-bcf6f8e6e3c4",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26040v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Balance-Aware-Pivot-Selection-for-Parallel-Diffusion-LLM-Dec_ea83a32a/full.md",
+  "batch_id": "ea83a32a-1569-4132-838d-3b78bd742489",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26589v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Beyond-Attack-Success-Rate-Cost-Aware-Metric-for-Evaluating_d2474716/full.md",
+  "batch_id": "d2474716-e142-48f4-aada-62913bd00da9",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26397v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Bridged-Self-Distillation-for-On-Policy-Learning_8c081e11/full.md",
+  "batch_id": "8c081e11-7a07-4606-81b6-0d473868f83c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25908v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/CALM-Consistency-Aware-Logit-Masking-in-Decoding-Space-for-M_846c48f2/full.md",
+  "batch_id": "846c48f2-785c-4707-9d5a-7bb98c8ab9ee",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26861v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/CAN-IT-ACTUALLY-WORK-SYNTHESIZING-FUNCTIONAL-CAD-MECHANISMS_83af9817/full.md",
+  "batch_id": "83af9817-c753-4d90-ab9e-729a0d360590",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25790v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/COMEM-LEARNING-TO-ANTICIPATE-FAILURES-FROM-RETRIEVED-EXPERIE_62e915d1/full.md",
+  "batch_id": "62e915d1-c889-4c27-b6f4-05e975cd7593",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26830v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/COMPETING-LEARNING-IN-HYBRID-ARCHITECTURES_1a8bde3e/full.md",
+  "batch_id": "1a8bde3e-af76-412b-af76-f943f2ae0004",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26722v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/COPYING-UNDER-REPETITION-FROM-PREFIX-MATCHING-TO-POSITION-HA_15c8b0fc/full.md",
+  "batch_id": "15c8b0fc-dfed-4f74-be24-e4cdbc84672a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25612v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/CURRICULUM-LEARNING-TEACHES-LLMS-LONG-HORIZON-IMPLICIT-REASO_010c7eae/full.md",
+  "batch_id": "010c7eae-9ff9-4a7c-972e-25ec47fe81a6",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26416v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Co-Evolving-Policy-and-Reward-for-Code-Generation-A-Mechanis_88e59007/full.md",
+  "batch_id": "88e59007-68bb-49cf-9961-cfbce1a1b719",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25596v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Cognitive-Maps-in-Large-Language-Models_725c4dee/full.md",
+  "batch_id": "725c4dee-0d49-42e9-a0ef-e6726ce9243e",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26173v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Conditional-Information-Retrieval-for-Longitudinal-Survey-Ha_2f5aa91b/full.md",
+  "batch_id": "2f5aa91b-20bf-4edf-a7b0-bdd3a470469f",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26155v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/DEEPSEA-A-Multilingual-Evaluation-Benchmark-for-Southeast-As_36005e0a/full.md",
+  "batch_id": "36005e0a-f129-4787-b16f-86fd57a40281",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25731v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Does-Unlearning-Survive-Collaboration-Robust-Unlearning-for_95925f4e/full.md",
+  "batch_id": "95925f4e-8253-4c37-86af-a2f2182ee29d",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26730v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/EpiLens-Lightweight-RAG-for-Epidemiological-Knowledge-Acquis_746f46e9/full.md",
+  "batch_id": "746f46e9-499b-4aaf-b124-3009218adde5",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26406v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Expert-L2-English-Speech-Evaluation-on-a-Gaming-PC-Accuracy_3f41d448/full.md",
+  "batch_id": "3f41d448-6e09-4bc0-8ad9-276e980979fc",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25914v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/FISHEREDIT-FISHER-INFORMATION-GUIDED-KNOWL-EDGE-EDITING-FOR_2601625b/full.md",
+  "batch_id": "2601625b-95d3-4a90-8f53-9a21fb1e18c9",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26423v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Governing-the-Rule-Space-Ruliology-Computational-Irreducibil_0ee3e555/full.md",
+  "batch_id": "0ee3e555-2501-4991-beb9-236b4558127e",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26770v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/HARNESSPRO-RECURSIVE-HARNESS-SELF-IMPROVEMENT-WITH-PARETO-OP_a6c15279/full.md",
+  "batch_id": "a6c15279-ed1c-4368-a8c5-0992298cd5ba",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26714v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/HOLOCOSM-BEYOND-SINGLE-METRIC-BENCHMARKCOMPRESSION-ACROSS-MU_d1539447/full.md",
+  "batch_id": "d1539447-559d-497f-823f-96abdfa239df",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26426v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/HarnessRL-Co-Evolving-Policies-with-a-Just-in-Time-Training_12a465e3/full.md",
+  "batch_id": "12a465e3-0253-46fe-89c0-de1fa8ce79c2",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26399v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/How-Benchmark-Graph-Construction-Shapes-Multi-Hop-KG-Navigat_b5f81e23/full.md",
+  "batch_id": "b5f81e23-59f3-4ab8-bb8d-c63c90393239",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25724v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Inside-the-Scorer-Mechanistic-Evidence-on-Rubric-Control-in_e2908e64/full.md",
+  "batch_id": "e2908e64-8ea8-49b0-ae07-f7470c7c8226",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26827v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/KEEP-Bench-Evaluating-Evidence-Preservation-in-Context-Compr_42098cee/full.md",
+  "batch_id": "42098cee-9004-4ed3-bc5f-bdc69847a4c4",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26404v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/LAMER-LANGUAGE-CONDITIONED-MULTI-EXPERT-ROUTING-FOR-WEAKLY-S_80bf208c/full.md",
+  "batch_id": "80bf208c-e1d7-48da-bdfc-cf8eb791f0bb",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25919v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/LEAPS-LONG-CONTEXT-EVALUATION-OF-ADAPTIVE-PATTERN-LEARNING-A_11af1aad/full.md",
+  "batch_id": "11af1aad-4d70-46ce-bd6e-c1a91f1bdb46",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26446v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Label-Authority-in-Speech-Emotion-Recognition-Intended-and-P_8de76b84/full.md",
+  "batch_id": "8de76b84-d80c-4b3e-b808-b69fadd9f832",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25876v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Learning-to-Reason-Efficiently-with-Interventional-Step-Cred_c435eee0/full.md",
+  "batch_id": "c435eee0-4015-431a-9bbf-eac82eab7aa0",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25934v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/MITRA-lexicon-Lexica-of-attested-translations-from-Sanskrit_14dfa8dd/full.md",
+  "batch_id": "14dfa8dd-c378-4b2f-816f-b524e660920a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26776v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/MONSOON-SCALABLE-SPONTANEOUS-SPEECH-COLLECTION-FOR-LOW-RESOU_55781283/full.md",
+  "batch_id": "55781283-ca3f-4c5b-b0d1-a31d736cf03b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26825v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/MemT-1-0-Towards-Memory-Native-Evolution_7219c6ba/full.md",
+  "batch_id": "7219c6ba-b7b4-4237-946d-3aa8ab01ac17",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25816v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Modal-Sense-Disambiguation-in-Language-Models-The-Role-of-Co_1935e61f/full.md",
+  "batch_id": "1935e61f-7c09-4dab-9398-30556673d078",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26693v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/PARALLEL-LANGUAGE-MODELS-VIA-VARIATIONAL-DECODING_1e5b5331/full.md",
+  "batch_id": "1e5b5331-6d64-45b3-b782-a3fcce99417b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26782v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/RESIN-Multi-Chain-Reasoning-with-Entity-Structured-Indexing_1ed041fd/full.md",
+  "batch_id": "1ed041fd-c19f-44eb-aa8f-4b4d7d516651",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26531v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/ReAnchor-Reusing-Rejected-Verifier-States-for-Diffusion-Draf_d2ce2e7a/full.md",
+  "batch_id": "d2ce2e7a-007c-4eee-b67f-6623b1c33658",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26181v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Reading-Time-Modeling-with-Pixel-Based-Language-Models_3d68c26a/full.md",
+  "batch_id": "3d68c26a-202e-48f9-9fbd-6900e200b241",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26225v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Rethinking-BPE-Merge-Selection-as-Model-Selection_3fe31c3c/full.md",
+  "batch_id": "3fe31c3c-178d-4d52-b9f3-7a20d2463462",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26421v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/SELF-CONSISTENCY-OF-ENTITY-SETS-AND-CITATIONS-IN-A-DEEP-RESE_ab0e79ad/full.md",
+  "batch_id": "ab0e79ad-03b1-4c0b-a510-aded2c8cca79",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26425v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/SNO-PI-Label-Scarce-SNOMED-CT-Entity-Linking-with-Pre-traine_331e2d6a/full.md",
+  "batch_id": "331e2d6a-3bbc-40ba-8805-28f82c0dbe09",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26824v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/SPECMRL-REDESIGN-MATRYOSHKA-REPRESENTA-TION-LEARNING-WITHIN_00d82744/full.md",
+  "batch_id": "00d82744-1b27-4d44-b9bb-59dd04a42055",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25942v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/SPEECH-LLMS-THAT-BREATHE-MODELING-NON-VERBAL-VOCALIZATIONS-I_330a8369/full.md",
+  "batch_id": "330a8369-cf73-4ce4-9a06-d7cd9041b76d",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25899v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/SWE-RESIDUAL-EVALUATING-STARTING-STATE-ROBUSTNESS-OF-CODING_b1ff6492/full.md",
+  "batch_id": "b1ff6492-3e3a-4d87-97c4-76508144cebe",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26809v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Safety-Mid-Training-Internalizing-LLM-Safety-as-a-Foundation_357894de/full.md",
+  "batch_id": "357894de-610f-4fd1-beff-4512c255e48a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26006v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Scaling-Synthetic-Pre-training-Data-and-Evaluation-for-Indic_6ecba027/full.md",
+  "batch_id": "6ecba027-7ca7-4f8a-a374-11027fa51701",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26236v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Shaping-the-Document-Not-the-Model-Optimized-Suffixes-for-Co_d3cdfa48/full.md",
+  "batch_id": "d3cdfa48-2377-463a-90d6-6de365684ace",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26659v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/SpatialScout-Can-VLM-Agents-Actively-Explore-and-Map-3D-Scen_8c9298dd/full.md",
+  "batch_id": "8c9298dd-0440-41c5-8aca-a31803cfa6ac",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26233v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Speculative-Reasoning-and-Tool-Execution-While-Listening-in_e82f5e03/full.md",
+  "batch_id": "e82f5e03-2965-4f46-84c4-ce62e9509849",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26489v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Strength-Controls-Change-How-Interventions-Compare-Across-Sp_ab1610b0/full.md",
+  "batch_id": "ab1610b0-dedd-42c7-9227-01ce0283f956",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26797v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Teacher-Supervision-Fixed-Representations-and-Calibration-Ex_67ee59fd/full.md",
+  "batch_id": "67ee59fd-2641-438f-8d47-72f98affc991",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26448v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/TeleASR-Amharic-A-Benchmark-for-Robust-Amharic-ASR-in-Realis_669e62a3/full.md",
+  "batch_id": "669e62a3-783b-4e23-9a70-f8b2b7553823",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25999v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/TempoMoE-Identifying-and-Steering-Fast-Slow-Thinking-Experts_853f29ad/full.md",
+  "batch_id": "853f29ad-f621-4e40-aea6-e6183d1aaf53",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25599v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Text-Dominance-in-Paralinguistic-Conflict-Tracing-Suppressio_cf7e9f9d/full.md",
+  "batch_id": "cf7e9f9d-10de-4c54-ade8-43c2e313d2bf",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26433v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/The-Geometry-of-Agent-Memory-Forecasting-Retrieval-Bound-Mem_a7b31553/full.md",
+  "batch_id": "a7b31553-36be-471a-a647-a2d36dbcc0b8",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25964v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/Token-Set-Choice-Confounds-POPE-A-Systematic-Audit-of_9499d341/full.md",
+  "batch_id": "9499d341-a048-43a8-8707-e5bd38e882b3",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26461v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Training-Negatives-Still-Matter-After-Calibrating-Answerabil_e5fc2668/full.md",
+  "batch_id": "e5fc2668-c2e5-4878-9313-ad720593d982",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25768v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Truncated-Reasoning-Under-a-Budget-Evaluating-System-1-Model_3d2082d1/full.md",
+  "batch_id": "3d2082d1-1810-4604-8df7-f6c59a6691e7",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26325v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Typed-Decision-Models-under-Prevalence-Shift-Decision-Traini_09a5c6c3/full.md",
+  "batch_id": "09a5c6c3-842d-423f-a28c-a15c4e031d3c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26168v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/VISAGENT-An-Agent-Based-End-to-End-Voice-Interaction-System_489913e5/full.md",
+  "batch_id": "489913e5-ebb9-49d4-be40-624a5445c2b0",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26676v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/WHICH-MODEL-FOR-WHICH-ROLE-COST-EFFICIENT-PARETO-RECOMMENDAT_c42e8288/full.md",
+  "batch_id": "c42e8288-7df5-4aa8-a8bc-f3f9ff4c4846",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26412v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cl-001",
+  "path": "2026-10-20/Where-Does-Rhetorical-Distortion-Live-A-Multi-Platform-Multi_84adc272/full.md",
+  "batch_id": "84adc272-170a-4673-acd2-30f2cef33d5f",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:32:07"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26475v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/3D-Difusion-Models-for-Medical-Imaging_651f0c0d/full.md",
+  "batch_id": "651f0c0d-1e4a-4924-a4ae-342143a978b1",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26719v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/A-Flexible-ROI-Analysis-Tool-for-Spatially-Consistent-Vegeta_47c54f77/full.md",
+  "batch_id": "47c54f77-a829-4c7e-8725-5174914b2921",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25861v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/ACTIONROPE-ACTION-AS-COORDINATES-FOR-SPATIALLY-CONSISTENT-CO_94ca45b6/full.md",
+  "batch_id": "94ca45b6-4c27-43da-ab35-6ab72b9d7353",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26046v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/AVTIME-REINFORCING-DENSE-AUDIO-VISUAL-CAPTIONS-WITH-BIDIRECT_6e325391/full.md",
+  "batch_id": "6e325391-59c7-4e5f-b0ae-8c511c50d82e",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26026v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/After-the-Federation-Benchmarking-Knowledge-Portability-to-H_9ec8e148/full.md",
+  "batch_id": "9ec8e148-f2b1-4545-abb6-50f05341c0bc",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25849v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/Auditing-Semantic-and-Relational-Reliability-in-Open-Vocabul_93984b9a/full.md",
+  "batch_id": "93984b9a-2c4b-4565-b097-487ececd6278",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26751v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/BEYOND-OMNI-A-UNIFIED-MLLM-FOR-EMBODIED-SENSORY-UNDERSTANDIN_de89ad13/full.md",
+  "batch_id": "de89ad13-c8a9-4d12-9726-e02d5a6f97c6",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26682v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/BrushOff-Stroke-Based-Re-rendering-as-a-Watermark-Removal-At_ddc2bef2/full.md",
+  "batch_id": "ddc2bef2-5c8c-499d-8200-52c5e2bb84a7",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26312v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/CARNet-End-to-End-Coupled-Association-Recognition-Network-fo_4e39e66b/full.md",
+  "batch_id": "4e39e66b-904d-4d6f-9b1f-584f1ae4e73e",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26734v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/CAVA-Complementary-Label-Aware-Data-Valuation_93318edc/full.md",
+  "batch_id": "93318edc-0e6e-4c97-83b4-70a14489f3c8",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25634v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/CLEAN-FORCING-DRIFT-RESISTANT-AUTOREGRES-SIVE-VIDEO-DIFFUSIO_7f1a11a8/full.md",
+  "batch_id": "7f1a11a8-3556-444b-b7c8-1e42612f4b20",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26661v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/CaptionFuse-Training-Free-Composed-Product-Retrieval-Via-VLM_6a8d7540/full.md",
+  "batch_id": "6a8d7540-656c-413e-b0af-1540905f00dc",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25617v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/CheXFuse-Guided-Differential-Joint-Attention-Fusion-for-Robu_b4882fb6/full.md",
+  "batch_id": "b4882fb6-7a1a-4841-bffe-471c3cc66914",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26740v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/CheckDistill-Adaptive-Checklist-Distillation-for-Efficient-D_5b3515bc/full.md",
+  "batch_id": "5b3515bc-0167-4fec-8d73-6b6f4416533c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25927v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/CondenseVLA-Learnable-History-Condensation-for-Efficient-Mul_e5f65162/full.md",
+  "batch_id": "e5f65162-4048-4c20-b5af-26dd3a3d20f2",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25633v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/Confidence-Guided-Pseudo-Label-Refinement-for-Unsupervised_0839cfba/full.md",
+  "batch_id": "0839cfba-9eb5-4bab-b20e-06a7dfdd5d16",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26084v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/Context-Aware-Topological-Distillation-Graph-Network-for-Asy_d311325e/full.md",
+  "batch_id": "d311325e-a2e0-4cba-95aa-77badec6336e",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26003v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/Curvature-as-a-Baseline-Monocular-Pose-Measurement-of-Cylind_f8256b2c/full.md",
+  "batch_id": "f8256b2c-21a8-4511-b903-06d878be3f88",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26078v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/DCR-TSF-Dual-Level-Compositional-Reasoning-with-Triadic-Sphe_334774d5/full.md",
+  "batch_id": "334774d5-e671-4e81-a2f5-2edd11bfb071",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26644v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/DUAL-SCALE-CONDITION-SHIFT-EDITING-FOR-ROBUST-REAL-WORLD-IMA_2e66e85a/full.md",
+  "batch_id": "2e66e85a-c494-4060-8ef0-7ba7c7f4785f",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26081v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/DeOverlay-A-Benchmark-and-Source-Anchored-Flow-for-Video-Ove_2737333a/full.md",
+  "batch_id": "2737333a-30fe-49f7-8735-aac9f996d506",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26583v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/DenseHap-Dense-Hand-Haptic-Estimation-from-Monocular-Images_59223b14/full.md",
+  "batch_id": "59223b14-99ad-4d0b-9abe-2d507d7b09f1",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25809v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/Do-We-Need-Learned-Targets-Classical-Gradients-as-Supervisio_06207023/full.md",
+  "batch_id": "06207023-d3c0-44b2-9ccb-13fafcd44c9b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26585v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/Drive2Gauss-FeedForward-4D-Gaussian-Reconstruction-from-Mult_01574cf2/full.md",
+  "batch_id": "01574cf2-5ecb-4b40-b8d1-4a7a78c0e4c0",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26262v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/Dynamics-Aware-Sparse-Attention-for-Efficient-Autoregressive_a84d220d/full.md",
+  "batch_id": "a84d220d-6d4f-42dd-87c2-cd8235aad29d",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26625v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/EgoXperience_61d715b3/full.md",
+  "batch_id": "61d715b3-d737-4013-b511-74e59c5de3c9",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26213v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/ExMR-Extremity-Motion-Refinement-for-Monocular-Human-Motion_cfe1de8f/full.md",
+  "batch_id": "cfe1de8f-0c67-46ff-8fcc-722f56c64a6f",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25660v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/FLUIDGEN-PHYSICS-AWARE-FLUID-VIDEO-GENERA-TION-VIA-MOTION-GU_69f671a0/full.md",
+  "batch_id": "69f671a0-85cd-4705-b3ec-fdb8395df3ba",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26681v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/FROM-SHORT-CLIPS-TO-REAL-TIME-STREAMS-IDENTITY-AWARE-SUPERVI_a31194ec/full.md",
+  "batch_id": "a31194ec-9a42-4299-aab2-eceb6e465bed",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26203v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-001",
+  "path": "2026-10-20/Focused-Omni-Modal-GUI-Agents_e636f88d/full.md",
+  "batch_id": "e636f88d-156c-44dc-b5fc-1a524e5bb8ad",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:21:52"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26690v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/Foundation-Model-Driven-Optical-Flow_af1a4ea9/full.md",
+  "batch_id": "af1a4ea9-e4ae-40a6-b51a-41c0eaab849a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25666v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/Frechet-Forcing-Training-Long-Horizon-Streaming-World-Models_849270ef/full.md",
+  "batch_id": "849270ef-2627-445a-8d53-8a99950baa5b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26275v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/From-Cause-to-Effect-Generating-Intermediate-Event-Chains-in_f117f424/full.md",
+  "batch_id": "f117f424-7986-4a7d-a8e0-4dd54f598e9c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26391v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/From-Legacy-to-Contemporary-Scalable-Color-Modernization-for_34754ac4/full.md",
+  "batch_id": "34754ac4-aa4d-4254-98e5-2f2699bdd88a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25742v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/Functional-Cross-layer-Experts-Routing-for-One-step-Diffusio_494ac61c/full.md",
+  "batch_id": "494ac61c-2529-41b8-9b5e-eafdf51b9b9c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26850v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/GENOLYMPIAD-BENCHMARKING-FRONTIER-IMAGE-MODELS-AT-THEIR-CAPA_2f7bfe03/full.md",
+  "batch_id": "2f7bfe03-288d-4dc4-91bb-cc1060ada25a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26091v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/GeoNaviDif-Transferring-Disentangled-Semantic-Controls-to-Di_45128113/full.md",
+  "batch_id": "45128113-2280-493b-8467-e24dd3c44c8b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26357v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/HGASurv-Hierarchical-Granularity-Aware-Integration-for-Multi_06cba1da/full.md",
+  "batch_id": "06cba1da-9d18-4eed-9dc2-932276986ada",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25832v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/HIHAZE-ONE-STEP-DIFFUSION-FOR-HIGH-RESOLUTION-REAL-WORLD-IMA_ca33fc12/full.md",
+  "batch_id": "ca33fc12-97d7-461c-8a43-5471f469853b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25960v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/HORIA-4D-Human-and-Object-Reconstruction-from-a-Monocular-Vi_b24546a9/full.md",
+  "batch_id": "b24546a9-7f35-4fae-80a9-29929c85b896",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26183v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/HP-PnP-Flow-Hybrid-Time-Scheduling-and-Projection-for-Plug-a_497dd4ed/full.md",
+  "batch_id": "497dd4ed-3401-4597-a264-62789d1c05db",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26549v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/Holi-World_5ac0fdfc/full.md",
+  "batch_id": "5ac0fdfc-2820-4996-9e40-f9ba12354969",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26853v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/InfiniDream-Open-Ended-Photorealistic-3D-Worlds-Through-Proc_6945700a/full.md",
+  "batch_id": "6945700a-b662-4c4b-905e-cfbab849a485",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25649v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/InteractAgent-Agentic-Human-Motion-Interaction-with-Memory-A_b5fc118b/full.md",
+  "batch_id": "b5fc118b-47a3-4420-a773-e8dd972b5833",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26517v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/Interpretable-Face-Contrast-Modeling-for-Smartphone-Portrait_d606048a/full.md",
+  "batch_id": "d606048a-ecae-41cd-9dac-83ac7951e799",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25918v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/LEAP-Accelerating-ODE-based-Difusion-Sampling-with-Optimal-L_acb5e469/full.md",
+  "batch_id": "acb5e469-8b03-4169-b548-7d1bd76c3d67",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25716v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/LEVI-BENCHMARKING-VISUAL-IDENTITY-FIDELITY-WITH-VERIFIABLE-L_ae7d97d3/full.md",
+  "batch_id": "ae7d97d3-56cc-4873-a04c-384584bd4163",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26179v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/Learning-Goal-Conditioned-Subgoals-through-Frozen-Hierarchic_c507d407/full.md",
+  "batch_id": "c507d407-8291-458d-82e0-e99a4dc4fa59",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26064v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/Learning-the-Dose-Manifold-A-Latent-Difusion-Framework-for-V_599a4854/full.md",
+  "batch_id": "599a4854-a496-4632-8b7f-79b3164b22a4",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26431v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/Long-form-Video-to-Text-Summarization-using-Recursive-Langua_2bfd182c/full.md",
+  "batch_id": "2bfd182c-dca1-46f8-8ad6-fb1331bfa199",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26851v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/MANGA2ANIMATE-AN-AGENTIC-FRAMEWORK-FOR-FAITHFUL-MANGA-ANIMAT_d334a6c5/full.md",
+  "batch_id": "d334a6c5-dca7-4d49-a257-23e5ec8e86a4",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25748v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/MAPS-A-Multi-Agent-Personalized-Script-Driven-Video-Advertis_c3cffa48/full.md",
+  "batch_id": "c3cffa48-4344-4d46-9566-7902256f9043",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25926v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/MIRA-A-Multimodal-Illustrated-Deep-Research-Agent-for-Contro_7b276cf6/full.md",
+  "batch_id": "7b276cf6-69b2-49d8-9e8b-8f5fce7da0bc",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26558v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-002",
+  "path": "2026-10-20/MRI-Reconstruction-Risk-Estimation-from-Inference-Dynamics_c9867e6c/full.md",
+  "batch_id": "c9867e6c-7540-4b71-a84f-bd7bb5ed0d1a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:42:05"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25695v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/Multi-View-Structural-Representations-for-Physically-Consist_b1798e95/full.md",
+  "batch_id": "b1798e95-903a-4089-9425-3190be0438a4",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25904v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/Multi-scale-Fusion-of-Fast-Vision-Mamba-and-Foundation-Model_7b0edde4/full.md",
+  "batch_id": "7b0edde4-c8d6-452c-a8d0-8b4e88ab21fd",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25645v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/Negation-without-Confusion-Decomposing-Bias-and-Recomposing_8dae2e5f/full.md",
+  "batch_id": "8dae2e5f-cd5c-4e3c-ad98-f3a00a8af51f",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25929v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/OmniGround-Strengthening-Omni-Modal-Temporal-Grounding-via-A_e3e06fb1/full.md",
+  "batch_id": "e3e06fb1-60b3-4db1-9f67-6ba89337c593",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26401v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/One-Fact-Many-Places-Redundant-Evidence-in-Long-Visual-Docum_1b47351b/full.md",
+  "batch_id": "1b47351b-d5a5-4ceb-bec1-489c0a6b1d6b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26820v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/Open-Form-Geometric-Style-Transfer_1f636eb1/full.md",
+  "batch_id": "1f636eb1-0a74-451f-827e-9fb8bd0000ff",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26123v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Optimal-Multi-Kernel-Combination-for-Online-Multi-Label-Clas_b4c9cb6c/full.md",
+  "batch_id": "b4c9cb6c-6b08-4042-aa8d-6fd65511d98b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25901v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Out-of-Distribution-Detection-in-Continual-Learning_d769a1a1/full.md",
+  "batch_id": "d769a1a1-1bbe-4657-a3e8-b144b27ef91b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26491v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/PDNet-Exploring-Pruning-and-Distillation-for-Real-Time-Worke_b5eff7b3/full.md",
+  "batch_id": "b5eff7b3-2c3c-4e9b-830c-2e506a4b2f44",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26813v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/PICA-WAM-VISUAL-PERTURBATION-INVARI-ANCE-VIA-CROSS-APPEARANC_381b2e23/full.md",
+  "batch_id": "381b2e23-4ab8-4658-930b-9c75f946ca4b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26410v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/POLICY-ADAPTIVE-CREDIT-ASSIGNMENT-FOR-SPA-TIAL-REASONING-WIT_74c7ce4a/full.md",
+  "batch_id": "74c7ce4a-dab6-4557-a2e0-4a94cfd9a203",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25664v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/POSTCACHE-FROM-FORECASTING-TO-POSTDICTIVE-SMOOTHING-FOR-REVI_f653fe0d/full.md",
+  "batch_id": "f653fe0d-e370-438d-bf01-59403338eed9",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26564v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/PRISMWAM-DECOUPLING-STATE-REPRESENTATIONS-IN-WORLD-ACTION-MO_b34494c3/full.md",
+  "batch_id": "b34494c3-1269-47bd-9af3-43547def2249",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26062v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/PROCEDURAL-EXPOSURE-BIAS-IN-SKILL-AUGMENTED-LANGUAGE-MODEL-A_84340486/full.md",
+  "batch_id": "84340486-3df8-48d9-b04e-6f0ca7939ec6",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26711v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/PVBench-Quantifying-Physical-Plausibility-in-Video-Generatio_2f3f1ef5/full.md",
+  "batch_id": "2f3f1ef5-b550-4d2d-afac-af1643512635",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26067v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/PhysSkin-Real-Time-and-Generalizable-Physics-Based-Animation_a9d5fc9a/full.md",
+  "batch_id": "a9d5fc9a-c0be-45ee-99cb-42b0df56e915",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26729v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/PlanarCityLoc-Breaking-Silhouette-Ambiguity-in-LoD-Aerial-Lo_f2b42aa0/full.md",
+  "batch_id": "f2b42aa0-d115-49e1-9391-af6936a7817d",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26457v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/Progressive-multi-scale-tumor-state-memory-for-incomplete-mu_c67dc311/full.md",
+  "batch_id": "c67dc311-4b2a-4c02-ab76-c8274396341d",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26244v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/RECAP-RECIPROCAL-SPARSE-ATTENTION-AND-HIERARCHICAL-CACHING-F_038b8b29/full.md",
+  "batch_id": "038b8b29-43e1-4d9c-bb55-33df291e48df",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26090v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/RGB-Event-Object-Detection-Across-Operating-Frequencies-via_391e202a/full.md",
+  "batch_id": "391e202a-2487-441c-914e-e64409e519f2",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26069v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/RISK-DECOMPOSITION-FOR-HALLUCINATION-AWARE-VIDEO-SAMPLING_5cb12834/full.md",
+  "batch_id": "5cb12834-3961-4cb3-ace3-85b610d4e657",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26216v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/ROAR-VAE-IMPROVING-LATENT-DIFFUSABILITYTHROUGH-ROBUST-PREDIC_99634e3b/full.md",
+  "batch_id": "99634e3b-bb38-46f0-b1ec-45528444a020",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26816v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/Real-Time-Radar-Semantic-and-Panoptic-Scene-Understanding_7a9334b2/full.md",
+  "batch_id": "7a9334b2-2515-4535-a69c-59511a607316",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25622v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/Recurrent-Vision-Transformers-for-Event-Based-Spacecraft-Pos_9e0dc98a/full.md",
+  "batch_id": "9e0dc98a-5606-47cb-bddd-be032625c4b0",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25887v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/Rethinking-Sparse-View-3D-Gaussian-Splating-A-Few-Shot-Learn_b0de6850/full.md",
+  "batch_id": "b0de6850-645f-4830-b6d7-3f5a4dbeff01",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26855v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/Ropedia-W0_5f5c0d16/full.md",
+  "batch_id": "5f5c0d16-41ea-4d71-8851-a113dd81336b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25681v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/RxGS-Relightable-Gaussian-Stylization-via-BRDF-Decomposition_7aa378cc/full.md",
+  "batch_id": "7aa378cc-7faa-4a86-a7df-a96bac779485",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25923v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/SAPO-Self-Supervised-Attention-Policy-Optimization-for-Impro_433d0462/full.md",
+  "batch_id": "433d0462-1ad3-4b37-a477-6ae233763f0b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26217v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/SAR2Net-Learning-Spatially-Anchored-Representations-for-Retr_fb87ccb4/full.md",
+  "batch_id": "fb87ccb4-4610-4c1e-acb8-0ef1ca4dca31",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26837v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/SPECKCAST-SPECTRAL-KALMAN-FORECASTING-FOR-DIFFUSION-ACCELERA_14679eaa/full.md",
+  "batch_id": "14679eaa-cd1d-4e4e-9cc0-1cd417b0e44d",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26811v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-003",
+  "path": "2026-10-20/STATE-WORLD-MODELS-EXECUTE-THE-RULES-GEN-ERATE-THE-PIXELS_1121e29c/full.md",
+  "batch_id": "1121e29c-bb76-4892-b75b-a8114dbb8a70",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 08:55:39"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26586v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/Scaling-Vision-Foundation-Models-for-Toxicologic-Pathology_8a112f03/full.md",
+  "batch_id": "8a112f03-b24b-4617-b8de-92ded588bc7e",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25781v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/See-the-Future-Classify-the-Present-Stochastic-Latent-World_10061828/full.md",
+  "batch_id": "10061828-9f9e-43fb-8b0d-5e5c65fd88b0",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26538v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/Small-Average-Error-Wide-Individual-Error-General-Purpose-LL_bbde59cd/full.md",
+  "batch_id": "bbde59cd-3cd1-4e29-ac2b-eeb870c20a7e",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25665v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/SpaRV-Sparse-Radiance-Voxels-for-Scalable-Geometrically-Cons_2be9ca1f/full.md",
+  "batch_id": "2be9ca1f-4cb0-405e-929b-f2e5861a7dc3",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26863v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/TEXT-TO-IMAGE-GENERATIVE-MODELING-WITHOUT-LANGUAGE-PRETRAINI_fcf42454/full.md",
+  "batch_id": "fcf42454-8880-484a-b30d-82376178bee9",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26271v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/TIM-Temporal-Decoupling-with-Iterative-Mutual-Refinement-Mod_0ed1a73d/full.md",
+  "batch_id": "0ed1a73d-2b93-4145-a263-9a00c73203f5",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25637v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/TNVD-SC-Diagnosing-Scan-Context-Failures-in-Forests-with-Ter_1ba8f0f3/full.md",
+  "batch_id": "1ba8f0f3-e7b3-4a43-8808-d8597ca32087",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25734v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/Think-Densely-Act-Sparsely-Latent-Expert-Cognitive-Chains-fo_17e5027c/full.md",
+  "batch_id": "17e5027c-e6ea-497c-b029-45f98815c1e0",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26079v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/Toolkit-for-Facial-Deidentification_9b7f19a5/full.md",
+  "batch_id": "9b7f19a5-1044-4caa-8835-8b7a2f259448",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26323v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/TriScore-Post-Hoc-Out-of-Distribution-Detection-with-Energy_5e3b90d3/full.md",
+  "batch_id": "5e3b90d3-e261-4829-9ec0-f2d50d540231",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26165v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/TriTD-Tri-Partite-Trajectory-Distribution-Distillation-for-R_57c12d23/full.md",
+  "batch_id": "57c12d23-bbb1-445c-bab9-f5f4860a521a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25784v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/UniJev-Separating-Accuracy-from-Calibration-in-Trimodal-Syst_15272ca6/full.md",
+  "batch_id": "15272ca6-d486-42f3-a593-d73b4d0b0b4b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26780v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/V-JEPA-HAND-SIMPLE-ACCURATE-AND-FAST-3D-HAND-AND-CAMERA-TRAJ_3462cb6e/full.md",
+  "batch_id": "3462cb6e-5040-483a-b8b0-867909166ef8",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25770v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/VHA-VQA-BASED-HALLUCINATION-ASSESSMENT-FOR-GENERATIVE-IMAGE_3ee07759/full.md",
+  "batch_id": "3ee07759-0869-4b67-a297-3a105dd9625f",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26857v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/VideoMaMa-Temporally-Consistent-Video-Matting-via-Preserve-a_98d173f0/full.md",
+  "batch_id": "98d173f0-c8c1-46ba-b14c-1635d1d8a71b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25874v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/Vision-Language-Delta-Action-Learning-Compact-Deltas-as-Acti_ea929a91/full.md",
+  "batch_id": "ea929a91-e92d-4f6d-97e9-d53f48b9b0fb",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25641v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/Visual-Memory-and-Textual-Alignment-for-Cross-Modal-Few-Shot_703e1851/full.md",
+  "batch_id": "703e1851-4f10-46bc-b105-f7fe9c8d2899",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26805v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/WHAT-LANGUAGE-ADDS-AND-AT-WHAT-COST-FOUR-CONTROLLED-PROBES-O_8da7e867/full.md",
+  "batch_id": "8da7e867-55ac-45de-9249-44303df433a4",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26189v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/Wan-Alpha-Animating-a-Single-RGBA-Asset-into-Controllable-Tr_941d9296/full.md",
+  "batch_id": "941d9296-d967-4f24-b587-3318c1169be6",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26452v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/When-Guidance-Becomes-a-Guard-Early-Interception-of-Unsafe-I_17523fec/full.md",
+  "batch_id": "17523fec-0526-4bc5-a227-78f5bac2c35c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25631v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/Where-Do-the-Gaussians-Go-Foreground-Attraction-for-Camera-B_98000d19/full.md",
+  "batch_id": "98000d19-a72c-4ecf-9bc4-07a1878d1e4b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26255v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-004",
+  "path": "2026-10-20/XGLASS-X-Ray-Gaze-and-Language-Assisted-Slice-Sequencing-for_59f62458/full.md",
+  "batch_id": "59f62458-e50a-40ad-b655-eeba2891117a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:01:08"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26468v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-cv-005",
+  "path": "2026-10-20/YUTELA-A-Scalable-Edge-Cloud-AIoT-System-for-Multi-Site-Vide_f8543bc3/full.md",
+  "batch_id": "f8543bc3-3027-4589-bd81-72af7cb82c60",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 09:03:02"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26267v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/A-PITFALL-IN-THE-EVALUATION-OF-GENE-PERTURBA-TION-MODELS_9fbcc73c/full.md",
+  "batch_id": "9fbcc73c-0571-4f75-9dd9-a6ba085e274f",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26605v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/A-Probabilistic-Rotation-Preserving-Kernel-Operator-Surrogat_685a86f2/full.md",
+  "batch_id": "685a86f2-819c-4ed1-ba47-22b354851a99",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26407v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/A-Simple-and-General-Approach-to-top-Selection_468027fa/full.md",
+  "batch_id": "468027fa-20ed-4e0f-9c45-ecadd2802b6c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26473v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/A-Simple-and-Unified-Method-for-Gradient-Variation-Regret_52116620/full.md",
+  "batch_id": "52116620-5ec8-479a-a824-ec80f06f34f8",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25847v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/ACE-TRADER-ADVERSARIAL-CO-EVOLUTION-FOR-GENERATOR-CRITIC-TRA_523e5060/full.md",
+  "batch_id": "523e5060-1dfa-4e8c-a988-f6df7a8d5468",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25604v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Adversarial-Post-Training-of-Foundation-Models-for-High-Freq_e83f7fc5/full.md",
+  "batch_id": "e83f7fc5-3998-4f9e-a6eb-8bf32a55caf2",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25906v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/An-Analysis-of-Semantic-and-Spatio-Temporal-Co-evolution-for_3aca8080/full.md",
+  "batch_id": "3aca8080-0180-43c2-90ab-27694c2ffa5b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25671v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Arbitrage-Free-Implied-Volatility-Surface-Reconstruction-via_cfded19d/full.md",
+  "batch_id": "cfded19d-cf5a-482b-9ac2-258e175eb493",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25880v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Asynchronous-On-Policy-Self-Distillation_d9e9f408/full.md",
+  "batch_id": "d9e9f408-6a46-4778-808b-90b99dd5a235",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25747v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Bayesian-Model-Discovery-with-Language-Models-Closing-the-Lo_a2a6c186/full.md",
+  "batch_id": "a2a6c186-1074-4c39-b5bb-89bda43b0ff8",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26597v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Bombadil-A-Foundation-Model-for-Plant-Electrophysiology_1b6e8b7a/full.md",
+  "batch_id": "1b6e8b7a-b533-4c68-8706-9e5997a22e20",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26309v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/CAST-CAST-ADMISSIBLE-GENERATIVE-DESIGN-AND-SHAPE-OPTIMIZATIO_2d5e11e2/full.md",
+  "batch_id": "2d5e11e2-1c25-463d-8e33-f55d1169fb8d",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26379v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/CTLite-Lightweight-Irregular-Multivariate-Time-Series-Foreca_fc35cdf1/full.md",
+  "batch_id": "fc35cdf1-c28f-466a-9204-982e31ffd55d",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25663v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Can-Metadata-Fix-the-Gauge-Calibration-Turns-Sparse-Multi-So_60eb7c2a/full.md",
+  "batch_id": "60eb7c2a-1865-47b0-8d9b-7ae9069a75a7",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25810v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Communication-Efficient-Federated-Domain-Generalization-in-E_3cf79072/full.md",
+  "batch_id": "3cf79072-8581-4964-a7b2-cdbf4250ef5b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25627v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Conditional-Average-Treatment-Effect-Distillation-for-Hypoth_2b6c8276/full.md",
+  "batch_id": "2b6c8276-d102-4c43-881b-54e85549f3fa",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26789v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Cooperative-Multi-Agent-Market-Making-on-Prediction-Market-O_e1fd14de/full.md",
+  "batch_id": "e1fd14de-8308-4925-89bd-61e24d54f6c6",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26733v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Cross-Fitting-for-Neural-Posterior-Estimation_96a493d9/full.md",
+  "batch_id": "96a493d9-4e22-4524-b5f6-3c8c7d08de28",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26612v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/DEGREE-BOUNDS-FOR-SEPARATING-POLYNOMIAL-AND-NEURAL-INVARIANT_ba3e1bc8/full.md",
+  "batch_id": "ba3e1bc8-c877-45e1-a900-37ab402f7f63",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25877v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/DELTATRACE-EFFICIENT-SIGNED-ATTRIBUTIONFOR-REASONING-LANGUAG_e094d763/full.md",
+  "batch_id": "e094d763-a2a0-4093-ad22-9c6dc445bc87",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26104v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Declarative-Explanations-for-Graph-Neural-Networks-A-Demonst_9afb05cb/full.md",
+  "batch_id": "9afb05cb-1ab8-4c45-baaa-30e3cdb0e44e",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26718v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Deep-Pontryagin-Learning-for-Continuous-Time-Stochastic-Cont_f3f6dee6/full.md",
+  "batch_id": "f3f6dee6-c0e1-4d66-a029-e53051617cf1",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25782v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Detection-Augmented-Learning-In-Non-Stationary-Bandit-Enviro_67521167/full.md",
+  "batch_id": "67521167-671b-4fa4-9cba-bdc352910771",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26710v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Doubly-Robust-Learning-of-Heterogeneous-Survival-Treatment-E_78ebd313/full.md",
+  "batch_id": "78ebd313-4630-4060-a9de-f38a64be80d9",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26156v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Dynamical-Batching-How-Class-Cycling-Training-Shapes-the-Int_d61ee967/full.md",
+  "batch_id": "d61ee967-ddfd-49f3-a7ec-840ee7f6fd2d",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25710v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Evidence-Sufficiency-and-Model-Comparisons-in-MexRegQA-An-It_8262dd31/full.md",
+  "batch_id": "8262dd31-7cc9-46ba-83c0-355933d3f5d2",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26143v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/FLMNet-Self-Ensemble-Distillation-from-Masks-to-Seeds-for-Si_b2fb2525/full.md",
+  "batch_id": "b2fb2525-e8b1-4abd-b99a-9169d74d3b0f",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26395v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/FORAGERSIM-EVALUATING-EMBODIED-MAP-BASED-REASONING-IN-LARGE_5309a936/full.md",
+  "batch_id": "5309a936-b3f4-41ca-ab82-2041513a0283",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25796v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Fair-Regression-under-Approximate-Demographic-Parity_a6fbaf38/full.md",
+  "batch_id": "a6fbaf38-690c-4c73-a944-99d943527ad9",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25997v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Federated-Community-Detection-in-Bipartite-Networks_961a1d65/full.md",
+  "batch_id": "961a1d65-684a-4f82-afea-1801ff781887",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26036v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/FinHopper-A-Progressive-Multi-Hop-Benchmark-for-Complex-Fina_39d59cb5/full.md",
+  "batch_id": "39d59cb5-8359-4a50-ac3f-4d66c9dcaa67",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26114v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/From-Retrieval-to-Recognition-Knowledge-Enhanced-Post-traini_92eeebaa/full.md",
+  "batch_id": "92eeebaa-6cf6-4367-80c5-b5ccb9e4c65d",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25743v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Fundamental-Limits-of-Information-Theoretic-Secure-Aggregati_2dd7aa68/full.md",
+  "batch_id": "2dd7aa68-04c1-47a8-9f31-577687a08f58",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26707v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/GEOSPLIT-SELECTIVE-EDGE-SERVER-MAP-ACQUISITION-FOR-CROSS-USE_34067522/full.md",
+  "batch_id": "34067522-19fb-45b9-a481-f08995bef333",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26618v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/GLOBAL-TIME-AWARE-CONDITIONING-GTC-A-MECHANISM-FOR-TIME-AWAR_208bd446/full.md",
+  "batch_id": "208bd446-e75b-4401-981b-5883e418c39c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26748v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Gradient-descent-reaches-arbitrary-accuracy-in-a-fixed-numbe_be1482b1/full.md",
+  "batch_id": "be1482b1-4a54-4ac2-b2b4-3530bfb71548",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25993v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Graph-to-Table-Interfaces-Control-Relational-Generalisation_991e9404/full.md",
+  "batch_id": "991e9404-4736-45f0-9811-908ceea09f93",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25739v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/How-Much-Does-One-Wrong-Answer-Cost-Error-Propagation-in-Con_1e9e341e/full.md",
+  "batch_id": "1e9e341e-5f0a-4eb6-9b30-124d92ed1059",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25812v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/IS-IT-RL-OR-DATA-A-CONTROLLED-COMPARISON-OF-GRPO-AND-REJECTI_97d1bcc0/full.md",
+  "batch_id": "97d1bcc0-0ce7-4cdb-a6be-2654f07c99cb",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26604v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/ITU-DESC-a-missingness-aware-machine-learning-dementia-risk_c1a9fbd8/full.md",
+  "batch_id": "c1a9fbd8-a117-4d9f-a27a-70df5587f96a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26724v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Injection-of-Space-Radiation-Errors-on-Low-power-NVM-using-G_03cbe645/full.md",
+  "batch_id": "03cbe645-c506-454e-bfa2-67dab1b8dd99",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25998v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Internalizing-Chain-of-thought-into-Looped-Transformers_dfa4d3f9/full.md",
+  "batch_id": "dfa4d3f9-1f8f-4cda-a4f2-030d8adca684",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25662v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Knowledge-Manifold-Optimization-for-Scientific-Discovery_c1ff009e/full.md",
+  "batch_id": "c1ff009e-9e07-4644-ba98-d113f2aa27a2",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25723v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/LEARNING-TO-COUPLE-CONTEXT-ADAPTIVE-JOINTDENOISING-FOR-DIFFU_5a6b369b/full.md",
+  "batch_id": "5a6b369b-9b2b-49e1-8be8-a166b40adf81",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26800v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/LEARNING-TO-REFER-INFERENCE-TIME-COLLABORATION-IN-DECENTRALI_31023028/full.md",
+  "batch_id": "31023028-f823-44cb-9f35-4128b976f8da",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25679v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/LOOP-Recovery-Aligned-Iterative-Layer-Pruning-via-On-Policy_3d378296/full.md",
+  "batch_id": "3d378296-16d5-4bd8-866a-622fdfa60a2c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26088v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/LeakBench-Auditing-Reward-Hacking-through-Prediction-Time-Le_834374e2/full.md",
+  "batch_id": "834374e2-7c8c-4c78-818a-f0bf50471c80",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25881v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Learn-the-Interface-Not-the-Implementation-Output-Representa_4735d975/full.md",
+  "batch_id": "4735d975-4cfa-412a-b674-93e925cabb36",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26285v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Learning-SOCP-Solver-Dynamics-with-Graph-Neural-Networks_2ae2346d/full.md",
+  "batch_id": "2ae2346d-d04f-44ea-840f-4c55c6c4e682",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26103v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Learning-from-a-Bandit-Learner_76371354/full.md",
+  "batch_id": "76371354-a09e-4814-9547-65fe024bd449",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26347v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Logit-Averaging-During-Training-Sets-a-New-State-of-the-Art_b8321ac0/full.md",
+  "batch_id": "b8321ac0-0e20-486d-bc52-1c2a4ac51fac",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25920v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/MAESTRO-AGENTIC-FORMAL-PROOF-DEVELOPMENTBY-COORDINATION_12dacd64/full.md",
+  "batch_id": "12dacd64-9ac3-4f7f-b926-973bbcfe7d65",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26100v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/MULTILINGUAL-VOICEMAIL-AND-ANSWERING-MACHINE-DETECTION-VIA-P_232dc968/full.md",
+  "batch_id": "232dc968-fd12-4fa3-9679-a361ccd74139",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25751v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/NADS-Navigator-Guided-Data-Selection-for-Mitigating-Catastro_da539a91/full.md",
+  "batch_id": "da539a91-d3f6-4f37-adea-40eb1a3b2571",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26666v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/NESTED-SHARED-OPERATOR-RECURSION-ON-ARC-AGI-1-AN-EMPIRICAL-S_18c528ce/full.md",
+  "batch_id": "18c528ce-785b-46d7-9286-baa927b9eaec",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25729v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/NEURAL-VIDEO-CODING-UNDER-LIMITED-DELAY-THEORETICAL-OPTIMALI_b5141dba/full.md",
+  "batch_id": "b5141dba-b4d8-4099-b6de-a4de4019f769",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26839v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/Newton-Based-Methods-for-Bilevel-Optimization-Beyond-Lower-L_1fbfbd4b/full.md",
+  "batch_id": "1fbfbd4b-3e1e-44a9-803e-175f7582c414",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25651v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-001",
+  "path": "2026-10-20/OPDArena-Understanding-Learning-and-Forgetting-in-On-Policy_a80647da/full.md",
+  "batch_id": "a80647da-db0c-4d75-aa26-4397f850506a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:42:06"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26209v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/OceanTensorCube-and-ST-MMT-A-Multimodal-Data-and-Transformer_0741958b/full.md",
+  "batch_id": "0741958b-db70-40e8-b7a6-6352b96ccba2",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26794v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/On-Data-Scaling-in-Tabular-ML-More-Data-Better-Generalizatio_4e8222c8/full.md",
+  "batch_id": "4e8222c8-8fa6-4b9b-b2a2-4bca9ad2de25",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26470v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/On-Learning-Expand-and-Sparsify-Representations_543c053f/full.md",
+  "batch_id": "543c053f-02df-40ab-b3ff-7a7523f421c0",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26671v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/PACT-PLAN-AUGMENTED-COORDINATION-VIA-TRACE-GRAPHS-FOR-DYNAMI_6477601a/full.md",
+  "batch_id": "6477601a-09b7-4f2c-b05b-4682e9ccb69a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25605v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/PRISM-Prior-Relational-Information-for-Self-supervised-Model_ee952e9e/full.md",
+  "batch_id": "ee952e9e-e368-4451-b727-70a34f947461",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26153v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Physics-Driven-Framework-for-QoS-Constrained-Satellite-Syste_138b61e3/full.md",
+  "batch_id": "138b61e3-a5e3-49ad-905c-9f8d03b4d508",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26000v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/PnP-CF-A-Consensus-Flow-Matching-Solver-for-General-Inverse_84e911e2/full.md",
+  "batch_id": "84e911e2-b0d9-48d7-a89f-173a662ac009",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26742v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Polar-Switch-Fast-Muon-Orthogonalization-with-Polynomial-Cir_e1303cec/full.md",
+  "batch_id": "e1303cec-a900-4cb1-83c6-279bc0615f7e",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25704v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Predictive-Bandit-Curriculum-Reinforcement-Learning-via-Grad_5e51cc2c/full.md",
+  "batch_id": "5e51cc2c-5cfa-4425-81ca-55b46e2b3715",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26009v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/ProtGlycanDock-Towards-Accurate-Protein-Glycan-Docking-with_9f5120f4/full.md",
+  "batch_id": "9f5120f4-d13e-4692-a073-8dff601d1dd9",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26102v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Provable-Adversarial-Detection-Prime-Quantization-meets-Grom_4b9e2a7b/full.md",
+  "batch_id": "4b9e2a7b-e2e9-4108-bed8-6d3361b131c8",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26437v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/R2-GP-Variance-Calibrated-Priors-for-Additive-Gaussian-Proce_5a27a1b4/full.md",
+  "batch_id": "5a27a1b4-b8eb-4eaa-8948-bdfd15158f98",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26456v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Regime-Aware-Interpretable-Ranking-for-Sector-Rotation_fea43d7d/full.md",
+  "batch_id": "fea43d7d-d9a2-437a-9ef8-386aa189adc1",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26138v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Reinforcement-Learning-Controllers-for-Fusion-Scenario-Devel_4ce48b67/full.md",
+  "batch_id": "4ce48b67-f8d5-4a2c-9173-0cb5654dec56",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26458v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Residual-Based-Adaptive-Refinement-in-Hybrid-Variational-Col_78a12f36/full.md",
+  "batch_id": "78a12f36-fe00-4b7d-a5bd-fad70e545e56",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25873v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Residual-Guided-Adaptive-Tucker-Rank-Allocation-for-Paramete_325cae79/full.md",
+  "batch_id": "325cae79-7572-4389-9c6e-016b24040785",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26252v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/SEAM-Spectral-Embedding-Alignment-and-Merging-for-Low-Resour_5a46828c/full.md",
+  "batch_id": "5a46828c-2bd5-4719-91ec-b874ccd62484",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26628v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/SLEEPPAIRNET-LEARNING-MULTIMODAL-PEDIATRIC-SLEEP-REPRESENTAT_abb1fca4/full.md",
+  "batch_id": "abb1fca4-afc9-41ab-b33e-a84c59bd41f5",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26001v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/SPLASH-Contrastive-Audit-Pressure-for-Detecting-and-Localizi_c547f8de/full.md",
+  "batch_id": "c547f8de-be49-48fa-9c67-08708a6f8ec3",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25699v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/STOCHASTIC-TRACKING-OF-DRIFTING-AFFINE-FIXED-POINTS_6a579442/full.md",
+  "batch_id": "6a579442-7cfd-4633-8d33-2a7b21b211b4",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26577v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/SafeWall-A-Risk-Aware-Job-Walltime-Recommendation-for-HPC-Sc_bf72d373/full.md",
+  "batch_id": "bf72d373-edb6-446d-b5ce-79a85743f1c2",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25643v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Sampling-of-Signals-on-Multigraphs-From-Removable-and-Unique_44eabae0/full.md",
+  "batch_id": "44eabae0-cfd8-4abf-acbe-6914619f275f",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26802v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Scaling-Parameter-Efficient-Fine-Tuning-for-Brain-Encoding_90347017/full.md",
+  "batch_id": "90347017-e085-4983-9168-36dee8d712ca",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26005v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Scenario-Generalization-and-Sector-Transfer-in-Real-Surface_c906fd2b/full.md",
+  "batch_id": "c906fd2b-a21e-4c67-b0af-7bc505c2a6c9",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25806v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Sector-Ring-Linear-Reservoirs-Sector-Wise-Decay-Timescale-Al_c0d71d5f/full.md",
+  "batch_id": "c0d71d5f-e075-4fca-bd01-e3cfcfe2957a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26380v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Selecting-the-Best-Few-with-Human-Evaluators-Adaptively-Comb_09c05133/full.md",
+  "batch_id": "09c05133-a59e-4eed-a87a-7aafa49a463e",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26757v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Simulation-Priors-for-Rapid-Adaptation-in-Model-Based-RL-for_7a34e85c/full.md",
+  "batch_id": "7a34e85c-3b6e-4ef0-ba80-52079766a98a",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25856v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Statistical-Learning-Theory-for-Direct-Preference-Optimizati_79461ffc/full.md",
+  "batch_id": "79461ffc-cdd6-4250-bb99-138abd853d89",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26833v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Supervised-Learning-with-Quantum-Hamiltonian-Embeddings_d6135979/full.md",
+  "batch_id": "d6135979-6f51-4565-b810-08659b40edfa",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26283v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/TRUST-YOUR-TARGETS-IS-TARGET-PROPAGATION-BLOCK-DIAGONAL-GAUS_005494f6/full.md",
+  "batch_id": "005494f6-7ddb-4a69-a9a5-07ec208c9a4b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26795v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/TWO-HIDDEN-LAYERS-SUFFICE-THE-CATERPILLAR-NET_764872f7/full.md",
+  "batch_id": "764872f7-1c56-4f9c-85d6-5c46699a4c5b",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26199v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/TaQFormer-A-Treatment-as-Query-Transformer-with-Data-Fusion_aa8fa964/full.md",
+  "batch_id": "aa8fa964-b070-4df1-80f9-47e57c2399ed",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26777v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Topological-Sheaves-of-Irreducibility-A-Theoretical-Framewor_41ea4dae/full.md",
+  "batch_id": "41ea4dae-c013-498c-9838-6c7e3d3b144c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26029v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Towards-instance-dependent-regret-optimality-in-Episodic-MDP_a9b3a659/full.md",
+  "batch_id": "a9b3a659-1976-4536-816e-9ca3186b2d40",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26790v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Training-with-ML-labeled-Data-via-Stochastic-First-and-Zerot_8ddb2245/full.md",
+  "batch_id": "8ddb2245-903a-4a32-af22-b7a4a6ec2171",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26749v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Trajectory-Replay-Continuous-Time-Mixture-Transport-for-Life_7d8de3aa/full.md",
+  "batch_id": "7d8de3aa-0b5d-47d7-9176-0a703a580acf",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26030v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Truncate-or-Not-A-Scaling-Study-of-Looped-Transformers-with_7dbd2624/full.md",
+  "batch_id": "7dbd2624-f087-4caf-bd19-fcdf0b95c738",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25635v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Uncertainty-Gated-SHAP-Dirichlet-Refinement-for-MRI-Based-De_865475f8/full.md",
+  "batch_id": "865475f8-c652-4025-bc74-5053bea272ef",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26116v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Variance-Aware-Non-Stationary-Bandits-All-Budget-Regret-Boun_75103550/full.md",
+  "batch_id": "75103550-a968-4940-a2a6-8c7439177b9d",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.26486v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Wet-Biased-Data-Pipelines-Mislead-the-Training-and-Evaluatio_4bbd30f6/full.md",
+  "batch_id": "4bbd30f6-1965-463a-9c57-11c91931da78",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25752v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/Which-Answers-Agree-Evaluating-Self-Consistency-from-Incompl_50a5849e/full.md",
+  "batch_id": "50a5849e-cf62-4f77-b290-667ee58eeb2c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
+ },
+ {
+  "source": "https://arxiv.org/pdf/2610.25625v1.pdf",
+  "repo": "ZhangCurosr/zhangcursor-papers-arxiv-lg-002",
+  "path": "2026-10-20/ZEPHYRUS-R1-AGENTIC-REINFORCEMENT-LEARNING-FOR-WEATHER-REPOR_130730d9/full.md",
+  "batch_id": "130730d9-2ba4-4eef-8151-28d1afa00b7c",
+  "venue": "arXiv",
+  "synced_at": "2026-10-20 07:47:58"
  }
 ]
