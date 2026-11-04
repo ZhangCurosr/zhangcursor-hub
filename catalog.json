@@ -3,8 +3,8 @@
   "ZhangCurosr/zhangcursor-papers-naacl-2022-001": 200
  },
  "ACL 2023": {
-  "ZhangCurosr/zhangcursor-papers-acl-2023-001": 193,
-  "ZhangCurosr/zhangcursor-papers-acl-2023-002": 7
+  "ZhangCurosr/zhangcursor-papers-acl-2023-001": 186,
+  "ZhangCurosr/zhangcursor-papers-acl-2023-002": 14
  },
  "EMNLP 2023": {
   "ZhangCurosr/zhangcursor-papers-emnlp-2023-001": 191,
@@ -15,41 +15,41 @@
   "ZhangCurosr/zhangcursor-papers-acl-2024-002": 7
  },
  "EMNLP 2024": {
-  "ZhangCurosr/zhangcursor-papers-emnlp-2024-001": 194,
-  "ZhangCurosr/zhangcursor-papers-emnlp-2024-002": 7
+  "ZhangCurosr/zhangcursor-papers-emnlp-2024-001": 146,
+  "ZhangCurosr/zhangcursor-papers-emnlp-2024-002": 55
  },
  "NAACL 2024": {
   "ZhangCurosr/zhangcursor-papers-naacl-2024-001": 196,
   "ZhangCurosr/zhangcursor-papers-naacl-2024-002": 4
  },
  "ACL 2025": {
-  "ZhangCurosr/zhangcursor-papers-acl-2025-001": 193,
-  "ZhangCurosr/zhangcursor-papers-acl-2025-002": 7
+  "ZhangCurosr/zhangcursor-papers-acl-2025-001": 125,
+  "ZhangCurosr/zhangcursor-papers-acl-2025-002": 75
  },
  "COLING 2025": {
   "ZhangCurosr/zhangcursor-papers-coling-2025-001": 191,
   "ZhangCurosr/zhangcursor-papers-coling-2025-002": 9
  },
  "EMNLP 2025": {
-  "ZhangCurosr/zhangcursor-papers-emnlp-2025-001": 195,
-  "ZhangCurosr/zhangcursor-papers-emnlp-2025-002": 5
+  "ZhangCurosr/zhangcursor-papers-emnlp-2025-001": 147,
+  "ZhangCurosr/zhangcursor-papers-emnlp-2025-002": 53
  },
  "NAACL 2025": {
   "ZhangCurosr/zhangcursor-papers-naacl-2025-001": 193,
   "ZhangCurosr/zhangcursor-papers-naacl-2025-002": 7
  },
  "arXiv": {
-  "ZhangCurosr/zhangcursor-papers-arxiv-cv-002": 1269,
-  "ZhangCurosr/zhangcursor-papers-arxiv-lg-001": 3684,
-  "ZhangCurosr/zhangcursor-papers-arxiv-ai-001": 1860,
-  "ZhangCurosr/zhangcursor-papers-arxiv-cl-001": 2444,
-  "ZhangCurosr/zhangcursor-papers-arxiv-cv-001": 1527,
-  "ZhangCurosr/zhangcursor-papers-arxiv-lg-002": 1613,
-  "ZhangCurosr/zhangcursor-papers-arxiv-ai-002": 961,
-  "ZhangCurosr/zhangcursor-papers-arxiv-cv-003": 665,
+  "ZhangCurosr/zhangcursor-papers-arxiv-cv-002": 1307,
+  "ZhangCurosr/zhangcursor-papers-arxiv-lg-001": 3788,
+  "ZhangCurosr/zhangcursor-papers-arxiv-ai-001": 1914,
+  "ZhangCurosr/zhangcursor-papers-arxiv-cl-001": 2488,
+  "ZhangCurosr/zhangcursor-papers-arxiv-cv-001": 1568,
+  "ZhangCurosr/zhangcursor-papers-arxiv-lg-002": 1674,
+  "ZhangCurosr/zhangcursor-papers-arxiv-ai-002": 1006,
+  "ZhangCurosr/zhangcursor-papers-arxiv-cv-003": 698,
   "ZhangCurosr/zhangcursor-papers-arxiv-cl-002": 71,
   "ZhangCurosr/zhangcursor-papers-arxiv-ai-003": 293,
-  "ZhangCurosr/zhangcursor-papers-arxiv-cv-004": 266,
+  "ZhangCurosr/zhangcursor-papers-arxiv-cv-004": 274,
   "ZhangCurosr/zhangcursor-papers-arxiv-lg-003": 497,
   "ZhangCurosr/zhangcursor-papers-arxiv-cv-005": 130,
   "ZhangCurosr/zhangcursor-papers-arxiv-cv-006": 62,
@@ -62,9 +62,9 @@
   "ZhangCurosr/zhangcursor-papers-cvpr-2023-002": 85
  },
  "CVPR 2024": {
-  "ZhangCurosr/zhangcursor-papers-cvpr-2024-001": 215,
-  "ZhangCurosr/zhangcursor-papers-cvpr-2024-003": 33,
-  "ZhangCurosr/zhangcursor-papers-cvpr-2024-002": 95
+  "ZhangCurosr/zhangcursor-papers-cvpr-2024-001": 222,
+  "ZhangCurosr/zhangcursor-papers-cvpr-2024-003": 11,
+  "ZhangCurosr/zhangcursor-papers-cvpr-2024-002": 110
  },
  "CVPR 2025": {
   "ZhangCurosr/zhangcursor-papers-cvpr-2025-001": 182,
@@ -72,7 +72,7 @@
   "ZhangCurosr/zhangcursor-papers-cvpr-2025-003": 9
  },
  "ICCV 2023": {
-  "ZhangCurosr/zhangcursor-papers-iccv-2023-001": 97,
-  "ZhangCurosr/zhangcursor-papers-iccv-2023-002": 103
+  "ZhangCurosr/zhangcursor-papers-iccv-2023-001": 112,
+  "ZhangCurosr/zhangcursor-papers-iccv-2023-002": 88
  }
 }
