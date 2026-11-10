@@ -45,8 +45,8 @@
 | [`ZhangCurosr/zhangcursor-papers-acl-2024-002`](https://github.com/ZhangCurosr/zhangcursor-papers-acl-2024-002) | 7 |
 | [`ZhangCurosr/zhangcursor-papers-acl-2025-001`](https://github.com/ZhangCurosr/zhangcursor-papers-acl-2025-001) | 125 |
 | [`ZhangCurosr/zhangcursor-papers-acl-2025-002`](https://github.com/ZhangCurosr/zhangcursor-papers-acl-2025-002) | 75 |
-| [`ZhangCurosr/zhangcursor-papers-arxiv-ai-001`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-ai-001) | 2035 |
-| [`ZhangCurosr/zhangcursor-papers-arxiv-ai-002`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-ai-002) | 1102 |
+| [`ZhangCurosr/zhangcursor-papers-arxiv-ai-001`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-ai-001) | 2036 |
+| [`ZhangCurosr/zhangcursor-papers-arxiv-ai-002`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-ai-002) | 1103 |
 | [`ZhangCurosr/zhangcursor-papers-arxiv-ai-003`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-ai-003) | 293 |
 | [`ZhangCurosr/zhangcursor-papers-arxiv-ai-004`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-ai-004) | 21 |
 | [`ZhangCurosr/zhangcursor-papers-arxiv-cl-001`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cl-001) | 2632 |
@@ -58,8 +58,8 @@
 | [`ZhangCurosr/zhangcursor-papers-arxiv-cv-005`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cv-005) | 130 |
 | [`ZhangCurosr/zhangcursor-papers-arxiv-cv-006`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cv-006) | 62 |
 | [`ZhangCurosr/zhangcursor-papers-arxiv-cv-007`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-cv-007) | 25 |
-| [`ZhangCurosr/zhangcursor-papers-arxiv-lg-001`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-lg-001) | 4099 |
-| [`ZhangCurosr/zhangcursor-papers-arxiv-lg-002`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-lg-002) | 1856 |
+| [`ZhangCurosr/zhangcursor-papers-arxiv-lg-001`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-lg-001) | 4098 |
+| [`ZhangCurosr/zhangcursor-papers-arxiv-lg-002`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-lg-002) | 1855 |
 | [`ZhangCurosr/zhangcursor-papers-arxiv-lg-003`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-lg-003) | 497 |
 | [`ZhangCurosr/zhangcursor-papers-arxiv-lg-004`](https://github.com/ZhangCurosr/zhangcursor-papers-arxiv-lg-004) | 28 |
 | [`ZhangCurosr/zhangcursor-papers-coling-2025-001`](https://github.com/ZhangCurosr/zhangcursor-papers-coling-2025-001) | 191 |
